@@ -1,0 +1,102 @@
+<div class="navbar">
+<i class='bx bx-menu'></i>
+<div class="logo"><a href="#"><img src="../../images/layout/dnnas-logo.png"></a></div>
+<div class="nav-links">
+  <div class="sidebar-logo">
+	<span class="logo-name">Menu</span>
+	<i class='bx bx-x' ></i>
+  </div>
+  <ul class="links">
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a href="index.php" _ed_editable>Inicio</a></li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable href="sobre-nos.php">Sobre Nós</a>
+	  <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+	  <ul class="htmlCss-sub-menu sub-menu">
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="mensagem-do-director.php"   _ed_editable="">Mensagem do Director</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="sobre-nos.php">Quem Somos</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="missao-visao-e-valores.php">Missão, Visão e Valores</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="objectivos.php">Objectivos</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="organograma.php">Organograma</a></li>
+	  </ul>
+	</li>
+	 <li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable>Actuação</a>
+	  <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+	  <ul class="htmlCss-sub-menu sub-menu">
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="abastecimento-de-agua-rural.php">Abastecimento de Água Rural</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="abastecimento-de-agua-urbana.php">Abastecimento de Água Urbana</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="saneamento-rural.php">Saneamento Rural</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="saneamento-urbano.php">Saneamento Urbano</a></li>
+	  </ul>
+	</li>
+	 <li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable>Coberturas</a>
+	  <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+	  <ul class="htmlCss-sub-menu sub-menu">
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="cobertura-de-abastecimento-de-agua.php">Cobertura de Abastecimento de Água</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="cobertura-de-saneamento.php">Cobertura de Saneamento</a></li>
+	  </ul>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable>Projectos</a>
+	  <i class='bx bxs-chevron-down js-arrow arrow'></i>
+	  <div class="sub-menu column-2">
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="pronasar.php">PRONASAR</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="sinas.php"">SINAS</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="psa.php"">Projecto de Saneamento Ambiental</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="pravida.php">PRAVIDA</a></li>
+		  </ul>
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="lona.php">Lona</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="projecto-de-saneamento-urbano.php">Projecto de Saneamento Urbano</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="regenera.php">Regenera</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="projecto-de-reconstrucao-de-cabo-delgado.php">Projecto de Reconstrução de Cabo Delgado</a></li>
+		  </ul>
+	  </div>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable>Comunicação</a>
+	  <i class='bx bxs-chevron-down js-arrow arrow '></i>
+	  <div class="sub-menu column-2">
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="noticias.php">Notícias</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="comunicados-de-imprensa.php">Comunicados de Imprensa</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="eventos.php">Galeria de Imagens</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="videos.php">Vídeos</a></li>
+		  </ul>
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="apresentacoes.php">Apresentações</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="avisos.php">Avisos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="concursos-publicos.php">Concursos Públicos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="anuncio.php">Anúncio</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="conferencias.php">Conferências</a></li>
+		  </ul>
+	  </div>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable>Documentação</a>
+	  <i class='bx bxs-chevron-down js-arrow arrow '></i>
+	  <div class="sub-menu column-2">
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="relatorios-do-sector.php">Relatórios do Sector</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="regulamentos.php">Regulamentos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="decretos.php">Decretos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="documentos-orientadores.php">Documentos Orientadores</a></li>
+		  </ul>
+		  <ul>
+			
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="legislacao.php">Legislação</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable  href="estudos-e-investigacoes.php">Estudos e Investigações</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable href="salvaguardas-ambientais-e-sociais.php">Salvaguardas Ambientais e Sociais</a></li>
+		  </ul>
+	  </div>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a href="contactos.php" _ed_editable>Contacto</a></li>
+  </ul>
+</div>
+<div class="search-box">
+  <i class='bx bx-search'></i>
+  <input style="border-radius: 5px" type="text" placeholder="Persquisar...">
+</div>
+</div>
