@@ -89,7 +89,9 @@
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="legislacao.php">Legislação</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="estudos-e-investigacoes.php">Estudos e Investigações</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="salvaguardas-ambientais-e-sociais.php" class="">Salvaguardas Ambientais e Sociais</a></li>
-		  </ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			</ul>
+		  
 	  </div>
 	</li>
 	<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a href="contactos.php" _ed_editable="" class="">Contacto</a></li>

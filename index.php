@@ -405,6 +405,25 @@ kQuery(function($) {
 	            <img src="../../images/layout/mophrh.png" width="41px" height="40px">
 </div>
 
+<div class="header-2">
+   <div class="logo-container">
+      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
+	  <div>
+	     <span class="dnaas">DNAAS</span><br/>
+		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
+
+	  </div>
+   </div>
+
+   <div class="right-side">
+     <div>
+	 <img src="rp.png" style="height:35px;width:35px">
+     <span class="r">República de Moçambique</span>
+	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
+	 </div>
+   </div>
+</div>
+
 
 <div class="editing-painel" style="display: none;">
         <input type="text" id="copy-to-clipboard" style="position: absolute;pointer-events: none;opacity: 0;">
@@ -712,25 +731,132 @@ kQuery(function($) {
    </div>  
 
  
+<!--<div class="_ed_not_editable_c _flex  _ed_container _strapi_noticias" last_news_count="3">
+
+  <div class="_loader">
+			<div></div>
+ </div>
+</div>-->
+
+
+
+<div class="separate-last-news">
+   <div class="_ed_not_editable_c _flex home  _ed_container" last_news_count="3">
+
+                <div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
+
+
+                  <div class="_image">
+                                 <span class="date" spellcheck="false" contenteditable="true">22 de Março de 2024</span>
+                                 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt22-03.jpg">
+                  <span class="_image-size" _ed_show="">358 X 240</span>
+                         </div>
+                         <div class="_text-content">
+                                <a href="index.php" class="title" _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; text-transform: none; white-space-collapse: preserve;">
+MOÇAMBIQUE CELEBRA O DIA MUNDIAL DA ÁGUA COM COMPROMISSO RENOVADO COM A PAZ E O DESENVOLVIMENTO SUSTENTÁVEL  </span><br></a>                                 <p _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">O ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, _considera que a prosperidade e a paz dependem da água, sendo que à medida que o País implementa as políticas para enfrentar os desafios das alterações climáticas, a migração em massa e a instabilidade política, deve se colocar a cooperação no domínio da água no centro dos nossos planos</span><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">...</span></p>
+                                 <div class="read_more">
+                                        <a href="https://dnaas.gov.mz/ntd-22-03-24.php">
+                                                                        Ler Mais
+                                                <i class="fa fa-long-arrow-right"></i>
+                                        </a>
+                                 </div>
+                         </div>
+        </div>
+
+		<div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
+
+
+                  <div class="_image">
+                                 <span class="date" spellcheck="false" contenteditable="true">20 de Março de 2024</span>
+                                 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt20-03.jpg">
+                  <span class="_image-size" _ed_show="">358 X 240</span>
+                         </div>
+                         <div class="_text-content">
+                                <a href="index.php" class="title" _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; text-transform: none; white-space-collapse: preserve;">
+SECTOR DE ÁGUA E SANEAMENTO CELEBRA A APROVAÇÃO UNÂNIME E DEFINITIVA DA LEI DE ABASTECIMENTO DE ÁGUA E SANEAMENTO  </span><br></a>                                 <p _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">Na conferência de imprensa realizada hoje, 20 de Março, na Assembleia da República, o Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, expressou agradecimentos a todos os envolvidos na preparação da Lei de Abastecimento de Água </span><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">...</span></p>
+                                 <div class="read_more">
+                                        <a href="https://dnaas.gov.mz/ntd-20-03-24.php">
+                                                                        Ler Mais
+                                                <i class="fa fa-long-arrow-right"></i>
+                                        </a>
+                                 </div>
+                         </div>
+        </div>
+
+		 <div class="sinas-box">
+         <div class="content">
+		       <div class="title"> SINAS - Sistema nacional de informação sobre abastecimento de água e saneamento</div>
+
+			   <a href="">
+				<div class="img">
+					<img src="../../images/projectos/sinas.png">
+				</div>
+			   </a>
+
+		 </div>
+   </div>
+
+	<div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
+            
+	         
+	          <div class="_image">
+		 	 	 <span class="date" spellcheck="false" contenteditable="true">08 de Março de 2024</span>
+		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt08-03.jpg">
+                  <span class="_image-size" _ed_show="">358 X 240</span>
+		 	 </div>
+		 	 <div class="_text-content">
+			 	<a href="index.php" class="title" _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; text-transform: none; white-space-collapse: preserve;">
+SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SISTEMAS PÚBLICOS DE DISTRIBUIÇÃO DE ÁGUA E EFICIÊNCIA ENERGÉTICA </span><br></a>
+			 	 <p _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">Direção Nacional de Abastecimento de Água e Saneamento e a AIAS, IP - Administração de Infraestruturas de Água e Saneamento realizaram, hoje, 08 de março de 2024, em Maputo, um seminário</span><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">...</span></p>
+			 	 <div class="read_more">
+					<a href="https://dnaas.gov.mz/ntd-08-03-24.php">
+									Ler Mais								
+						<i class="fa fa-long-arrow-right"></i>
+					</a>
+				 </div>
+		 	 </div>
+	</div>
+
+	
+	
+</div>
+
+</div>
+
+<!--
+
+<div class="_flex _ed_container _strapi_documentos">
+
+	     <div class="_loader">
+			<div></div>
+		</div>
+
+
+</div>
+
+
 <div class="_ed_not_editable_c _flex  _ed_container _strapi_noticias" last_news_count="3">
 
   <div class="_loader">
 			<div></div>
-		</div>
+  </div>
 </div>
 
+-->
 
 
 
 
-
-
-
-<div class="_publicacoes">
+<div class="_publicacoes home">
     
 	<div class="_p_content">
-		
-   <div class="_title_section">
+	
+
+<div class="separete-documents">
+    
+     <div class="docs">
+
+<div class="_title_section">
 	<div class="_line _left">
 		<span class="s1"></span>
 		<span class="s2"></span>
@@ -744,14 +870,76 @@ kQuery(function($) {
 	</div>
 </div>
 
-<div class="_flex _ed_container _strapi_documentos">
+	     <div class="_flex _ed_container _strapi_documentos_">
 
-	     <div class="_loader">
-			<div></div>
+			<div style="display:none" class="_loader">
+				<div></div>
+			</div>
+
+		<div class="_div anu _ed _ed_item" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.6094561805330574"> 
+		 	<div class="_top" onclick="pub_show_more(this)">
+			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+			 	<div class="_text">
+					<h3 _ed_editable="">Contratação de Consultor de Transações para avaliação dos desafios na Lei da parceria público-privado para o investimento privado no abastecimento de água&nbsp;</h3>
+					<span _ed_editable="">12/12/2023</span>
+			 	</div>
+			 	<div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+		 	</div>
+		 	<div class="_content">
+			 
+		 	</div>
+
+		 	<div class="_content">
+		 		<a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="documentos-media/SOW for Transactional Advisory - PPP Law_FINAL.pdf"><button>Download</button></a>
+		 	</div>
+        </div>
+
+
+</div>
+	
+	 </div>
+
+	 <div class="video">
+
+	 
+<div class="_video_section">
+	<div class="content">
+		<div class="_title_section">
+			<div class="_line _left">
+				<span class="s1"></span>
+				<span class="s2"></span>
+				<span class="s3"></span>
+			</div>
+			<h3 class="_title" _ed_editable="">Vídeo em destaque</h3>
+			<div class="_line _right">
+				<span class="s3"></span>
+				<span class="s2"></span>
+				<span class="s1"></span>
+			</div>
 		</div>
 
+		<div class="_ed _ed_item" _ed_model="_ed_model_option_3">
+			<iframe class="main-y-video" max-width="800" max-height="450" src="https://www.youtube.com/embed/Mi0_YJEgKqo" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="400" height="300" frameborder="0"></iframe>
+		</div>
+	
 
 	</div>
+
+	<div class="_see_more" style="margin-bottom: 20px"><a href="videos.php"><span>Ver mais Vídeos <i class="fa fa-long-arrow-right"></i></span></a></div>
+
+		
+</div>
+
+	 </div>
+
+
+</div>
+
+
+
+
+
+
 </div>
 </div>
 
@@ -802,43 +990,6 @@ kQuery(function($) {
 	   	  </div>
 </div>
 
-<div class="_video_section">
-	<div class="content">
-		<div class="_title_section">
-			<div class="_line _left">
-				<span class="s1"></span>
-				<span class="s2"></span>
-				<span class="s3"></span>
-			</div>
-			<h3 class="_title" _ed_editable="">Vídeo em destaque</h3>
-			<div class="_line _right">
-				<span class="s3"></span>
-				<span class="s2"></span>
-				<span class="s1"></span>
-			</div>
-		</div>
-
-		<div class="_ed _ed_item" _ed_model="_ed_model_option_3">
-			<iframe class="main-y-video" max-width="800" max-height="450" src="https://www.youtube.com/embed/Mi0_YJEgKqo" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="0" height="0" frameborder="0"></iframe>
-		</div>
-		
-      <!--  <div class="video-container">
-        	<img src="../../images/_video-icons/play.png" play_icon>
-        	<video controls autoplay width="100%" >
-	   					  <source src="../../videos/_galeria-de-videos/1.mp4" type="video/mp4">
-	  		</video>
-	  		<div class="bg-img">
-	  			
-	  		</div>
-        </div>
-		-->
-
-	</div>
-
-	<div class="_see_more" style="margin-bottom: 20px"><a href="videos.php"><span>Ver mais Vídeos <i class="fa fa-long-arrow-right"></i></span></a></div>
-
-		
-</div>
 
  
 
@@ -846,15 +997,15 @@ kQuery(function($) {
 
 
 
-<section id="client" class="sppb-section " style="padding:50px 0;"><div class="sppb-container">
+<section id="client" class="sppb-section " style="padding-top:10px;"><div class="sppb-container">
 	
-<div class="_title_section">
+<div class="_title_section" style="padding:0">
 	<div class="_line _left">
 		<span class="s1"></span>
 		<span class="s2"></span>
 		<span class="s3"></span>
 	</div>
-	<h3 class="_title" _ed_editable="">PARCEIROS</h3>
+	<h3 class="_title" _ed_editable="" >PARCEIROS</h3>
 	<div class="_line _right">
 		<span class="s3"></span>
 		<span class="s2"></span>
@@ -1013,7 +1164,7 @@ kQuery(function($) {
 <div class="t3-copyright">
 <div class="custom">
 
-<p>Copyright © 2023 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por&nbsp;&nbsp;<strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
+<p>Copyright © 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por&nbsp;&nbsp;<strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
 
 </div>
 </div></footer>

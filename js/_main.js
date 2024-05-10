@@ -138,9 +138,10 @@ document.querySelector('._main_silder_editing_painel .bg').addEventListener('cli
 try{
 
 function resize_main_y_video() {
+  
   if (window.innerWidth - (window.innerWidth/5) > 800) {
-    document.querySelector('.main-y-video').width=800
-    document.querySelector('.main-y-video').height=450
+    document.querySelector('.main-y-video').width=300
+    document.querySelector('.main-y-video').height=400
   }else{
     document.querySelector('.main-y-video').width=window.innerWidth - (window.innerWidth/5)
     document.querySelector('.main-y-video').height=window.innerWidth / 2
@@ -513,6 +514,8 @@ _int=setInterval(()=>{
 window.addEventListener('load',()=>{
   strapi()
 })
+
+
 
 function send_email() {
         const name=document.querySelector('._contact form input[name=name]').value
