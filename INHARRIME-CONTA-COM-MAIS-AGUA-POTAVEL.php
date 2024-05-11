@@ -2,15 +2,13 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
-
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | 250 MILHÕES USD: BANCO MUNDIAL VAI FINANCIAR PROJECTO DE SEGURANÇA HÍDRICA URBANA NO PAÍS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +38,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +339,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +371,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -386,21 +383,22 @@ kQuery(function($) {
 	</div>
 </div>  
 
+
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+       <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+   
 
 
         
@@ -451,21 +449,43 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>INHARRIME CONTA COM MAIS ÁGUA POTÁVEL</h2>
+			<div class="image">
+				<img src="../../images/noticias/INHARRIME-CONTA-COM-MAIS-AGUA-POTAVEL.jpg">
+				<div class="date">
+				<span _ed_editable>24 de Março de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Mais de 1.700 pessoas da Localidade de Massafane no Distrito de Inharrime, já consomem água potável, com a inauguração e entrega pelo Governo da Província de Inhambane Daniel Chapo, de um novo Sistema de Abastecimento de Água, na passada quarta-feira, 22 de Março, data, em que Moçambique e o resto do Mundo  celebraram o Dia Mundial da Água, e em Nova Iorque, nos EUA, decorria a Conferência Mundial sobre Águas, na qual reflectiu-se sobre os impactos da dispersão da população para o provimento deste recurso precioso e cada vez escasso. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Trata-se de um sistema composto por dois furos com as respectivas bombas, com uma capacidade instalada de 7m³/h em simultâneo, depósito elevado de 30m³, 15 m³/h, um armazém, casa de máquinas, uma casa para o gestor, uma rede de extensão de 8 km que, vai beneficiar à 6.000 habitantes.  </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"> 
+Neste momento está ligado à 3 fontanários com duas bicas cada e 175 ligações domiciliares, adicionadas ao Centro de Saúde e a Escola Primária do I e II Graus locais. O mesmo foi financiado pelo PRONASAR, Programa Nacional de Abastecimento de Água e Saneamento. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na ocasião Daniel Chapo, assegurou que o Governo irá continuar a apostar na provisão dos serviços de abastecimento de água potável, com vista a garantir a melhoria das condições de vida das população e apelou para conservar as infra-estruturas, e a pautar por uma gestão sustentável da água. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A inauguração acontece à margem da Celebração do Dia Mundial de Água que decorre sob o lema: "Libertar os Caminhos da Água, a Mudança que queremos hoje para evitar Cheias e Inundações. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+De acordo com Daniel Chapo, a data é comemorada numa altura em que o País e a Província em particular, foram afectados pelo Ciclone FREDDY, dai que apelou a população para reflectir sobre o seu comportamento em relação aos cursos de água.  </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Para Chapo, mesmo que sejam construídas grandes obras de engenharia adopção de tecnologias de ponta, para conter as águas, se não houver mudança de comportamento do homem com destaque para a demarcação consciente dos talhões para habitação, gestão de resíduos sólidos entre outras acções que comprometam o meio ambiente, continuarão a ser assolados por estas intempéries. </p>
 
 
+
+
+
+
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,16 +623,18 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
-	   </script>
+</script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 

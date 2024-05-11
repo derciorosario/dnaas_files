@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
+
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | 250 MILHÕES USD: BANCO MUNDIAL VAI FINANCIAR PROJECTO DE SEGURANÇA HÍDRICA URBANA NO PAÍS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,6 +40,7 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+
   
   <style type="text/css">
 
@@ -342,7 +343,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +375,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -386,12 +387,15 @@ kQuery(function($) {
 	</div>
 </div>  
 
+
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+        
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -400,8 +404,6 @@ kQuery(function($) {
 
 </div>
   
-        
-
 
         
 
@@ -451,21 +453,52 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>EM NOVA IORQUE: CARLOS MESQUITA PRESIDE À SESSÃO DO CONSELHO DE SEGURANÇA SOBRE DIREITOS CIVIS À ÁGUA E ASSINA ACORDO PARA PROTECÇÃO COSTEIRA DA CIDADE DA BEIRA</h2>
+			<div class="image">
+				<img src="../../images/noticias/EM-NOVA-IORQUE-CARLOS-MESQUITA-PRESIDE-A-SESSAO-DO-CONSELHO-DE-SEGURANÇA-SOBRE-DIREITOS-CIVIS-A-AGUA-E-ASSINA-ACORDO-PARA-PROTECCAO-COSTEIRA-DA-CIDADE-DA-BEIRA.jpg">
+				<div class="date">
+				<span _ed_editable>23 de Março de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+No dia em que Moçambique e o resto do Mundo celebraram o Dia Mundial da Água, a 22 de Março, o Ministro das Obras Públicas, Habitação e Recursos Hídricos presidiu, em Nova Iorque, nos EUA, à Conferência Mundial sobre Águas, na qual a tónica dominante do primeiro dia foi a necessidade de reflexão sobre os impactos da dispersão da população para o provimento deste recurso precioso e cada vez escasso.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+No dia 23, quinta-feira, Carlos Mesquita discursou na plenária, perante vários líderes mundiais que se juntaram em Nova Iorque, para debater a questão da provisão e gestão da água, à escala global, tendo partilhado as reformas signficativas que o nosso País está adoptar no sector de abastecimento de água e saneamento e que visam aumentar o acesso a serviços de água com segurança e resiliência.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na ocasião, Carlos Mesquita referiu que a elaboração e aprovação da Lei de Abastecimento de Água e Saneamento “é fundamental para a dinâmica das reformas estruturais e vem preencher uma lacuna existente e identificada” encontrando-se, actualmente, em processo de elaboração. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+No entanto, subsistem vários desafios, dentre os quais a necessidade de partilhar, dentro e fora do sector, os princípios fundamentais da prestação de serviços de abastecimento de água e saneamento, a questão do serviço público universal, a equidade social e a coesão territorial.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O direito de acesso e utilização dos serviços, a transparência, a responsabilidade e a boa governação, o financiamento das infraestruturas e a gestão dos bens do domínio público, assente em princípios de recuperação de custos, essencialmente através de tarifas, de acordo com o princípio utilizador-pagador, Paridade de Poder de Compra (PPP) e gestão delegada, constituem outros dos desafios referidos por Carlos Mesquita.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Por outro lado, é necessário reforçar a capacidade institucional e técnica, a nível central e local, nos prestadores de serviços, criando mecanismos para a sua sustentabilidade, por isso é necessário instituir por lei uma entidade reguladora forte, com bastante empoderamento e que deve prosseguir os desafios sobre a questão das empresas regionais de água, em particular:
+“Esperamos com esta lei aumentar a capacidade do regulador para definir os parâmetros de envolvimento do sector privado nos serviços de água e saneamento”, acrescentou Mesquita.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+No decurso desta deslocação a Nova Iorque, Ministro das Obras Públicas, Habitação e Recursos Hídricos rubricou ainda o acordo de financiamento com o Governo da Holanda, através da Invest International, referente ao projecto da protecção costeira da Cidade da Beira, num orçamento de 30 milhões de dólares norte-americanos, num projecto avaliado no total em 60 milhões de dólares norte-americanos, sendo o remanescente financiado pelo Banco Mundial. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+De referir que o projecto visa melhorar a resiliência da cidade da Beira, de modo a melhor responder aos futuros eventos climáticos, visando reduzir os impactos em infraestruturas e em pessoas. 
+Com este projecto, será construída uma protecção de cerca de 4km e o lançamento do concurso de obras está previsto para Julho de 2023, com um prazo de 18 meses.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Além de melhorar a resiliência das infraestruturas, o projecto vai melhorar a vida das comunidades, duma cidade com cerca de 800 mil habitantes.</p>
 
 
+
+
+
+
+
+
+
+
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,19 +636,23 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

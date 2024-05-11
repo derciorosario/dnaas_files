@@ -1,11 +1,15 @@
 <!DOCTYPE html>
+
+  <?php
+                  session_start();
+           ?>
 								<html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
- 								<!-- Added by HTTrack --><head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
-</style><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+ 								<head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
+</style><meta http-equiv="content-type" content="text/html;charset=utf-8">
 
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Grupo de Água e Saneamento - DNAAS</title>
+  <title>APROVADA  POR UNANIMIDADE A LEI DE ABASTECIMENTO DE ÁGUA E SANEAMENTO EM MOÇAMBIQUE</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css">
@@ -32,9 +36,10 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css">
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css">
-     <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
+  <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css">
+   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
   <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">
-
+  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -335,7 +340,7 @@ kQuery(function($) {
 <!-- You can add Google Analytics here or use T3 Injection feature -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap" async="" defer=""></script>
-<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg" _ed_edit="false" _ed_active="false">
 
  
  
@@ -343,38 +348,14 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
-				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
+	<div class="top-header increase" style="margin-top: 0px;">
+				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable="">A+</span> <span class="center" not_resizable="">|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable="">A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
-<div class="header-2">
-   <div class="logo-container">
-      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
-	  <div>
-	     <span class="dnaas">DNAAS</span><br/>
-		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
-
-	  </div>
-   </div>
-
-   <div class="right-side">
-     <div>
-	 <img src="rp.png" style="height:35px;width:35px">
-     <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
-	 </div>
-   </div>
-   </div>
 	<!-- //SPOTLIGHT 1 -->
 
-    <div class="editing-painel" style="display: none;"></div>
-   <div class="form-loader" style="display: none;">
-	<div class="loader-c">
-		 <div class="loader">
-		 	 
-		 </div>
-	</div>
-</div>      
+   <div class="editing-painel" style="display: none;"></div>
+        
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -384,7 +365,7 @@ kQuery(function($) {
 	</div>
 </div>  
 
-<nav style="display: block;" class=""><div class="navbar">
+<nav style="display: block;" class="float"><div class="navbar">
 <i class="bx bx-menu"></i>
 <div class="logo"><a href="#"><img src="../../images/layout/dnnas-logo.png"></a></div>
 <div class="nav-links">
@@ -456,6 +437,7 @@ kQuery(function($) {
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
 		  </ul>
 	  </div>
@@ -546,7 +528,7 @@ kQuery(function($) {
 		</div>
 	</div></div>
   
-         
+        
 
 
         
@@ -574,24 +556,22 @@ kQuery(function($) {
 
 
 
-
+<!--
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1" style="background-image: url(../../images/_main/2.jpg)">
-			<div class="fill" _ed_hover_border="" onclick="_ed_change_bottom_img(this.parentElement)"></div>
-			<div class="_text_sub" _ed_editable="">Grupo de Água e Saneamento</div>
+		<div class="_slide s1">
+			<div class="_text_sub">NotÃ­cias</div>
 		</div>
 	</div>
-</div>
-<div class="_long-bar" style="height: 1px"></div>
+</div>-->
 
 
 
 
 
-<section class="sppb-section " style="padding:50px 0 0 0;">
+
+<section class="sppb-section " style="padding:0;">
 	<div class="sppb-container">
-	
 
 	
 </div>
@@ -599,39 +579,88 @@ kQuery(function($) {
 
 
 
-
-<div class="_publicacoes">
-	<div class="_p_content">
-		
-   <div class="_title_section">
-	<div class="_line _left">
-		<span class="s1"></span>
-		<span class="s2"></span>
-		<span class="s3"></span>
+<div class="_news">
+	 <div class="content" style="margin-bottom: 0">
+                <div class="_n">
+                        <h2 _ed_editable="">SECTOR DE ÁGUA E SANEAMENTO CELEBRA A APROVAÇÃO UNÂNIME E DEFINITIVA DA LEI DE ABASTECIMENTO DE ÁGUA E SANEAMENTO </h2>
+                        <div class="image">
+                                <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt20-03.jpg">
+                                <div class="date">
+				<span _ed_editable="">20 de Março de 2024</span>	
 	</div>
-	<h3 class="_title" _ed_editable="">Grupo de Água e Saneamento</h3>
-	<div class="_line _right">
-		<span class="s3"></span>
-		<span class="s2"></span>
-		<span class="s1"></span>
-	</div>
-</div>
+			</div>
+			
+			
+			<div class="text">
 
 
 
-	<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
-		<div class="_loader">
-			<div></div>
+
+
+
+
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5">&nbsp;<span style="background-color: transparent;">
+
+
+<p>Na conferência de imprensa realizada hoje, 20 de Março, na Assembleia da República, o Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, expressou agradecimentos a todos os envolvidos na preparação da Lei de Abastecimento de Água e Saneamento, aprovada recentemente. Mesquita destacou o intenso trabalho de dois anos e enfatizou a importância da colaboração unânime dos deputados de todas as bancadas parlamentares na aprovação da lei.</p>
+
+<p>A lei, aprovada por Unanimidade e em Definitivo,  foi elaborada com base na experiência passada e nas expectativas para o futuro, reflecte um compromisso do governo em garantir um acesso equitativo aos serviços de água e saneamento, promovendo o desenvolvimento sustentável e o bem-estar da população. Este marco legislativo é um passo significativo em direcção a uma gestão mais eficiente e justa dos recursos hídricos do país.</p>
+
+<p>A nova legislação visa, dentre vários aspectos, consolidar a missão da Autoridade Reguladora de Águas (AURA), que tem um papel crucial na gestão equitativa dos processos de água e saneamento.</p>
+
+<p>Uma das principais características desta lei é a definição de tarifas especiais para instituições (os quartéis, escolas, hospitais, penitenciárias e as esquadras) e consumidores com consumo inferior a 5m³ por dia, visando garantir a equidade no acesso aos serviços essenciais. Além disso, Mesquita ressaltou a importância de criar um ambiente favorável para o sector privado, reconhecendo os investimentos e promovendo a harmonização do IVA com as tarifas sociais.</p>
+
+<p>Outro ponto abordado pelo Ministro Mesquita, foi a correlação entre as infraestruturas privadas e públicas, assegurando uma integração eficaz e justa, ou seja, garantir que os seus investimentos sejam devidamente reconhecidos e possam também importar equipamentos para investimentos nos sistemas de abastecimento de água e saneamento.
+Ainda na conferência de imprensa, Mesquita abordou a questão das multas aplicadas por fornecedores de água que não abastecem água por um mês, destacando que tal acção constitui uma infração prevista na lei e reiterando a importância do respeito à legislação e não só, para evitar complicações que possam afectar os clientes.</p>
+
+
+
+
+
+				
+			</div>
+
+		</div>
+
+		<div class="_right_side" style="display: none">
+			<h3>Outras NotÃ­cias</h3>
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
+			</div>
+		   </a>
+
+			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notÃ­cias	<i class="fa fa-long-arrow-right"></i></span></a></div>
 		</div>
 	</div>
 
 	
-
-</div></div>
-	</div>
 </div>
 
 
+
+<div style="height: 50px"></div>
 
 
 
@@ -720,13 +749,12 @@ kQuery(function($) {
 </div></footer>
 <!-- //FOOTER -->
 
-<div id="back-to-top" class="back-to-top">
+<div id="back-to-top" class="back-to-top reveal">
     <i style="font-size: 1.9rem" class="fa fa-angle-up fa-2x"></i>
 </div>
 
 
  </div>
-
 
 
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
@@ -745,6 +773,19 @@ kQuery(function($) {
 
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

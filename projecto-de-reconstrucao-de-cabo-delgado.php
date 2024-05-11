@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Projecto de Reconstrução de Cabo Delgado - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +40,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +341,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body class="bodybg">
 
  
  
@@ -350,7 +349,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -374,8 +373,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,22 +384,19 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
-<nav  style="display:none">
-
-</nav>
+<nav  style="display:none"></nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+     
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
-</div>
-  
-        
+</div>   
 
 
         
@@ -428,87 +424,121 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/cabo-delgado.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
 
 
 
-
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+<div class="_two_column_div">
+	<div class="_flex">
+		<div class="text">
+	<h3 style="text-align: left;" _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Projecto de Reconstrução de Cabo Delgado</h3>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">O Projecto de Recuperação de Cabo Delgado (PRCD), consiste da reabilitação das infraestruturas de abastecimento de água afectadas pela acção dos insurgentes na zona norte da província de Cabo Delgado visando repor os serviços de abastecimento de água através dos Sistemas de Abastecimento de Água (SAA’s):</p>
 
 
 
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
 		</div>
+		<div class="image _no_bg _pro">
+			<img src="../../images/others/no_bg.png" onclick="_ed_change_img(this)">
+		</div>
+		
 	</div>
+</div>
 
+
+
+<div class="_list_div _div_hide _div-1" style="margin-top: 0">
+	<div style="height: 20px"></div>
+	<div class="content" style="margin: 0 auto;padding: 1rem 0">
+		<div  _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reabilitacão dos Sistemas de Abastecimento de Água de Palma Sede, Quionga, Quirinde e Afungi (Distrito de Palma);</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reabilitacão dos Sistemas de Abastecimento de Água de Miangueleua (Distrito de Muidumbe), Chai (Distrito de Macomia) e Muaguide (Distrito de Meluco);</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reabilitacão dos Sistemas de Abastecimento de Água de Negomano e Ngapa (Distrito de Mueda);</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reabilitacão dos Sistemas de Abastecimento de Água de Quissanga e Bilibiza (Distrito de Quissanga);</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reabilitacão dos Sistemas de Abastecimento de Água de Mocímboa da Praia (Distrito de Mocimboa da Praia); </span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reabilitacão dos Sistemas de Abastecimento de Água de Nangade Sede (Distrito de Nangade) e N’tchinga (Distrito de Muidumbe). </span>
+		</div>
+		
+	</div>
 	
 </div>
 
 
 
-<div style="height: 50px"></div>
+<div class="_one_colunm bg _div_hide _div-1">
+	<div class="content" style="margin: 0 auto">
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">As intervenções acima são executadas por fases, sendo a primeira fase referente as acções do curto prazo no valor estimado de 458.230,000, 00 MT que são financiadas por fundos do Orçamento do Estado e parceiros de apoio programático com destaque para o Banco Mundial, Unicef e Cruz  Vermelha e a segunda fase para acções a médio prazo no valor de 1.073.570,00 Mt cujo o financiamento ainda está por ser assegurado. 
 
 
+	</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">	
+	A implementação das acções de curto prazo está a cargo do Escritório das Nações Unidas para Serviços de Projectos (UNOPS). 
+</p>
 
+	</div>
+</div>
+<div class="_list_div _div_hide _div-1" style="margin-top: 0">
+	<div class="content" style="margin: 0 auto">
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">acções de curto e médio prazo</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>SAAs de Quissanga Sede e Bilibiza (Distrito de Quissanga); SAA de Negomano (Distrito de Mueda); e SAA de Muaguide (Distrito de Meluco);</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>SAAs de Palma Sede, Quionga e Quirinde; e SAA de Mocimboa da Praia.</span>
+		</div>
+		
+	</div>
+	
+</div>
+<div style="height: 60px"></div>
 </section>
 
 
@@ -603,19 +633,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

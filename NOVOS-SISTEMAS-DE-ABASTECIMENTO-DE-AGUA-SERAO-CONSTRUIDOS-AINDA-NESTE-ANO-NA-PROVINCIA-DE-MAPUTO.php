@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 								<html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
- 								<!-- Added by HTTrack --><head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
+ 								<head><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
 </style><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
 
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Grupo de Água e Saneamento - DNAAS</title>
+  <title>Noticia | NOVOS SISTEMAS DE ABASTECIMENTO DE ÁGUA SERÃO CONSTRUÍDOS AINDA NESTE ANO NA PROVÍNCIA DE MAPUTO</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css">
@@ -32,8 +32,10 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css">
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css">
-     <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
+    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
+  <link rel="stylesheet" href="css/swiper-bundle.min.css">
   <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">
+
 
   <style type="text/css">
 
@@ -335,7 +337,7 @@ kQuery(function($) {
 <!-- You can add Google Analytics here or use T3 Injection feature -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap" async="" defer=""></script>
-<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
 
  
  
@@ -343,38 +345,17 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
-				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
+	<div class="top-header increase" style="margin-top: 0px;">
+				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable="">A+</span> <span class="center" not_resizable="">|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable="">A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
-<div class="header-2">
-   <div class="logo-container">
-      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
-	  <div>
-	     <span class="dnaas">DNAAS</span><br/>
-		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
-
-	  </div>
-   </div>
-
-   <div class="right-side">
-     <div>
-	 <img src="rp.png" style="height:35px;width:35px">
-     <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
-	 </div>
-   </div>
-   </div>
 	<!-- //SPOTLIGHT 1 -->
 
-    <div class="editing-painel" style="display: none;"></div>
-   <div class="form-loader" style="display: none;">
-	<div class="loader-c">
-		 <div class="loader">
-		 	 
-		 </div>
-	</div>
-</div>      
+   
+        
+<!-- MAIN NAVIGATION -->
+   <div class="editing-painel" style="display: none;"></div>
+        
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -456,6 +437,7 @@ kQuery(function($) {
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
 		  </ul>
 	  </div>
@@ -483,19 +465,18 @@ kQuery(function($) {
 </div>
 <div class="search-box">
   <i class="bx bx-search"></i>
-  <input style="border-radius: 5px" type="text" placeholder="Persquisar..." spellcheck="false" data-ms-editor="true">
+  <input style="border-radius: 5px" type="text" placeholder="Persquisar...">
 </div>
 </div></nav>
 <!-- //MAIN NAVIGATION -->
 
- 
-<div class="_ed_add_and_select_page" style="display: none;"><div class="container">
+ <div class="_ed_add_and_select_page" style="display: none;"><div class="container">
 		<div class="bg" onclick="_ed_add_and_select_page('remove')"></div>
 		<div class="clone">
 			<span class="go-back" onclick="_ed_add_and_select_page('go-back')">Voltar</span>
 			<div class="title"></div>
 			<div class="input-section">
-				<input type="text" name="" placeholder="Nome da página" spellcheck="false" data-ms-editor="true">
+				<input type="text" name="" placeholder="Nome da página">
 				<button onclick="_ed_add_and_select_page('create')"><div class="loader"><span></span></div>Criar</button>
 			</div>
 		</div>
@@ -503,7 +484,7 @@ kQuery(function($) {
 		<div class="rename">
 			    <div class="title">Renomear</div>
 			    <div class="input-section">
-				<input type="text" name="" oninput="rename_page_check()" class="rename_page_input" placeholder="Novo nome da página" spellcheck="false" data-ms-editor="true">
+				<input type="text" name="" oninput="rename_page_check()" class="rename_page_input" placeholder="Novo nome da página">
 				<button class="rename_btn" onclick="_ed_add_and_select_page('rename_page')"><div class="loader"><span></span></div>Alterar</button>
 			    </div>
 				<label class="rename_res"></label>
@@ -511,7 +492,7 @@ kQuery(function($) {
 		<div class="delete">
 			<div class="title">Digite &nbsp;<font color="#3b70b6">confirmar</font>  &nbsp; para eliminar a página</div>
 			<div class="input-section">
-				<input type="text" oninput="confirm_delete()" class="confirm_delete" spellcheck="false" data-ms-editor="true">
+				<input type="text" oninput="confirm_delete()" class="confirm_delete">
 				<button class="delete_btn" onclick="_ed_add_and_select_page('delete_page')"><div class="loader"><span></span></div>Eliminar</button>
 			</div>
 		</div>
@@ -519,7 +500,7 @@ kQuery(function($) {
 		<div class="box">
 			<span class="title">Páginas</span>
 			<div class="input-section">
-				<input type="text" name="" placeholder="Pesquisar página" oninput=" _ed_add_and_select_page_search(this.value)" spellcheck="false" data-ms-editor="true">
+				<input type="text" name="" placeholder="Pesquisar página" oninput=" _ed_add_and_select_page_search(this.value)">
 			</div>
 			<div class="pages"></div>
 		</div>
@@ -546,7 +527,14 @@ kQuery(function($) {
 		</div>
 	</div></div>
   
-         
+
+
+ 
+<!-- //MAIN NAVIGATION -->
+
+ 
+
+        
 
 
         
@@ -574,64 +562,91 @@ kQuery(function($) {
 
 
 
-
+<!--
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1" style="background-image: url(../../images/_main/2.jpg)">
-			<div class="fill" _ed_hover_border="" onclick="_ed_change_bottom_img(this.parentElement)"></div>
-			<div class="_text_sub" _ed_editable="">Grupo de Água e Saneamento</div>
+		<div class="_slide s1">
+			<div class="_text_sub">Notícias</div>
 		</div>
 	</div>
-</div>
-<div class="_long-bar" style="height: 1px"></div>
+</div>-->
 
 
 
 
 
-<section class="sppb-section " style="padding:50px 0 0 0;">
+
+<section class="sppb-section " style="padding:0;">
 	<div class="sppb-container">
-	
 
 	
 </div>
 
 
 
+<div class="_news">
+	 <div class="content" style="margin-bottom: 0">
+		<div class="_n">
+			<h2 _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; white-space-collapse: preserve;">NOVOS SISTEMAS DE ABASTECIMENTO DE ÁGUA SERÃO CONSTRUÍDOS AINDA NESTE ANO NA PROVÍNCIA DE MAPUTO</span></h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="uploaded_imgs/novos.jpg">
+				<div class="date">
+				<span _ed_editable="">15 de Junho de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
-<div class="_publicacoes">
-	<div class="_p_content">
+
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5"><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">Trata-se de dois (02) no Distrito de Boane, cinco (05) em Moamba, três (03) em Matutuine e cinco (05) no Distrito de Namaacha, para além da construção de um bloco sanitário escolar na Matola-Rio, em Boane na província de Maputo. A informação foi tornada pública, nesta quarta-feira, 14 de Junho, pelo Presidente da República, Filipe Nyusi, durante a cerimónia de entrega do Novo <span style="font-family: inherit;"><a tabindex="-1" style="color: rgb(56, 88, 152); cursor: pointer; font-family: inherit;"></a></span>Sistema de Abastecimento de Água de Pussulane para beneficiar a cerca de 100.000 pessoas, na Província de Maputo.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">O sistema de abastecimento de água de Pussulane vai beneficiar a pouco mais de 8.000 pessoas resultante do Programa Nacional de Abastecimento de Água e Saneamento Rural (PRONASAR) e do Programa Água para a Vida (PRAVIDA), iniciativas que visam garantir o acesso universal e sustentável aos serviços de abastecimento de água e saneamento em todo o território nacional.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">Actualmente, aproximadamente 218.000 pessoas no Distrito de Marracuene estão a beneficiar de água potável, o que representa uma taxa de cobertura de 79,46%. Isso contribui para um aumento significativo na cobertura de abastecimento de água na Província de Maputo, alcançando 74% na zona rural e 84% na zona urbana. Em todo o país, cerca de 20 milhões de pessoas, o equivalente a 65% da população, têm acesso a esse recurso vital.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">A construção do SAA de Pussulane, cujo investimento global foi de 22 milhões de meticais é uma conquista conjunta do Governo de Moçambique e de parceiros internacionais, como o Reino Unido, através do FCDO e os Estados Unidos da América através da USAID, que têm apoiado o país em diversas áreas de desenvolvimento, especialmente no abastecimento de água e saneamento.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">Para Filipe Nyusi, as mudanças climáticas têm afetado o país, com eventos extremos como cheias e secas, por isso, é essencial adotar medidas estruturais para garantir o abastecimento contínuo de água e mitigar os impactos desses desastres naturais.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">Por outro lado, o Presidente da Republica disse estarem em andamento outras obras de construção de sistemas de abastecimento de água em várias regiões da Província de Maputo, bem como em outras áreas do país, cujo objectivo é expandir o acesso à água potável de forma segura e sustentável, beneficiando milhões de pessoas e melhorando sua qualidade de vida.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; overflow-wrap: break-word; white-space-collapse: preserve; font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; color: rgb(5, 5, 5); text-align: left;"><div dir="auto" style="font-family: inherit;">O Presidente ressaltou que, apesar dos avanços, ainda há muito a ser feito para suprir as necessidades de água em Moçambique. Especialmente em áreas áridas, como parte dos Distritos de Magude, Moamba, Manhiça e Matutuine, em Maputo, o nível de cobertura ainda está aquém do desejado.</div></div></p>
+
+
 		
-   <div class="_title_section">
-	<div class="_line _left">
-		<span class="s1"></span>
-		<span class="s2"></span>
-		<span class="s3"></span>
-	</div>
-	<h3 class="_title" _ed_editable="">Grupo de Água e Saneamento</h3>
-	<div class="_line _right">
-		<span class="s3"></span>
-		<span class="s2"></span>
-		<span class="s1"></span>
-	</div>
-</div>
+			</div>
 
+		</div>
 
+		<div class="_right_side" style="display: none">
+			<h3>Outras Notícias</h3>
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
+			</div>
+		   </a>
 
-	<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
-		<div class="_loader">
-			<div></div>
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
+			</div>
+		   </a>
+
+			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
 		</div>
 	</div>
 
 	
-
-</div></div>
-	</div>
 </div>
 
 
+
+<div style="height: 50px"></div>
 
 
 
@@ -651,7 +666,8 @@ kQuery(function($) {
 
 
         
-<!-- FOOTER --><footer id="t3-footer" class="wrap t3-footer"><div class="container">
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer"><div class="container">
 <div class="t3-spotlight t3-footnav  row">
 			
 						<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
@@ -731,6 +747,7 @@ kQuery(function($) {
 
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+ <script src="js/_editing.js"></script>
  <script id="session">
 	   <?php
 	      header('Cache-Control: no-cache, no-store, must-revalidate');
@@ -746,10 +763,14 @@ kQuery(function($) {
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
+ 
 
 
 
 
-</body><editor-card style="position:absolute;top:0px;left:0px;z-index:auto;display: block !important"><div dir="ltr" style="all: initial;"><div style="color: initial; font: initial; font-palette: initial; font-synthesis: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation-composition: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; baseline-source: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: initial; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overlay: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: absolute; quotes: initial; r: initial; resize: initial; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; white-space: initial; timeline-scope: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; view-timeline: initial; view-transition-name: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link rel="stylesheet" href="chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabric-icons.css"><div style="all: initial;"></div></div><div style="color: initial; font: initial; font-palette: initial; font-synthesis: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation-composition: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; baseline-source: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: initial; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overlay: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: absolute; quotes: initial; r: initial; resize: initial; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; white-space: initial; timeline-scope: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; view-timeline: initial; view-transition-name: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link rel="stylesheet" href="chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabric-icons.css"></div><div id="editorNotificationContainer" style="color: initial; font: initial; font-palette: initial; font-synthesis: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation-composition: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; baseline-source: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; bottom: 0px; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: flex; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-direction: column-reverse; flex-wrap: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; left: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: 1em; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overlay: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: fixed; quotes: initial; r: initial; resize: initial; right: 0px; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; white-space: initial; timeline-scope: initial; top: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; view-timeline: initial; view-transition-name: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"></div></div></editor-card>
+
+ 								
+		     
+</body>
  								</html>
 		     

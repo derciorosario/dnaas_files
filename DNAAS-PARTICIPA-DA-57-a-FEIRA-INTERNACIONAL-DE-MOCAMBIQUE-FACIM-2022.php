@@ -1,4 +1,3 @@
-
 <?php
 	      session_start();
 ?>
@@ -6,11 +5,12 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
+
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE MOÇAMBIQUE – FACIM 2022 - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -374,8 +374,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -391,8 +391,7 @@ kQuery(function($) {
 </nav>
 <!-- //MAIN NAVIGATION -->
 
- 
-<div class="_ed_add_and_select_page" style="display: none;">
+ <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
@@ -400,6 +399,7 @@ kQuery(function($) {
 
 </div>
   
+
         
 
 
@@ -451,21 +451,25 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE MOÇAMBIQUE – FACIM 2022</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
+				<div class="date">
+				<span _ed_editable>1 de setembro de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+				<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">A Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) participa, de 29 de Agosto à 04 de Setembro, da 57ª Feira Internacional de Moçambique - FACIM 2022, em Ricatla, Distrito de Marracuene, em Maputo, que decorre sob o lema “Industrialização: Inovação e Diversificação da Economia Nacional”.</p>
+				<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">No Pavilhão de Madjedje, a DNAAS expõe alguns dos seus principais programas e projectos de abastecimento de água e saneamento com destaque para o Programa Nacional de Abastecimento de Água e Saneamento Rural (PRONASAR), Programa Água para a Vida (PRAVIDA), Projecto de Saneamento Urbano (PSU) e o Projecto de Requalificação Integrada do Bairro Chamanculo C em Maputo – REGENERA</p>
+				
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -503,6 +507,24 @@ kQuery(function($) {
 	
 </div>
 
+<div class="_one_colunm bg">
+    <div class="content" style="margin-bottom: 0">
+        <p>
+   Com objectivo de atrair mais investimentos, a DNAAS expõe no seu Stand um protótipo funcional de uma unidade de dessalinização de água. Trata-se de uma tecnologia que têm vindo a ganhar cada vez mais expressão no PRONASAR, no contexto das mudanças climáticas, sobretudo nas regiões áridas, semiáridas ou costeiras, onde o nível de salinidade da água é relativamente acentuado e a qualidade da água não é adequada para o consumo.
+
+   </p><p>
+
+Na componente rural, o PRONASAR, uma iniciativa do governo e parceiros, tem estado a contribuir consideravelmente para o aumento da qualidade de vida de comunidades rurais em todo o país, com actividades que se concentram na construção de infraestruturas de abastecimento de água e saneamento, para além da promoção de hábitos de saneamento seguros, como a promoção da construção de latrinas seguras, através do protocolo LIFECA (Livres do Fecalismo a Céu Aberto).
+  </p><p>
+ 
+
+Por outro lado, o PSU constitui um programa de saneamento com intervenções em áreas urbanas seleccionadas de Moçambique, com acções cruciais para a melhoria da qualidade de prestação de serviços municipais, com a construção de infraestruturas de tratamentos de águas residuais e lamas fecais, mais de 20 mil infraestruturas de saneamento localizado, promoção de negócios de gestão de lamas fecais, Marketing de saneamento, revisão do quadro legal do sector, capacitação dos municípios e provisão de subvenções que permitem aos municípios investir em equipamentos e recursos humanos para melhorar a prestação serviço de saneamento.
+  </p>
+
+ 
+     </div>
+
+</div>
 
 
 <div style="height: 50px"></div>
@@ -603,10 +625,11 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>

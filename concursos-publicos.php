@@ -432,6 +432,7 @@ kQuery(function($) {
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="apresentacoes.php">Apresentações</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
 		  </ul>
@@ -695,7 +696,7 @@ kQuery(function($) {
 <div class="t3-copyright">
 <div class="custom">
 
-<p>Copyright © 2023 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por&nbsp;&nbsp;<strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
+<p>Copyright © 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por&nbsp;&nbsp;<strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
 
 </div>
 </div></footer>

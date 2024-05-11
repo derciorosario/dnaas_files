@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
+
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MESQUITA COLOCA ESTRADAS E GESTÃO DE RECURSOS HIDRICOS NO TOPO DA AGENDA COM OS JAPONESES</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -342,7 +342,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +374,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -451,21 +451,53 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MESQUITA COLOCA ESTRADAS E GESTÃO DE RECURSOS HIDRICOS NO TOPO DA AGENDA COM OS JAPONESES</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MESQUITA-COLOCA-ESTRADAS-E-GESTAO-DE-RECURSOS-HIDRICOS-NO-TOPO-DA-AGENDA-COM-OS-JAPONESES.jpg">
+				<div class="date">
+				<span _ed_editable>3 de maio de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, manteve, quarta-feira, 3 de Maio, na cidade de Maputo, um encontro com o Ministro de Estado e dos Negócios Estrangeiros do Japão, Kenji Yamada, que se fazia acompanhar por um grupo 50 empresários daquele país, dos quais 25 representam igual número de empresas interessadas em investir em Moçambique.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na sua intervenção, Carlos Mesquita falou das vantagens competitivas em relação aos países da região, bem como das oportunidades de negócio que Moçambique oferece, que podem interessar o sector privado japonês. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+"Nós privilegiamos o sector privado porque sabemos o que ele representa para o desenvolvimento do nosso país. Por isso, posso dizer que vieram no momento certo. Gostaríamos de ver mais empresas japonesas a iniciar ou dar continuidade aos negócios no nosso país. Sei que há algumas empresas ligadas ao sector de petróleo e gás, mas queremos outras em áreas transversais do nosso desenvolvimento", disse o governante.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Carlos Mesquita referiu-se, também, à necessidade de construção de infraestruturas de retenção e gestão de recursos hídricos, dado o facto de o país sofrer ciclicamente com cheias e inundações durante a época chuvosa pois, "se olharmos para a posição geográfica, Moçambique tem o mar e o hinterland. Então, a tendência das águas é saírem de montante e passar por Moçambique em direcção ao mar, por isso, precisamos de ter infrastructuras para fazer a retenção e gestão dessas águas porque o recurso hídrico é fundamental para o  desenvolvimento".</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Assim, segundo o ministro, o país precisa de construir mais barragens uma vez que as actuais só conseguem reter 21% dos escoamentos médios anuais de água. "Temos essas barragens bem identificadas no mapa, e servirão para irrigação agrícola, piscicultura, turismo, indústrias e geração de energia para fazer face ao défice que se regista na região".</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Outro sector a que ministro das Obras Públicas, Habitação e Recursos Hídricos se referiu é o das estradas, que, para além de satisfazerem as necessidades internas de ligação, têm a vantagem de servir aos países do hinterland, que usam os diversos corredores de transporte para chegarem aos portos nacionais. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Num outro desenvolvimento, o ministro apontou a área da habitação como apetecível para o investimento privado, em particular o japonês, olhando para o facto de a população moçambicana ser constituída, na sua maioria, por jovens. 
+"Existe um potencial mercado para a construção de vários tipos de casas. Temos diversos projectos, podemos partilhar. Pode-se investir nessas casas e depois vendermos para essa população que precisa de habitação". </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Por seu turno, o ministro de Estado e dos Negócios Estrangeiros do Japão, Kenji Yamada, reiterou a disponibilidade do seu país em cooperar com Moçambique em diversas áreas, com particular realce para as de interesse comum.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+"Moçambique e Japão têm muito em comum. Tal como vocês, nós também sofremos com desastres naturais, e superamos. Nesta área podemos cooperar. Moçambique tem uma das maiores reservas de Gás Natural Liquefeito (GNL), recursos minerais e energéticos, vantagens geográficas, e muito mais. Por isso, gostaríamos que aproveitassem os pontos fortes das empresas japonesas para tirarem melhor proveito dos recursos de que dispõem". </p>
+
+
+
+
+
+
+
+
+
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,6 +635,7 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
@@ -613,9 +646,23 @@ kQuery(function($) {
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+

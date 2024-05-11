@@ -2,15 +2,14 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Regenera -  DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -350,7 +348,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -373,11 +371,10 @@ kQuery(function($) {
    </div>
    </div>
 	<!-- //SPOTLIGHT 1 -->
-
-  <div class="editing-painel" style="display: none;">
-</div> 
+<div class="editing-painel" style="display: none;">
+</div>
+   
         
-<!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
 		 <div class="loader">
@@ -385,22 +382,22 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
+<!-- MAIN NAVIGATION -->
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+    
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
-</div>
-  
-        
+</div>    
 
 
         
@@ -428,22 +425,26 @@ kQuery(function($) {
 
 
 
-<!--
+
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/regenera-main.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
+			
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
@@ -451,62 +452,130 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+
+<div class="_two_column_div">
+	<div class="_flex">
+
+		<div class="text">
+			<h3  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Requalificação Integrada do Bairro Chamanculo C em Maputo (Regenera)</h3>
+            <p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Título:</strong> Requalificação Integrada do Bairro Chamanculo C em Maputo - AID 11649</p>
+
+			<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Custo Total:</strong> 16,100,000 EUR</p>
+
+			<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Financiador:</strong> Agência Italiana de Cooperação para o Desenvolvimento (AICS)</p>
+
+			<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Entidade Implementadora:</strong> Ministério das Obras Públicas, Habitação e Recursos Hídricos (MOPHRH)</p>
+
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
+		</div>
+		<div class="image ">
+			<img src="../../images/projectos/regenera.PNG" onclick="_ed_change_img(this)">
+		</div>
+		
+	</div>
+</div>
 
 
 
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">A iniciativa prevê actuar para a inclusão física e social do bairro in questão através da:</h4>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Construção de infra-estruturas urbanas identificadas como prioritárias no âmbito do plano urbanístico do assentamento informal Chamanculo C;</span>
+		</div>
+		<div _ class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>O ferta de serviços e oportunidades para o fortalecimento socioeconómico e o desenvolvimento psicossocial dos residentes com atenção especial votada às mulheres e jovens.</span>
 		</div>
 	</div>
-
-	
 </div>
 
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Objectivo do Projecto</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Melhorar as Condições de vida da População do Bairro Chamanculo C através de processos de requalificação integrada;</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Aumentar os níveis de segurança, inclusão e resiliência e sustentabilidade do bairro de Chamanculo C.</span>
+		</div>
+	</div>
+</div>
 
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Provincia de Implementação: Maputo / Cidade de Maputo</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Data de Ínicio:  22 de Março de 2021.</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Data de Conclusão: 21 de Março de 2024.</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Ponto de Situação: Em curso.</span>
+		</div>
+	</div>
+</div>
 
-<div style="height: 50px"></div>
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Plano para 2021</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Contratação dos Serviços de Consultoria para a elaboração do Projecto Técnico de Engenharia, do Estudo de Impacto Ambiental e Social (EIAS), para a prestação de Assistência Técnica das Obras de Construção de Infraestruturas Habitacionais, Rodoviária e de Drenagem do Bairro Chamanculo ‘C’ na Cidade de Maputo e de Elaboração e Implementação do Plano de Acçao para o Reassentamento e Reordenamento de famílias e comunidades afectadas pela realização das Obras;</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Contratação de Serviços de Consultoria para auditoria de contas do Programa;</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Requalificação de Espaços Públicos do Bairro Chamanculo C.</span>
+		</div>
+	</div>
+</div>
 
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Observações: O programa é constituido por duas componentes que são:</h4>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Desenvolvimento de infraestruturas que é gerida pela DNAAS;</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Promoção do desenvolvimento socioeconómico local e da protecção ambiental que é gerida pela AVSI/COSPE.</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Os custos para a gestão, a assistência técnica e a monitoria da iniciativa são geridos em forma directa pela AICS.</span>
+		</div>
+	</div>
+</div>
+<div style="height: 60px" ></div>
 
 
 </section>
@@ -603,19 +672,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

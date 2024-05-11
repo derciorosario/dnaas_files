@@ -2,7 +2,6 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
@@ -10,9 +9,9 @@
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | DIA MUNDIAL DA ÁGUA CELEBRADO COM APELOS À PROTECÇÃO DA ÁGUA SUBTERRÂNEA FACE ÀS MUDANÇAS CLIMÁTICAS</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -302,7 +301,7 @@ kQuery(function($) {
   </script>
   <meta content="Inicio" property="og:title" />
   <meta content="website" property="og:type"/>
-  <meta content="http://www.dnaas.co.mz/index.php/pt/" property="og:url" />
+  <meta content="http://www.fipag.co.mz/index.php/pt/" property="og:url" />
 
     
 <!-- META FOR IOS & HANDHELD -->
@@ -342,7 +341,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.fipag.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +373,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -451,21 +450,37 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>DIA MUNDIAL DA ÁGUA CELEBRADO COM APELOS À PROTECÇÃO DA ÁGUA SUBTERRÂNEA FACE ÀS MUDANÇAS CLIMÁTICAS</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MOCAMBIQUE-REPRESENTA-AFRICA-AUSTRAL-NO-91-FORUM-MUNDIAL-DA-AGUA-EM-DAKAR-SENEGAL.jpg">
+				<div class="date">
+				<span _ed_editable>23 de março de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O Banco Mundial aprovou nesta terça-feira, 14 de Dezembro, um financiamento de 150 milhões de dólares em apoio ao Governo de Moçambique, para implementação do projecto Água Segura, que deverá construir e reabilitar infraestruturas de água e saneamento, abrangendo um total de 17 pequenas vilas e 22 comunidades rurais nas províncias de Nampula e Zambézia.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Espera-se que com o Projecto Água segura, a ser implementado através da Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) e pela Administração de Infraestruturas de Água e Saneamento (AIAS), 186 mil pessoas terão acesso à água serviços seguros de abastecimento de água em 17 pequenas vilas e 301 mil pessoas nas comunidades rurais das duas províncias. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Para além de investimentos no abastecimento de água, o Projecto vai fazer intervenções relevantes em infraestruturas de Saneamento melhorado e promoção de higiene nas vilas e comunidades abrangidas.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+“Para a rapariga e mulher rural, a disponibilidade de água próximo de casa, significa menos tempo gasto a procura de água. Ao reabilitar e melhorar 179 infraestruturas de saneamento escolares, incluindo facilidades de gestão menstrual nas escolas, esta operação vai reduzir o absentismo e a desistência escolar da rapariga, causadas pela menstruação”, disse Idah Z. Pswarayi-Riddihough, directora do Banco Mundial para Moçambique, Comores, Maurícias e Seicheles, citada pelo website oficial daquela instituição financeira internacional.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A mesma fonte destacou ainda a melhoria da segurança no abastecimento nas pequenas vilas e zonas rurais, como um factor para impulsionar o crescimento económico do país, para além de ter um impacto positivo na redução da pobreza e no desenvolvimento do capital humano.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A componente 2 do Projecto Água Segura, vai igualmente apoiar a implementação da segunda fase do Programa de Nacional de Abastecimento de Água e Saneamento Rural (PRONASAR), uma iniciativa do Governo de Moçambique que visa alcançar a cobertura universal de água e saneamento até o ano de 2030.
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Refira-se que cerca de 39% da população Moçambicana reside nas províncias de Nampula e Zambézia, no entanto, estas são as províncias com menores taxas de acesso aos serviços seguros de Abastecimento de Água e Saneamento, o que reforça o compromisso do Governo de Moçambique de reduzir as assimetrias no acesso aos serviços de abastecimento de água e Saneamento no país.</p>
+				
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,6 +618,7 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
@@ -618,4 +634,6 @@ kQuery(function($) {
 
 </body>
 
+
+<!-- Mirrored from www.fipag.co.mz/index.php/pt/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Feb 2023 17:25:09 GMT -->
 </html>

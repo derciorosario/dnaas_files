@@ -6,11 +6,12 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Eventos - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -342,7 +343,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +375,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,6 +386,7 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
+
 
 <nav  style="display:none">
 
@@ -428,85 +430,65 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/others/20.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 
-<section  class="sppb-section " style="padding:0;">
-	<div class="sppb-container">
 
-	
+<div class="_title_section">
+	<div class="_line _left">
+		<span class="s1"></span>
+		<span class="s2"></span>
+		<span class="s3"></span>
+	</div>
+	<h3 class="_title"  _ed_editable>Últimos eventos</h3>
+	<div class="_line _right">
+		<span class="s3"></span>
+		<span class="s2"></span>
+		<span class="s1"></span>
+	</div>
 </div>
 
 
 
-
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
-
-
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
-		</div>
-	</div>
-
-	
+<div class="_event-img-view" onclick="this.style.display='none'">
+	<img src="../../images/_video-icons/close.png" onclick="close_video()" close_icon>
+	<img event_img>
 </div>
 
-
-
-<div style="height: 50px"></div>
-
+<div class="_event-section">
+	<div class="content _ed _ed_item" _ed_model="_ed_model_option_5">
+		<div class="box">
+			 <div class="image"  onclick="view_event_img(this)">
+			 	<img src="../../images/eventos/1.jpg" onclick="_ed_change_img(this)">
+			 	<i class="fa-solid fa-magnifying-glass-plus"></i>
+			 </div>
+			 <div class="text-container">
+			 	<h3  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">DNAAS PARTICIPA DO PROGRAMA “GRANDE DEBATE” DA TVM</h3>
+			 	<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+			 		O programa de Hoje irá debater em torno da problemática das doenças de origem hídricas e a DNAAS irá partilhar algumas das acções em curso para evitar a eclosão desse tipo de doenças.
+			 	</p>
+			 	<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Não perca.</p>
+			 	<div class="date-section">
+			 		<div  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><span>Data:</span>21/02/2023, 21 horas</div>
+			 		<div  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><span>Local:</span>Televisão de Moçambique</div>
+			 	</div>
+			 </div>
+		</div>
+	</div>
+</div>
 
 
 </section>
@@ -550,9 +532,7 @@ kQuery(function($) {
 								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
-
 <div class="separate">
-	
 	<div>
 		<a target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
 		<a target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
@@ -603,6 +583,8 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
@@ -613,9 +595,11 @@ kQuery(function($) {
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

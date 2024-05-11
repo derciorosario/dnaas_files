@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MINISTRO MESQUITA APELA À UNIÃO E PROFISSIONALISMO PARA O ALCANCE DE RESULTADOS NO SECTOR DE ÁGUAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +40,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +341,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +373,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,22 +384,21 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+   <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+       
 
 
         
@@ -451,21 +449,32 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MINISTRO MESQUITA APELA À UNIÃO E PROFISSIONALISMO PARA O ALCANCE DE RESULTADOS NO SECTOR DE ÁGUAS</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MINISTRO-MESQUITA-APELA-A-UNIAO-E-PROFISSIONALISMO-PARA-O-ALCANCE-DE-RESULTADOS-NO-SECTOR-DE-AGUAS.jpg">
+				<div class="date">
+				<span _ed_editable>10 de maio de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">O Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, visitou nesta Sexta-feira, 06 de Maio, as instalações onde funcionam a Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) e a Direcção Nacional de Gestão de Recursos Hídricos (DNGRH), em Maputo, num encontro marcado por fortes apelos ao profissionalismo e trabalho em Equipa.</p>	
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+“A questão dos Recursos Humanos na Administração Pública é séria, por isso é que essa interajuda e trabalho em equipa é importante para a transmissão de conhecimentos. Vamos criar essas valências entre nós”, disse Mesquita, que também advogou pela humildade, respeito e profissionalismo dos funcionários para o alcance dos resultados almejados para o sector de águas.</p>	
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+Na sua locução dirigida aos funcionários e agentes do Estado afectos à DNAAS e DNGRH, Mesquita destacou ainda a importância dos sistemas e monitoria e recolha de dados, instalados nas duas Direcções Nacionais, como um elemento fundamental para a tomada de decisões correcta, baseadas em dados fiáveis e na análise da frequência dos eventos.</p>	
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+Durante a sua visita às instalações da DNAAS e DNGRH, o dirigente interagiu com funcionários de ambas Direcções Nacionais e dirigiu uma sessão extraordinária do Colectivo de Direcção das duas instituições.</p>	
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+Esta foi a primeira visita de Carlos Mesquita, às Direcções Nacionais de Abastecimento de Água e Saneamento e Gestão de Recursos Hídricos, desde que tomou posse a 04 de Março último. </p>	
+				
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,19 +612,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

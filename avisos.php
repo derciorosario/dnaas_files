@@ -355,6 +355,24 @@ kQuery(function($) {
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
+<div class="header-2">
+   <div class="logo-container">
+      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
+	  <div>
+	     <span class="dnaas">DNAAS</span><br/>
+		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
+
+	  </div>
+   </div>
+
+   <div class="right-side">
+     <div>
+	 <img src="rp.png" style="height:35px;width:35px">
+     <span class="r">República de Moçambique</span>
+	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
+	 </div>
+   </div>
+   </div>
 	<!-- //SPOTLIGHT 1 -->
 
    <div class="editing-painel" style="display: none;">
@@ -536,7 +554,7 @@ kQuery(function($) {
 <div class="t3-copyright">
     <div class="custom">
 
-	<p>Copyright © 2023 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por  <strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
+	<p>Copyright © 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por  <strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
 
    </div>
 </div>

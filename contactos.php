@@ -1,11 +1,15 @@
 <!DOCTYPE html>
+<?php
+              session_start();
+?>
+
 								<html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
- 								<!-- Added by HTTrack --><head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
+ 								<head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, d09GRgABAAAAAAZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdERUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAAAFxAAAAFAAAABm2fPczU9TLzIAAAHcAAAASgAAAGBP9V5RY21hcAAAAkQAAACIAAABYt6F0cBjdnQgAAACzAAAAAQAAAAEABEBRGdhc3AAAAWYAAAACAAAAAj//wADZ2x5ZgAAAywAAADMAAAD2MHtryVoZWFkAAABbAAAADAAAAA2E2+eoWhoZWEAAAGcAAAAHwAAACQC9gDzaG10eAAAAigAAAAZAAAArgJkABFsb2NhAAAC0AAAAFoAAABaFQAUGG1heHAAAAG8AAAAHwAAACAAcABAbmFtZQAAA/gAAAE5AAACXvFdBwlwb3N0AAAFNAAAAGIAAACE5s74hXjaY2BkYGAAYpf5Hu/j+W2+MnAzMYDAzaX6QjD6/4//Bxj5GA8AuRwMYGkAPywL13jaY2BkYGA88P8Agx4j+/8fQDYfA1AEBWgDAIB2BOoAeNpjYGRgYNBh4GdgYgABEMnIABJzYNADCQAACWgAsQB42mNgYfzCOIGBlYGB0YcxjYGBwR1Kf2WQZGhhYGBiYGVmgAFGBiQQkOaawtDAoMBQxXjg/wEGPcYDDA4wNUA2CCgwsAAAO4EL6gAAeNpj2M0gyAACqxgGNWBkZ2D4/wMA+xkDdgAAAHjaY2BgYGaAYBkGRgYQiAHyGMF8FgYHIM3DwMHABGQrMOgyWDLEM1T9/w8UBfEMgLzE////P/5//f/V/xv+r4eaAAeMbAxwIUYmIMHEgKYAYjUcsDAwsLKxc3BycfPw8jEQA/gZBASFhEVExcQlJKWkZWTl5BUUlZRVVNXUNTQZBgMAAMR+E+gAEQFEAAAAKgAqACoANAA+AEgAUgBcAGYAcAB6AIQAjgCYAKIArAC2AMAAygDUAN4A6ADyAPwBBgEQARoBJAEuATgBQgFMAVYBYAFqAXQBfgGIAZIBnAGmAbIBzgHsAAB42u2NMQ6CUAyGW568x9AneYYgm4MJbhKFaExIOAVX8ApewSt4Bic4AfeAid3VOBixDxfPYEza5O+Xfi04YADggiUIULCuEJK8VhO4bSvpdnktHI5QCYtdi2sl8ZnXaHlqUrNKzdKcT8cjlq+rwZSvIVczNiezsfnP/uznmfPFBNODM2K7MTQ45YEAZqGP81AmGGcF3iPqOop0r1SPTaTbVkfUe4HXj97wYE+yNwWYxwWu4v1ugWHgo3S1XdZEVqWM7ET0cfnLGxWfkgR42o2PvWrDMBSFj/IHLaF0zKjRgdiVMwScNRAoWUoH78Y2icB/yIY09An6AH2Bdu/UB+yxopYshQiEvnvu0dURgDt8QeC8PDw7Fpji3fEA4z/PEJ6YOB5hKh4dj3EvXhxPqH/SKUY3rJ7srZ4FZnh1PMAtPhwP6fl2PMJMPDgeQ4rY8YT6Gzao0eAEA409DuggmTnFnOcSCiEiLMgxCiTI6Cq5DZUd3Qmp10vO0LaLTd2cjN4fOumlc7lUYbSQcZFkutRG7g6JKZKy0RmdLY680CDnEJ+UMkpFFe1RN7nxdVpXrC4aTtnaurOnYercZg2YVmLN/d/gczfEimrE/fs/bOuq29Zmn8tloORaXgZgGa78yO9/cnXm2BpaGvq25Dv9S4E9+5SIc9PqupJKhYFSSl47+Qcr1mYNAAAAeNptw0cKwkAAAMDZJA8Q7OUJvkLsPfZ6zFVERPy8qHh2YER+3i/BP83vIBLLySsoKimrqKqpa2hp6+jq6RsYGhmbmJqZSy0sraxtbO3sHRydnEMU4uR6yx7JJXveP7WrDycAAAAAAAH//wACeNpjYGRgYOABYhkgZgJCZgZNBkYGLQZtIJsFLMYAAAw3ALgAeNolizEKgDAQBCchRbC2sFER0YD6qVQiBCv/H9ezGI6Z5XBAw8CBK/m5iQQVauVbXLnOrMZv2oLdKFa8Pjuru2hJzGabmOSLzNMzvutpB3N42mNgZGBg4GKQYzBhYMxJLMlj4GBgAYow/P/PAJJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA');font-weight:400;font-style:normal}
 </style><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
 
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Grupo de Água e Saneamento - DNAAS</title>
+  <title>Contactos - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css">
@@ -32,10 +36,11 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css">
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css">
-     <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
-  <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css">
+<link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
+<link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">
 
-  <style type="text/css">
+  <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/cwQvQhsy4_nYdnSDY4u7O5_B/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-JtvhFQlPQ6LL/+I5aABhkbXo/hmh5M6IvL9vK+ecFqveRPvf7P6cGzs1DEyU5A3c"></script><script type="text/javascript" src="http://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=j2i_Fh70cc2koApGop5RAqtNC4371kasFQpbmAdnUvpsJf4_k_il-5P2OeV5ICTMaWua4KF-klMyL_MFqQ06E5JuGHADvXHGa3apcMoQLUYZT_23XIF3YgVu_YMvvuki" charset="UTF-8"></script><style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
 			background-color: #7fa5ca;
@@ -217,7 +222,9 @@
   <script src="../../modules/mod_artsexylightbox/artsexylightbox/js/script.v2.2.js" type="text/javascript"></script>
   <script src="../../modules/mod_artsexylightbox/artsexylightbox/js/jquery.nc.js" type="text/javascript"></script>
   <script src="../../media/system/js/html5fallback.js" type="text/javascript"></script>
+   <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
   <script type="text/javascript">
+
 kQuery(function($) {
                 $('.docman_track_download').on('click', function() {
                     var el = $(this);
@@ -335,7 +342,7 @@ kQuery(function($) {
 <!-- You can add Google Analytics here or use T3 Injection feature -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap" async="" defer=""></script>
-<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
+<style type="text/css">.t3-megamenu.animate .animating > .mega-dropdown-menu,.t3-megamenu.animate.slide .animating > .mega-dropdown-menu > div {transition-duration: 400ms !important;-webkit-transition-duration: 400ms !important;}</style><style type="text/css">.t3-megamenu.animate .animating > .mega-dropdown-menu,.t3-megamenu.animate.slide .animating > .mega-dropdown-menu > div {transition-duration: 400ms !important;-webkit-transition-duration: 400ms !important;}</style><style type="text/css">.t3-megamenu.animate .animating > .mega-dropdown-menu,.t3-megamenu.animate.slide .animating > .mega-dropdown-menu > div {transition-duration: 400ms !important;-webkit-transition-duration: 400ms !important;}</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
 
  
  
@@ -343,38 +350,17 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
-				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
-	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
+<div class="top-header increase" style="margin-top: 0px;">
+				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable="">A+</span> <span class="center" not_resizable="">|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable="">A-</span></div>
+	            <img src="../../images/layout/mophrh.png" width="41px" height="40px">
 	</div>
-<div class="header-2">
-   <div class="logo-container">
-      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
-	  <div>
-	     <span class="dnaas">DNAAS</span><br/>
-		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
-
-	  </div>
-   </div>
-
-   <div class="right-side">
-     <div>
-	 <img src="rp.png" style="height:35px;width:35px">
-     <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
-	 </div>
-   </div>
-   </div>
 	<!-- //SPOTLIGHT 1 -->
 
-    <div class="editing-painel" style="display: none;"></div>
-   <div class="form-loader" style="display: none;">
-	<div class="loader-c">
-		 <div class="loader">
-		 	 
-		 </div>
-	</div>
-</div>      
+   
+        
+<!-- MAIN NAVIGATION -->
+<div class="editing-painel" style="display: none;"></div>
+        
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -382,8 +368,7 @@ kQuery(function($) {
 		 	 
 		 </div>
 	</div>
-</div>  
-
+</div>
 <nav style="display: block;" class=""><div class="navbar">
 <i class="bx bx-menu"></i>
 <div class="logo"><a href="#"><img src="../../images/layout/dnnas-logo.png"></a></div>
@@ -456,6 +441,7 @@ kQuery(function($) {
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
 		  </ul>
 	  </div>
@@ -483,19 +469,18 @@ kQuery(function($) {
 </div>
 <div class="search-box">
   <i class="bx bx-search"></i>
-  <input style="border-radius: 5px" type="text" placeholder="Persquisar..." spellcheck="false" data-ms-editor="true">
+  <input style="border-radius: 5px" type="text" placeholder="Persquisar...">
 </div>
 </div></nav>
 <!-- //MAIN NAVIGATION -->
 
- 
-<div class="_ed_add_and_select_page" style="display: none;"><div class="container">
+ <div class="_ed_add_and_select_page" style="display: none;"><div class="container">
 		<div class="bg" onclick="_ed_add_and_select_page('remove')"></div>
 		<div class="clone">
 			<span class="go-back" onclick="_ed_add_and_select_page('go-back')">Voltar</span>
 			<div class="title"></div>
 			<div class="input-section">
-				<input type="text" name="" placeholder="Nome da página" spellcheck="false" data-ms-editor="true">
+				<input type="text" name="" placeholder="Nome da página">
 				<button onclick="_ed_add_and_select_page('create')"><div class="loader"><span></span></div>Criar</button>
 			</div>
 		</div>
@@ -503,7 +488,7 @@ kQuery(function($) {
 		<div class="rename">
 			    <div class="title">Renomear</div>
 			    <div class="input-section">
-				<input type="text" name="" oninput="rename_page_check()" class="rename_page_input" placeholder="Novo nome da página" spellcheck="false" data-ms-editor="true">
+				<input type="text" name="" oninput="rename_page_check()" class="rename_page_input" placeholder="Novo nome da página">
 				<button class="rename_btn" onclick="_ed_add_and_select_page('rename_page')"><div class="loader"><span></span></div>Alterar</button>
 			    </div>
 				<label class="rename_res"></label>
@@ -511,7 +496,7 @@ kQuery(function($) {
 		<div class="delete">
 			<div class="title">Digite &nbsp;<font color="#3b70b6">confirmar</font>  &nbsp; para eliminar a página</div>
 			<div class="input-section">
-				<input type="text" oninput="confirm_delete()" class="confirm_delete" spellcheck="false" data-ms-editor="true">
+				<input type="text" oninput="confirm_delete()" class="confirm_delete">
 				<button class="delete_btn" onclick="_ed_add_and_select_page('delete_page')"><div class="loader"><span></span></div>Eliminar</button>
 			</div>
 		</div>
@@ -519,7 +504,7 @@ kQuery(function($) {
 		<div class="box">
 			<span class="title">Páginas</span>
 			<div class="input-section">
-				<input type="text" name="" placeholder="Pesquisar página" oninput=" _ed_add_and_select_page_search(this.value)" spellcheck="false" data-ms-editor="true">
+				<input type="text" name="" placeholder="Pesquisar página" oninput=" _ed_add_and_select_page_search(this.value)">
 			</div>
 			<div class="pages"></div>
 		</div>
@@ -546,7 +531,17 @@ kQuery(function($) {
 		</div>
 	</div></div>
   
-         
+
+        
+
+        
+
+
+<!-- //MAIN NAVIGATION -->
+
+ 
+
+        
 
 
         
@@ -574,61 +569,81 @@ kQuery(function($) {
 
 
 
-
+<!--
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1" style="background-image: url(../../images/_main/2.jpg)">
-			<div class="fill" _ed_hover_border="" onclick="_ed_change_bottom_img(this.parentElement)"></div>
-			<div class="_text_sub" _ed_editable="">Grupo de Água e Saneamento</div>
+		<div class="_slide s1">
+			<div class="_text_sub">Sobre DNAAS</div>
 		</div>
 	</div>
 </div>
-<div class="_long-bar" style="height: 1px"></div>
+<div class="_long-bar"></div>-->
 
 
 
 
 
-<section class="sppb-section " style="padding:50px 0 0 0;">
+
+<section class="sppb-section " style="padding:50px 0 0 0;position: relative;overflow: hidden;">
+	<div class="_contact_bg_d"></div>
 	<div class="sppb-container">
 	
-
-	
-</div>
-
-
-
-
-
-<div class="_publicacoes">
-	<div class="_p_content">
-		
-   <div class="_title_section">
+<div class="_title_section">
 	<div class="_line _left">
 		<span class="s1"></span>
 		<span class="s2"></span>
 		<span class="s3"></span>
 	</div>
-	<h3 class="_title" _ed_editable="">Grupo de Água e Saneamento</h3>
+	<h3 class="_title" _ed_editable="">Fale Connosco</h3>
 	<div class="_line _right">
 		<span class="s3"></span>
 		<span class="s2"></span>
 		<span class="s1"></span>
 	</div>
 </div>
-
-
-
-	<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
-		<div class="_loader">
-			<div></div>
-		</div>
-	</div>
-
 	
+</div>
 
-</div></div>
-	</div>
+<div style="height: 45px"></div>
+
+<div class="_contact">
+	<img class="_float-image" src="../../images/layout/dnaas.png" style="pointer-events: none;">
+    <div class="_info">
+    	
+        <div>
+            <span class="title"> <i class="fa-solid fa-phone"></i><font _ed_editable="">Telefone</font></span>
+            <span _ed_editable="">+258 863007710</span>
+        </div>
+        <div>
+          
+            <span class="title"> <i class="fa-solid fa-location-dot"></i><font _ed_editable=""> Endereço</font></span>
+            <span _ed_editable="">Rua da Imprensa, n° 162 terceiro andar - Maputo - Moçambique</span>
+        </div>
+        <div>
+          
+            <span class="title">  <i class="fa-solid fa-envelope"></i> <font _ed_editable="">Email</font></span>
+            <span _ed_editable="">geral@dnaas.gov.mz</span> 
+        </div>
+    </div>
+     
+    
+ 
+<div class="_form">
+        <form onsubmit="event.preventDefault()">
+        	<span class="_ed _ed_item" _ed_model="_ed_model_option_10"><input name="matter" placeholder="Assunto*"></span>
+            <span class="_ed _ed_item" _ed_model="_ed_model_option_10"><input name="name" e="" placeholder="Nome*"></span>
+            <span class="_ed _ed_item" _ed_model="_ed_model_option_10"><input name="email" type="text" placeholder="Email*"></span>
+            <span class="_ed _ed_item" _ed_model="_ed_model_option_10" _ed_default="null"><textarea placeholder="Mensagem*" name="message"></textarea></span>
+			<div class="g-recaptcha" data-sitekey="6LcnXaclAAAAAIpViPPcy-HeGAEs3UVNz5OF-nU1"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-50igrh1lc2rm" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcnXaclAAAAAIpViPPcy-HeGAEs3UVNz5OF-nU1&amp;co=aHR0cHM6Ly9kbmFhcy5nb3YubXo6NDQz&amp;hl=en&amp;v=cwQvQhsy4_nYdnSDY4u7O5_B&amp;size=normal&amp;cb=mbzu4dra09i"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+			<div style="height: 10px"></div>
+			<button onclick="send_email(this)">Enviar</button>
+            
+            
+          
+         <!-- <div  class="g-recaptcha" data-sitekey="6LcBfp4lAAAAAKpGVl_g4dzr0M1UWPApDxeK1zxY"></div>-->
+        </form>
+ </div>
+
 </div>
 
 
@@ -651,7 +666,8 @@ kQuery(function($) {
 
 
         
-<!-- FOOTER --><footer id="t3-footer" class="wrap t3-footer"><div class="container">
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer"><div class="container">
 <div class="t3-spotlight t3-footnav  row">
 			
 						<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
@@ -720,13 +736,12 @@ kQuery(function($) {
 </div></footer>
 <!-- //FOOTER -->
 
-<div id="back-to-top" class="back-to-top">
+<div id="back-to-top" class="back-to-top reveal">
     <i style="font-size: 1.9rem" class="fa fa-angle-up fa-2x"></i>
 </div>
 
 
  </div>
-
 
 
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
@@ -742,14 +757,48 @@ kQuery(function($) {
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
-
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
+ <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+
+<script type="text/javascript">
+/*   (function(){
+      emailjs.init("Yab_dxG7ZUknHQ7QA");
+   })();
+
+
+var templateParams = {
+    to_name: 'James',
+	from_to:'derciorosario55@gmail.com',
+    dercio_top:'dercio.comd',
+    notes: 'Check this out!'
+};
+ 
+emailjs.send('service_2mv3fjm', 'template_dfnpb55', templateParams)
+    .then(function(response) {
+       console.log('SUCCESS!', response.status, response.text);
+    }, function(error) {
+       console.log('FAILED...', error);
+    });*/
+
+
+</script>
 
 
 
 
-</body><editor-card style="position:absolute;top:0px;left:0px;z-index:auto;display: block !important"><div dir="ltr" style="all: initial;"><div style="color: initial; font: initial; font-palette: initial; font-synthesis: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation-composition: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; baseline-source: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: initial; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overlay: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: absolute; quotes: initial; r: initial; resize: initial; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; white-space: initial; timeline-scope: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; view-timeline: initial; view-transition-name: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link rel="stylesheet" href="chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabric-icons.css"><div style="all: initial;"></div></div><div style="color: initial; font: initial; font-palette: initial; font-synthesis: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation-composition: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; baseline-source: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: initial; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overlay: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: absolute; quotes: initial; r: initial; resize: initial; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; white-space: initial; timeline-scope: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; view-timeline: initial; view-transition-name: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"><link rel="stylesheet" href="chrome-extension://hokifickgkhplphjiodbggjmoafhignh/fonts/fabric-icons.css"></div><div id="editorNotificationContainer" style="color: initial; font: initial; font-palette: initial; font-synthesis: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; accent-color: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation-composition: initial; animation: initial; app-region: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; baseline-source: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-end-end-radius: initial; border-end-start-radius: initial; border-inline: initial; border-start-end-radius: initial; border-start-start-radius: initial; bottom: 0px; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-inline-size: initial; container: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: flex; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-direction: column-reverse; flex-wrap: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphenate-character: initial; hyphenate-limit-chars: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; initial-letter: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; left: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: 1em; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; math-depth: initial; math-shift: initial; math-style: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; object-view-box: initial; offset: initial; opacity: initial; order: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-clip-margin: initial; overflow-wrap: initial; overflow: initial; overlay: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: fixed; quotes: initial; r: initial; resize: initial; right: 0px; rotate: initial; ruby-position: initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-gutter: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphasis-position: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; white-space: initial; timeline-scope: initial; top: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; translate: initial; user-select: initial; vector-effect: initial; vertical-align: initial; view-timeline: initial; view-transition-name: initial; visibility: initial; border-spacing: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: 2147483647;"></div></div></editor-card>
+
+
+
+ 								
+		      	
+ 								
+		      	
+ 								
+		      	
+ 								
+		     <div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-50igrh1lc2rm" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=cwQvQhsy4_nYdnSDY4u7O5_B&amp;k=6LcnXaclAAAAAIpViPPcy-HeGAEs3UVNz5OF-nU1" style="width: 100%; height: 100%;"></iframe></div></div></body><!-- Mirrored from www.fipag.co.mz/index.php/pt/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Feb 2023 17:25:09 GMT -->
  								</html>
 		     

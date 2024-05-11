@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
+
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MESQUITA COLOCA ESTRADAS E GESTÃƒO DE RECURSOS HIDRICOS NO TOPO DA AGENDA COM OS JAPONESES</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -342,7 +342,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +374,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -432,7 +432,7 @@ kQuery(function($) {
 <div class="_main-slider _sub">
 	<div class="_slides">
 		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+			<div class="_text_sub">NotÃ­cias</div>
 		</div>
 	</div>
 </div>-->
@@ -451,27 +451,59 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MESQUITA COLOCA ESTRADAS E GESTÃƒO DE RECURSOS HIDRICOS NO TOPO DA AGENDA COM OS JAPONESES</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MESQUITA-COLOCA-ESTRADAS-E-GESTAO-DE-RECURSOS-HIDRICOS-NO-TOPO-DA-AGENDA-COM-OS-JAPONESES.jpg">
+				<div class="date">
+				<span _ed_editable>3 de maio de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Ministro das Obras PÃºblicas, HabitaÃ§Ã£o e Recursos HÃ­dricos, Carlos Mesquita, manteve, quarta-feira, 3 de Maio, na cidade de Maputo, um encontro com o Ministro de Estado e dos NegÃ³cios Estrangeiros do JapÃ£o, Kenji Yamada, que se fazia acompanhar por um grupo 50 empresÃ¡rios daquele paÃ­s, dos quais 25 representam igual nÃºmero de empresas interessadas em investir em MoÃ§ambique.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na sua intervenÃ§Ã£o, Carlos Mesquita falou das vantagens competitivas em relaÃ§Ã£o aos paÃ­ses da regiÃ£o, bem como das oportunidades de negÃ³cio que MoÃ§ambique oferece, que podem interessar o sector privado japonÃªs. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+"NÃ³s privilegiamos o sector privado porque sabemos o que ele representa para o desenvolvimento do nosso paÃ­s. Por isso, posso dizer que vieram no momento certo. GostarÃ­amos de ver mais empresas japonesas a iniciar ou dar continuidade aos negÃ³cios no nosso paÃ­s. Sei que hÃ¡ algumas empresas ligadas ao sector de petrÃ³leo e gÃ¡s, mas queremos outras em Ã¡reas transversais do nosso desenvolvimento", disse o governante.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Carlos Mesquita referiu-se, tambÃ©m, Ã  necessidade de construÃ§Ã£o de infraestruturas de retenÃ§Ã£o e gestÃ£o de recursos hÃ­dricos, dado o facto de o paÃ­s sofrer ciclicamente com cheias e inundaÃ§Ãµes durante a Ã©poca chuvosa pois, "se olharmos para a posiÃ§Ã£o geogrÃ¡fica, MoÃ§ambique tem o mar e o hinterland. EntÃ£o, a tendÃªncia das Ã¡guas Ã© saÃ­rem de montante e passar por MoÃ§ambique em direcÃ§Ã£o ao mar, por isso, precisamos de ter infrastructuras para fazer a retenÃ§Ã£o e gestÃ£o dessas Ã¡guas porque o recurso hÃ­drico Ã© fundamental para o  desenvolvimento".</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Assim, segundo o ministro, o paÃ­s precisa de construir mais barragens uma vez que as actuais sÃ³ conseguem reter 21% dos escoamentos mÃ©dios anuais de Ã¡gua. "Temos essas barragens bem identificadas no mapa, e servirÃ£o para irrigaÃ§Ã£o agrÃ­cola, piscicultura, turismo, indÃºstrias e geraÃ§Ã£o de energia para fazer face ao dÃ©fice que se regista na regiÃ£o".</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Outro sector a que ministro das Obras PÃºblicas, HabitaÃ§Ã£o e Recursos HÃ­dricos se referiu Ã© o das estradas, que, para alÃ©m de satisfazerem as necessidades internas de ligaÃ§Ã£o, tÃªm a vantagem de servir aos paÃ­ses do hinterland, que usam os diversos corredores de transporte para chegarem aos portos nacionais. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Num outro desenvolvimento, o ministro apontou a Ã¡rea da habitaÃ§Ã£o como apetecÃ­vel para o investimento privado, em particular o japonÃªs, olhando para o facto de a populaÃ§Ã£o moÃ§ambicana ser constituÃ­da, na sua maioria, por jovens. 
+"Existe um potencial mercado para a construÃ§Ã£o de vÃ¡rios tipos de casas. Temos diversos projectos, podemos partilhar. Pode-se investir nessas casas e depois vendermos para essa populaÃ§Ã£o que precisa de habitaÃ§Ã£o". </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Por seu turno, o ministro de Estado e dos NegÃ³cios Estrangeiros do JapÃ£o, Kenji Yamada, reiterou a disponibilidade do seu paÃ­s em cooperar com MoÃ§ambique em diversas Ã¡reas, com particular realce para as de interesse comum.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+"MoÃ§ambique e JapÃ£o tÃªm muito em comum. Tal como vocÃªs, nÃ³s tambÃ©m sofremos com desastres naturais, e superamos. Nesta Ã¡rea podemos cooperar. MoÃ§ambique tem uma das maiores reservas de GÃ¡s Natural Liquefeito (GNL), recursos minerais e energÃ©ticos, vantagens geogrÃ¡ficas, e muito mais. Por isso, gostarÃ­amos que aproveitassem os pontos fortes das empresas japonesas para tirarem melhor proveito dos recursos de que dispÃµem". </p>
+
+
+
+
+
+
+
+
+
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
+			<h3>Outras NotÃ­cias</h3>
 			<a href="n-1.php"><div class="_div">
 				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
 					<span class="date">1 de setembro de 2022</span>
 				</div>
 				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
@@ -480,7 +512,7 @@ kQuery(function($) {
 
 			<a  href="n-1.php"><div class="_div">
 				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
 					<span class="date">1 de setembro de 2022</span>
 				</div>
 				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
@@ -489,14 +521,14 @@ kQuery(function($) {
 
 			<a  href="n-1.php"><div class="_div">
 				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
 					<span class="date">1 de setembro de 2022</span>
 				</div>
 				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
 			</div>
 		   </a>
 
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notÃ­cias	<i class="fa fa-long-arrow-right"></i></span></a></div>
 		</div>
 	</div>
 
@@ -534,7 +566,7 @@ kQuery(function($) {
 								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
 
 									<div class="_substrebe_section">
-										 <p>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
+										 <p>Para receber as Ãºltimas notÃ­cias e actualizaÃ§Ãµes, insira o seu e-mail.</p>
 										 <form>
 										 	 <input type="email" name="email" placeholder="Email">
 											 <button>Subscrever</button>
@@ -571,9 +603,9 @@ kQuery(function($) {
 								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
-<span>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</span>
-<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
-<p>Email: geral@dnaas.gov.mz</p>
+<span>DIRECÃ‡ÃƒO NACIONAL DE ABASTECIMENTO DE ÃGUA E SANEAMENTO</span>
+<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P):Â 1611</p>
+<p>Email:Â geral@dnaas.gov.mz</p>
 </div>
 </div></div></div>
 							</div>
@@ -588,7 +620,7 @@ kQuery(function($) {
 <div class="t3-copyright">
     <div class="custom">
 
-	<p>Copyright © 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por  <strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
+	<p>Copyright Â© 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido porÂ Â <strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
 
    </div>
 </div>
@@ -603,6 +635,7 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
@@ -613,9 +646,24 @@ kQuery(function($) {
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

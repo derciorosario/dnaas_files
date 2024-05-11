@@ -1,16 +1,13 @@
 
-<?php
-	      session_start();
-?>
 
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | REUNIÃO DE APRESENTAÇÃO DO PRONASAR AOS ÓRGÃO DE GOVERNAÇÃO DESCENTRALIZADA</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +37,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +338,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,10 +370,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
-<!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
 		 <div class="loader">
@@ -385,11 +380,13 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
+<!-- MAIN NAVIGATION -->
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
+
+ 
 
  
 <div class="_ed_add_and_select_page" style="display: none;">
@@ -398,9 +395,7 @@ kQuery(function($) {
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
-</div>
-  
-        
+</div>       
 
 
         
@@ -451,21 +446,32 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2>REUNIÃO DE APRESENTAÇÃO DO PRONASAR AOS ÓRGÃO DE GOVERNAÇÃO DESCENTRALIZADA</h2>
+			<div class="image">
+				<img src="../../images/noticias/REUNIAO-DE-APRESENTACAO-DO-PRONASAR-AOS-ORGAO-DE-GOVERNACAO-DESCENTRALIZADA.jpg">
+				<div class="date">
+				<span>14 de dezembro de 202</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p> A Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS), reuniu nesta segunda-feira, 13 de Dezembro, Direcções Provinciais de Obras Públicas, parceiros de cooperação e instituições do sector de abastecimento de água, para apresentar o Documento do Pograma Nacional de Abastecimento de Água e Saneamento (PRONSAR), uma iniciativa do Governo de Moçambique que visa elevar a cobertura do Abastecimento de Água e Saneamento seguro nas zonas rurais de Moçambique.</p>
+<p> 
+Para além da apresentação do documento do PRONASAR aos órgãos de governação descentralizada e parceiros, a reunião também tinha como objectivos discutir os desafios da descentralização de fundos, sustentabilidade do programa, bem como o funcionamento dos comités provinciais de supervisão do Programa.</p>
+<p> 
+O PRONASAR tem como objectivo central assegurar que, até o ano de 2030, todas as populações vivendo nas zonas rurais de Moçambique tenham acesso universal e sustentável aos serviços de abastecimento de água e Saneamento seguros, em conformidade com os Objectivos de Desenvolvimento Sustentável.</p>
+<p> 
+A Iniciativa é financiada pelo Governo da República de Moçambique e Parceiros. A previsão é de que de 2019 a 2030, o PRONASAR tenha tido um investimento global de 1.2 mil milhões de dólares americanos.
+</p><p> 
+Para além de promover a construção de infraestruturas de abastecimento de água e saneamento nas zonas rurais do país, o PRONASAR aposta igualmente na sensibilização das comunidades para o uso da latrina. Neste âmbito, mais de 5 mil comunidades rurais já foram declaradas livres do Fecalismo a Céu aberto, uma iniciativa que inclui o envolvimento a comunidade na promoção do uso da latrina melhorada ao nível de comunidades rurais.</p>
+				
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,16 +609,18 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 

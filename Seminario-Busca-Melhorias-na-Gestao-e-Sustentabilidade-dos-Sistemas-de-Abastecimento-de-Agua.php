@@ -2,15 +2,14 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | SEMINÁRIO BUSCA MELHORIAS NA GESTÃO E SUSTENTABILIDADE DOS SISTEMAS DE ABASTECIMENTO DE ÁGUA</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body class="bodybg">
 
  
  
@@ -374,9 +372,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
+   
   <div class="editing-painel" style="display: none;">
-</div> 
-        
+</div>      
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -385,13 +383,13 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -399,7 +397,6 @@ kQuery(function($) {
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
         
 
 
@@ -432,7 +429,7 @@ kQuery(function($) {
 <div class="_main-slider _sub">
 	<div class="_slides">
 		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+			<div class="_text_sub" _ed_editable>Notícias</div>
 		</div>
 	</div>
 </div>-->
@@ -451,21 +448,30 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>SEMINÁRIO BUSCA MELHORIAS NA GESTÃO E SUSTENTABILIDADE DOS SISTEMAS DE ABASTECIMENTO DE ÁGUA</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/Seminario-Busca-Melhorias-na-Gestao-e-Sustentabilidade-dos-Sistemas-de-Abastecimento-de-Agua.jpg">
+				<div class="date">
+				<span _ed_editable>4 de maio de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">Hídricos (MOPHRH) Daniel Baloi, dirige seminário sobre sustentabilidade dos Sistemas de Abastecimento de Água em aglomerados populacionais rurais, pequenas cidades e vilas organizado pela Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS), com apoio dos seus parceiros. O seminário decorre nos dias 25 e 26 de Abril, no Hotel Rovuma, na Cidade de Maputo.</p>	
 
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">O encontro conta com a presença de importantes intervenientes do sector de água no País, o mesmo pretende, partilhar experiências de modelos de gestão; discutir os papéis e responsabilidades dos principais actores para uma melhor gestão dos serviços; debater sobre aspectos de operação e manutenção que possam concorrer para melhoria de sustentabilidade dos SAA; analisar experiências similares locais e de outros países que possam servir de base para melhorar a gestão e sustentabilidade destes serviços; partilhar e refletir sobre os resultados dos diversos estudos sobre SAA nos aglomerados populacionais rurais e vilas; discutir aspectos e desafios de capacidade do sector público-privado e comunitário na gestão sustentável dos SAA. </p>	
 
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">Durante a abertura do seminário Daniel Baloi destacou alguns constrangimentos na gestão dos SAA que vão merecer atenção no seminário de reflexão sobre a sustentabilidade destes serviços nas zonas rurais, vilas e cidades.</p>	
+
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">“Os principais desafios da sustentabilidade na provisão dos serviços de abastecimento de água e saneamento incluem, a fraca viabilidade financeira dos sistemas que poderá causar abandono dos operadores; fraca economia de escala resultando em custos operacionais elevados com destaque para os da energia eléctrica, peças, produtos químicos”, salientou.</p>	
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,18 +609,20 @@ kQuery(function($) {
 
  </div>
 
- <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
- <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
-<script src="js/_editing.js"></script>
-<script src="js/_main.js"></script>
+
+ <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
+ <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+ <script src="js/_editing.js"></script>
+ <script src="js/_main.js"></script>
 
 </body>
 

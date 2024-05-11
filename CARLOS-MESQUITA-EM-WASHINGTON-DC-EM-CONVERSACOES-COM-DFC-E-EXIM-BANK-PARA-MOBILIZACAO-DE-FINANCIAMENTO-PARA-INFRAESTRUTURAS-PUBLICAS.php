@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | 250 MILHÕES USD: BANCO MUNDIAL VAI FINANCIAR PROJECTO DE SEGURANÇA HÍDRICA URBANA NO PAÍS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +40,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +341,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.fipag.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +373,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+    	
+   </div> 
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -389,17 +389,18 @@ kQuery(function($) {
 <nav  style="display:none">
 
 </nav>
+</nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+  <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
         
 
 
@@ -451,21 +452,39 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>CARLOS MESQUITA EM WASHINGTON DC , EM CONVERSAÇÕES COM DFC E EXIM BANK PARA MOBILIZAÇÃO DE FINANCIAMENTO PARA INFRAESTRUTURAS PÚBLICAS (ESTRADAS E ÁGUA)</h2>
+			<div class="image">
+				<img  onclick="_ed_change_img(this)" src="../../images/noticias/CARLOS-MESQUITA-EM-WASHINGTON-DC-EM-CONVERSACOES-COM-DFC-E-EXIM-BANK-PARA-MOBILIZACAO-DE-FINANCIAMENTO-PARA-INFRAESTRUTURAS-PUBLICAS.jpg">
+				<div class="date">
+				<span _ed_editable>23 de Março de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Ministro das Obras Publicas, Habitação e Recursos Hídricos, Carlos Mesquita, manteve em Washington DC, EUA, nos dias  20 e 21 de Março últimos, vários encontros junto de agências de financiamento norte-americanas, para dentre vários assuntos, apresentar projectos específicos em carteira, no sector de infraestruturas que possam ser levados a cabo, em parceria com empresas dos EUA e financiados por aquelas instituições financeiras. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Em Washington, DC, o Ministro moçambicano manteve um encontro com Andrew Herscowitz, Chief Development Officer (CDO), membro do Comité de Investimentos e responsável pela elaboração das estratégias de desenvolvimento do DFC, Agência Financeira e de Desenvolvimento dos EUA que, em parceria com o sector privado, financia projectos projectos nos sectores de energia, infra-estruturas básicas, e tecnologias de informação e comunicação. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+E reuniu-se ainda com Reta Jo Lewis, Presidente do Conselho de Administração do EXIM Bank, uma agência financeira do Governo Federal dos EUA dedicada na concessão de créditos à exportação de bens e serviços e estímulo à criação de postos de emprego nos EUA, com quem _Carlos Mesquita partilhou alguns projectos estruturais, de entre os quais a reabilitação de 130km de estrada de Nametil-Moma, cujo valor estimado é de cerca de 110 milhões de dólares americanos; a reabilitação de 334 km de estrada de Bene a Zumbo, estimado em 340 milhões de dólares; a construção da barragem de Muera em Cabo Delgado, estimado em cerca de 120 milhões de dólares, entre outros .</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A dirigente máxima do Exim Bank manifestou o interesse da sua instituição em apoiar projectos de desenvolvimento socioeconómico em Moçambique, através de seus financiamentos directos e também de recursos mobilizados junto de outros parceiros. O Exim Bank, para além de apoiar em projectos de investimentos, apoia em estudos de viabilidade de projectos.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Durante o encontro, ficou estabelecido, que será constituída brevemente equipes técnicas para aprofundar a análise destes projectos e definição de um plano de acção para o seu desenvolvimento.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O ministro das Obras Públicas, Habitação e Recursos Hídricos faz-se acompanhar, nesta visita, por Raul Mutevuie, Director Nacional de Abastecimento de Água e Saneamento (DNAAS), Suzana Saranga, Presidente da Autoridade Reguladora de Água (AURA), Victor Taucal, Director Geral do FIPAG, Castigo Cossa, PCA da AdRMM e quadros do sector das Obras Públicas.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+De recordar que o EXIM BANK aprovou em 2020, cerca de 5 biliões de dólares norte-americanos para o financiamento directo ao projecto Mozambique LNG a ser implementado pela Total e seus parceiros na Bacia do Rovuma.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Fonte:<a href="https://web.facebook.com/DCIMOPHRH">DCIMOPHRH</a> ou <a href="https://mophrh.gov.mz/">MOPHRH</a>
+</p>
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,19 +622,23 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
 
+
+<!-- Mirrored from www.fipag.co.mz/index.php/pt/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Feb 2023 17:25:09 GMT -->
 </html>

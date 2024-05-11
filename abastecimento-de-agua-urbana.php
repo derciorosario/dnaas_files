@@ -2,15 +2,14 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Abastecimento de Água Urbana - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -38,9 +37,9 @@
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css" />
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
-   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
-  <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
+  <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -350,7 +349,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -374,9 +373,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
-        
+   
+   <div class="editing-painel" style="display: none;">
+</div>     
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -386,12 +385,14 @@ kQuery(function($) {
 	</div>
 </div>  
 
-<nav  style="display:none">
-
+<nav style="display:none">
+    
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+       
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -400,7 +401,6 @@ kQuery(function($) {
 
 </div>
   
-        
 
 
         
@@ -428,22 +428,25 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/others/8.JPG);background-position-y: 17%">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
+			<div class="_text_sub"  _ed_editable>Abastecimento de Água Urbana</div>
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
@@ -451,61 +454,85 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+<div class="_two_column_div">
+	<div class="_flex">
+
+		<div class="text">
+			<h3  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Abastecimento de Água Urbana</h3>
+             <p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+              Assegurar a satisfação das necessidades humanas básicas, melhorando o bem-estar e lutar contra a pobreza rural através do aumento da cobertura e sustentabilidade dos serviços de Abastecimento de Água Rural, alargar o leque das opções tecnológicas e de modelos de gestão bem como o fortalecimento do subsector através da descentralização. Criando capacidades a nível provincial, distrital e local, para a execução de programas de água rural e prestar assistência técnica na preparação dos planos provinciais de abastecimento de água rural bem como a monitoria da sua implementação.
+</p>
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
+
+		</div>
+		<div class="image">
+			<img src="../../images/others/7.JPEG" onclick="_ed_change_img(this)">
+			
+		</div>
+		
+	</div>
+</div>
 
 
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Responsabilidade da Área de Água Urbana</h4>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Definir, promover e propor medidas institucionais e modelos de gestão sustentável para o abastecimento de água urbana;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Elaborar estudos, projectos e avaliar técnicas afins no domínio de abastecimento de água dos centros urbanos;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Monitorar e avaliar a implementação de projectos no âmbito de abastecimento de água urbana;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Operacionalizar e manter actualizado um subsistema de informação e cadastro sobre a informação de abastecimento de água urbana;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Estabelecer mecanismos para que as acções de prestação dos serviços garantam a transparência, a sustentabilidade e prestação de contas no abastecimento de água urbana e coordenar com outras instituições envolvidas;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Apoiar as autarquias no exercício das suas competências no domínio de abastecimento de água urbana;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Promover o envolvimento do sector privado e das organizações da sociedade civil nas actividades de abastecimento de água urbana;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Elaborar pareceres sobre os estudos tarifários do abastecimento de água urbana e supervisionar a aplicação dos mesmos; </span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Acompanhar e propor as acções para o desenvolvimento do quadro da gestão delegada dos sistemas de abastecimento de água urbana.</span>
 		</div>
 	</div>
-
 	
 </div>
 
 
 
-<div style="height: 50px"></div>
+
+
+<div style="height: 100px"></div>
 
 
 
@@ -603,8 +630,11 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+
  <script id="session">
 	  
 		<?php if(isset($_SESSION['username'])):?>
@@ -613,9 +643,11 @@ kQuery(function($) {
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

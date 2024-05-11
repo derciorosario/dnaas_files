@@ -6,11 +6,11 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | CECÍLIA CHAMUTOTA NOMEADA EMBAIXADORA DO PROGRAMA WEBTSKILLS WATER CHALLENGE</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -37,10 +37,11 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css" />
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css" />
-  <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
-   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+  <link rel="stylesheet" href="css/swiper-bundle.min.css"/>
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
+
+
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +343,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +375,12 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   
+        
+<!-- MAIN NAVIGATION -->
+   <div class="editing-painel" style="display: none;">
+    	
+   </div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -391,8 +396,7 @@ kQuery(function($) {
 </nav>
 <!-- //MAIN NAVIGATION -->
 
- 
-<div class="_ed_add_and_select_page" style="display: none;">
+ <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
@@ -400,6 +404,13 @@ kQuery(function($) {
 
 </div>
   
+
+
+ 
+<!-- //MAIN NAVIGATION -->
+
+ 
+
         
 
 
@@ -450,22 +461,40 @@ kQuery(function($) {
 
 
 
-
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>CECÍLIA CHAMUTOTA NOMEADA EMBAIXADORA DO PROGRAMA WEBTSKILLS WATER CHALLENGE</h2>
+			<div class="image">
+				<img  onclick="_ed_change_img(this)" src="../../images/noticias/CECILIA-CHAMUTOTA-NOMEADA-EMBAIXADORA-DO-PROGRAMA-WEBTSKILLS-WATER-CHALLENGE.jpg">
+				<div class="date">
+				<span _ed_editable>14 de junho de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A Vice-Ministra das Obras Públicas Habitação e Recursos Hídricos, Engª Cecília Chamutota, passou desta última Quinta-feira, 08 de Junho de 2023, a representar o Programa Wetskills Water Challenge, iniciativa de uma fundação com sede na Holanda e reconhecida internacionalmente, como promotora dos desafios relacionados à água em diversos países, destacando o talento e conhecimento dos jovens profissionais.</p>
+
+ <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A indicação de Cecília Chamutota para o cargo decorreu na Cidade de Durban, República da África do Sul à convite do Director Geral da Wetskills Foundation, o que representa uma conquista notável para Moçambique e um reconhecimento do compromisso do país com o desenvolvimento dos jovens talentos.</p>
+
+ <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Durante o evento, Chamutota expressou sua gratidão pela nomeação e destacou que essa indicação representa um reconhecimento não apenas para si, mas também para Moçambique, tendo enfatizado o compromisso do Governo moçambicano em investir em jovens profissionais, nomeando-os para cargos de liderança em várias áreas, como demonstração de confiança na capacidade da juventude de impulsionar o progresso do país.</p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Além de sua nomeação como embaixadora, a Vice-Ministra participou do evento "Cocreate My CITY". Durante o encontro, especialistas discutiram temas vitais, como a redução dos riscos de inundação na bacia de Durban, a preparação para o futuro do sector de água por meio de capacitação estratégica, soluções digitais para o sector de águas e o papel da economia no desenvolvimento sustentável do sector hídrico. Como parte do evento, também ocorreram as finais da Wetskills, onde jovens profissionais apresentaram suas soluções para desafios relacionados à água a um júri de especialistas.</p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Vale salientar que, em 2013, ainda estudante de engenharia na UEM, Cecilia Chamutota participou do Programa Wetskills Water Challenge em Maputo, sendo membro da equipe vencedora. Essa experiência proporcionou a Governante a oportunidade de representar Moçambique na Holanda e compartilhar conhecimentos sobre o sector de águas.</p>
+
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -525,16 +554,17 @@ kQuery(function($) {
 
 
         
-<!-- FOOTER --><footer id="t3-footer" class="wrap t3-footer">
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
 
             <div class="container">
 	<div class="t3-spotlight t3-footnav  row">
 				
 							<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
 
 									<div class="_substrebe_section">
-										 <p>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
+										 <p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
 										 <form>
 										 	 <input type="email" name="email" placeholder="Email">
 											 <button>Subscrever</button>
@@ -547,33 +577,35 @@ kQuery(function($) {
 									</div>
 									</div>
 							</div><div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
 
 <div class="separate">
 	
 	<div>
-		<a target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
-		<a target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
-		<a target="_blank" href="https://www.fipag.co.mz/">FIPAG</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.fipag.co.mz/">FIPAG</a>
 	</div>
 	<div>
-		<a _ed_editable target="_blank" href="https://www.aias.gov.mz/">AIAS</a>
-		<a target="_blank" href="https://www.aura.org.mz/">AURA</a>
-		<a target="_blank" href="https://www.adrmm.co.mz/">ADRMM</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.aias.gov.mz/">AIAS</a>
+
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.aura.org.mz/">AURA</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.adrmm.co.mz/">ADRMM</a>
 	</div>
 </div>	
 </div>
 </div></div></div>
 							</div>
 					<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
-<span>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</span>
-<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
-<p>Email: geral@dnaas.gov.mz</p>
+
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</p>
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Email: geral@dnaas.gov.mz</p>
 </div>
 </div></div></div>
 							</div>
@@ -606,16 +638,21 @@ kQuery(function($) {
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
+ 
+
 </body>
 
+
+<!-- Mirrored from www.fipag.co.mz/index.php/pt/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Feb 2023 17:25:09 GMT -->
 </html>

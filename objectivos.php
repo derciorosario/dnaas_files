@@ -2,17 +2,16 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Objectivos - DNAAS</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -38,9 +37,8 @@
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css" />
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
-   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
-  <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
+  <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -302,7 +300,7 @@ kQuery(function($) {
   </script>
   <meta content="Inicio" property="og:title" />
   <meta content="website" property="og:type"/>
-  <meta content="http://www.dnaas.co.mz/index.php/pt/" property="og:url" />
+  <meta content="http://www.fipag.co.mz/index.php/pt/" property="og:url" />
 
     
 <!-- META FOR IOS & HANDHELD -->
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.fipag.co.mz/);" class="bodybg">
 
  
  
@@ -350,7 +348,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -374,10 +372,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+ <div class="editing-painel" style="display: none;">
+</div>
         
-<!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
 		 <div class="loader">
@@ -385,13 +382,14 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
+<!-- MAIN NAVIGATION -->
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -399,8 +397,7 @@ kQuery(function($) {
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+      
 
 
         
@@ -428,84 +425,83 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/others/14.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
 		</div>
+		
+	</div>
+</div>
+<div class="_long-bar" style="height: 1px"></div>
+
+
+
+
+
+
+<section  class="sppb-section " style="padding:50px 0 0 0;">
+	<div class="sppb-container">
+	<!--
+        <div class="_title_section">
+	<div class="_line _left">
+		<span class="s1"></span>
+		<span class="s2"></span>
+		<span class="s3"></span>
+	</div>
+	<h3 class="_title">Objectivos</h3>
+	<div class="_line _right">
+		<span class="s3"></span>
+		<span class="s2"></span>
+		<span class="s1"></span>
 	</div>
 </div>-->
-
-
-
-
-
-
-<section  class="sppb-section " style="padding:0;">
-	<div class="sppb-container">
-
 	
 </div>
 
 
 
-
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
-
-
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div style="max-width: 1024px;display: flex;justify-content: center;margin: 0 auto 5rem">
+<div class="_list_div" style="padding: 1rem;margin:0;">
+	<div class="content"  style="padding: 0;margin:0">
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Objectivos Estratégicos da DNAAS</h4>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Garantir o abastecimento de água a nível urbano e rural, tendo em conta o crescimento da demanda e os níveis de urbanização;</span>
 		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Garantir o saneamento a nível urbano e rural, tendo em conta o crescimento da demanda e os níveis de urbanização;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Liderar e orientar o desenvolvimento do Sector através de uma planificação integrada;</span>
+		</div>
+		<div class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Assegurar o desenvolvimento institucional das instituições do Sector;</span>
+		</div>
+		<div  class="_div _ed _ed_item" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Fortalecer a capacidade institucional da DNAAS nas áreas de gestão administrativa financeira e de recursos humanos.</span>
+		</div>
+		
 	</div>
-
-	
+</div>
+	<div class="_padding_div"></div>
 </div>
 
 
 
-<div style="height: 50px"></div>
+
+
+
 
 
 
@@ -603,8 +599,11 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+
  <script id="session">
 	  
 		<?php if(isset($_SESSION['username'])):?>
@@ -612,10 +611,13 @@ kQuery(function($) {
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
-	   </script>
+</script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
 
+
+<!-- Mirrored from www.fipag.co.mz/index.php/pt/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Feb 2023 17:25:09 GMT -->
 </html>

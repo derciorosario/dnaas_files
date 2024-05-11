@@ -2,7 +2,6 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
@@ -10,7 +9,7 @@
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MINISTRO MESQUITA DIRIGE SESSÃO DO CONSELHO DE SEGURANÇA SOBRE DIREITOS DE CIVIS À ÁGUA</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -385,22 +383,21 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+    <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+      
 
 
         
@@ -451,21 +448,39 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MINISTRO MESQUITA DIRIGE SESSÃO DO CONSELHO DE SEGURANÇA SOBRE DIREITOS DE CIVIS À ÁGUA</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MINISTRO-MESQUITA-DIRIGE-SESSAO-DO-CONSELHO-DE-SEGURANCA-SOBRE-DIREITOS-DE-CIVIS-A-AGUA.1.jpg">
+				<div class="date">
+				<span _ed_editable>23 de Março</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+				<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Moçambique dirigiu, nesta Quarta-Feira a reunião do Conselho de Segurança das Nações Unidas sobre Proteção dos direitos civis, subordinado ao tema “Alcançando melhor proteção dos serviços essenciais de água e infraestruturas para a população, durante os conflitos armados. Moçambique dirigiu a sessão na qualidade de presidente em exercício do Conselho de Segurança das Nações Unidas.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O evento concretizado no contexto da realização da Conferência da Água das Nações Unidas 2023, que decorre de 22 a 24 de Março, foi co-presidido Pelo secretário de estado do Departamento de Assuntos Estrangeiros da Confederação Suíça, num encontro marcado pelos apelos dos países membros da ONU para se melhorar a protecção do direito à água em contextos de conflitos, bem como o respeito do Direito Internacional Humanitário.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Durante as suas notas introdutórias, o presidente da sessão, Carlos Mesquita, realçou o papel da água para manutenção da paz, bem como os esforços as intervenções do governo para prover água para os afectados pelo terrorismo.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+“A nossa experiência provou que assegurar o abastecimento de água para as comunidades afectadas pelos conflitos armados e pelas mudanças climáticas, é um dos elementos críticos para a promoção da paz e estabilidade social, e como membro do Conselho de Segurança, Moçambique valoriza intervenções prioritárias para as comunidades afectadas por conflitos armados.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na sua intervenção, Mesquita destacou ainda os esforços do governo de Moçambique, no âmbito da implementação do Projecto de Reconstrução de Cabo Delgado, para prover água às comunidades afectadas pelo terrorismo na província de Cabo Delgado.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+“Com as Forças de Segurança ganhando território e assegurando o retorno das populações as zonas de origem, o Governo está a implementar O Projecto de Reconstrução de Cabo Delgado, que consiste em recuperar as infraestruturas destruídas pelos ataques terroristas. Considerando que água é uma das necessidades básicas para as populações regressarem às zonas de origem, a recuperação de infraestruturas é a principal componente do Projecto”, realçou Mesquita.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Por seu turno, o Alto Comissário das Nações Unidas, Filippo Grandi, referiu que a Falta de água em tempos de conflito, aumenta de forma considerável o risco de violência, principalmente sobre as mulheres, que muitas vezes são expostas inclusive a violência sexual em busca de água, dai que há necessidade de chamar a atenção do Conselho de Segurança das Nações Unidas, e assegurar que haja protecção do direito a água para as populações civis.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+A delegação de Moçambique participa de 22 a 24 de Março da Conferência da Água das Nações Unidas 2023, que se realiza em Nova York, nos Estados Unidos da América.</p>
+				
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,19 +618,23 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
-	   </script>
+ </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
+
 
 </html>

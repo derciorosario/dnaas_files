@@ -1,18 +1,13 @@
-
-<?php
-	      session_start();
-?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MOPHRH E BANCO MUNDIAL AVALIAM ESTRATÉGIAS DE ACELERAÇÃO DE PROJECTOS EM CURSO</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -40,7 +35,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +336,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +368,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -386,21 +380,22 @@ kQuery(function($) {
 	</div>
 </div>  
 
+
 <nav  style="display:none">
 
 </nav>
-<!-- //MAIN NAVIGATION -->
-
+<!-- //MAIN NAVIGATION 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+     <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+     
+-->
 
 
         
@@ -451,21 +446,32 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MOPHRH E BANCO MUNDIAL AVALIAM ESTRATÉGIAS DE ACELERAÇÃO DE PROJECTOS EM CURSO</h2>
+			<div class="image">
+				<img src="uploaded_imgs/IMG-20240212-WA0068.jpg">
+				<div class="date">
+				<span >12 de fevereiro de 2024</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p >O Ministério das Obras Públicas, Habitação e Recursos Hídricos e o Banco Mundial estiveram sentados nesta segunda-feira, 12 de fevereiro, à mesma mesa para aprofundar a avaliação do ponto de situação dos projectos financiados por esse parceiro estratégico e reafirmar o compromisso contínuo com o desenvolvimento sustentável do país.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Em representação às duas Instituições, Carlos Mesquita e Idah Pswarayi-Riddihough, Ministro das Obras Públicas, Habitação e Recursos Hídricos e Directora do Banco Mundial para Moçambique, respectivamente, destacaram progressos nos processos de Procurement para às Obras de reabilitação da Estrada N1, com ênfase na revisão para assegurar o cumprimento dos prazos; o Projecto Integrado de Desenvolvimento de Estradas Rurais (Quelimane-Nicoadala-Namacurra) que passou por revisões estratégicas visando aprimorar a eficiência e conclusão, especialmente considerando seu impacto nas comunidades rurais. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+No sector de águas, foram abordados diversos projectos, incluindo a reabilitação e expansão dos sistemas de abastecimento de água em Nametil, Malema, Namialo e Namapa, de 35 sistemas de água e 4 Estações de Tratamento de Lamas Fecais e Blocos Sanitários na Zambézia e Nampula; de Abastecimento de Água e Apoio Institucional II (WASIS-II), para as cidades de Pemba, Nacala, Tete e Beira.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Além disso, foram discutidos Projectos de Saneamento Urbano, como as obras na Estação de Tratamento de Águas Residuais (ETAR) de Infulene, o Aterro da Katembe e as redes de esgoto em Maputo e Quelimane.E por último, o Programa Regional de Resiliência Climática na África Oriental e Austral que inclui estudos de reabilitação das barragens dos Pequenos Libombos e Massingir, bem como projectos executivos para diques das bacias de Incomáti, Limpopo, Zambeze e Licungo.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Em declarações conjuntas, Mesquita reafirmou o compromisso com melhorias nas infraestruturas e na qualidade de vida para os moçambicanos. Pswarayi-Riddihough ressaltou o foco do Banco Mundial em garantir o sucesso desses projectos, reconhecendo seu potencial para gerar impacto significativo nas comunidades locais.</p>
 
+</div>
 
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -572,8 +578,8 @@ kQuery(function($) {
 
 <div class="custom">
 <span>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</span>
-<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
-<p>Email: geral@dnaas.gov.mz</p>
+<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
+<p>Email: geral@dnaas.gov.mz</p>
 </div>
 </div></div></div>
 							</div>
@@ -588,7 +594,7 @@ kQuery(function($) {
 <div class="t3-copyright">
     <div class="custom">
 
-	<p>Copyright © 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por  <strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
+	<p>Copyright © 2024 <strong>DNAAS</strong>. Todos direitos reservados.</p><p>Densevolvido por  <strong><a href="http://www.setma.co.mz/" target="_blank" class="setma">SETMA LDA</a></strong></p>
 
    </div>
 </div>
@@ -603,19 +609,18 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
-		<?php if(isset($_SESSION['username'])):?>
-				let _gagoo_=true	
-		<?php else: ?>
-				let _gagoo_=false	
-		<?php endif; ?>
-	   </script>
-<script src="js/_editing.js"></script>
+	 
+						let _gagoo_=true	
+			   </script>
+
+<!-- <script src="js/_editing.js"></script>-->
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

@@ -1,11 +1,15 @@
 <!DOCTYPE html>
+
+  <?php
+                  session_start();
+           ?>
 								<html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
- 								<!-- Added by HTTrack --><head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, d09GRgABAAAAAAZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdERUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAAAFxAAAAFAAAABm2fPczU9TLzIAAAHcAAAASgAAAGBP9V5RY21hcAAAAkQAAACIAAABYt6F0cBjdnQgAAACzAAAAAQAAAAEABEBRGdhc3AAAAWYAAAACAAAAAj//wADZ2x5ZgAAAywAAADMAAAD2MHtryVoZWFkAAABbAAAADAAAAA2E2+eoWhoZWEAAAGcAAAAHwAAACQC9gDzaG10eAAAAigAAAAZAAAArgJkABFsb2NhAAAC0AAAAFoAAABaFQAUGG1heHAAAAG8AAAAHwAAACAAcABAbmFtZQAAA/gAAAE5AAACXvFdBwlwb3N0AAAFNAAAAGIAAACE5s74hXjaY2BkYGAAYpf5Hu/j+W2+MnAzMYDAzaX6QjD6/4//Bxj5GA8AuRwMYGkAPywL13jaY2BkYGA88P8Agx4j+/8fQDYfA1AEBWgDAIB2BOoAeNpjYGRgYNBh4GdgYgABEMnIABJzYNADCQAACWgAsQB42mNgYfzCOIGBlYGB0YcxjYGBwR1Kf2WQZGhhYGBiYGVmgAFGBiQQkOaawtDAoMBQxXjg/wEGPcYDDA4wNUA2CCgwsAAAO4EL6gAAeNpj2M0gyAACqxgGNWBkZ2D4/wMA+xkDdgAAAHjaY2BgYGaAYBkGRgYQiAHyGMF8FgYHIM3DwMHABGQrMOgyWDLEM1T9/w8UBfEMgLzE////P/5//f/V/xv+r4eaAAeMbAxwIUYmIMHEgKYAYjUcsDAwsLKxc3BycfPw8jEQA/gZBASFhEVExcQlJKWkZWTl5BUUlZRVVNXUNTQZBgMAAMR+E+gAEQFEAAAAKgAqACoANAA+AEgAUgBcAGYAcAB6AIQAjgCYAKIArAC2AMAAygDUAN4A6ADyAPwBBgEQARoBJAEuATgBQgFMAVYBYAFqAXQBfgGIAZIBnAGmAbIBzgHsAAB42u2NMQ6CUAyGW568x9AneYYgm4MJbhKFaExIOAVX8ApewSt4Bic4AfeAid3VOBixDxfPYEza5O+Xfi04YADggiUIULCuEJK8VhO4bSvpdnktHI5QCYtdi2sl8ZnXaHlqUrNKzdKcT8cjlq+rwZSvIVczNiezsfnP/uznmfPFBNODM2K7MTQ45YEAZqGP81AmGGcF3iPqOop0r1SPTaTbVkfUe4HXj97wYE+yNwWYxwWu4v1ugWHgo3S1XdZEVqWM7ET0cfnLGxWfkgR42o2PvWrDMBSFj/IHLaF0zKjRgdiVMwScNRAoWUoH78Y2icB/yIY09An6AH2Bdu/UB+yxopYshQiEvnvu0dURgDt8QeC8PDw7Fpji3fEA4z/PEJ6YOB5hKh4dj3EvXhxPqH/SKUY3rJ7srZ4FZnh1PMAtPhwP6fl2PMJMPDgeQ4rY8YT6Gzao0eAEA409DuggmTnFnOcSCiEiLMgxCiTI6Cq5DZUd3Qmp10vO0LaLTd2cjN4fOumlc7lUYbSQcZFkutRG7g6JKZKy0RmdLY680CDnEJ+UMkpFFe1RN7nxdVpXrC4aTtnaurOnYercZg2YVmLN/d/gczfEimrE/fs/bOuq29Zmn8tloORaXgZgGa78yO9/cnXm2BpaGvq25Dv9S4E9+5SIc9PqupJKhYFSSl47+Qcr1mYNAAAAeNptw0cKwkAAAMDZJA8Q7OUJvkLsPfZ6zFVERPy8qHh2YER+3i/BP83vIBLLySsoKimrqKqpa2hp6+jq6RsYGhmbmJqZSy0sraxtbO3sHRydnEMU4uR6yx7JJXveP7WrDycAAAAAAAH//wACeNpjYGRgYOABYhkgZgJCZgZNBkYGLQZtIJsFLMYAAAw3ALgAeNolizEKgDAQBCchRbC2sFER0YD6qVQiBCv/H9ezGI6Z5XBAw8CBK/m5iQQVauVbXLnOrMZv2oLdKFa8Pjuru2hJzGabmOSLzNMzvutpB3N42mNgZGBg4GKQYzBhYMxJLMlj4GBgAYow/P/PAJJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA');font-weight:400;font-style:normal}
-</style><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+ 								<head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, d09GRgABAAAAAAZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdERUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAAAFxAAAAFAAAABm2fPczU9TLzIAAAHcAAAASgAAAGBP9V5RY21hcAAAAkQAAACIAAABYt6F0cBjdnQgAAACzAAAAAQAAAAEABEBRGdhc3AAAAWYAAAACAAAAAj//wADZ2x5ZgAAAywAAADMAAAD2MHtryVoZWFkAAABbAAAADAAAAA2E2+eoWhoZWEAAAGcAAAAHwAAACQC9gDzaG10eAAAAigAAAAZAAAArgJkABFsb2NhAAAC0AAAAFoAAABaFQAUGG1heHAAAAG8AAAAHwAAACAAcABAbmFtZQAAA/gAAAE5AAACXvFdBwlwb3N0AAAFNAAAAGIAAACE5s74hXjaY2BkYGAAYpf5Hu/j+W2+MnAzMYDAzaX6QjD6/4//Bxj5GA8AuRwMYGkAPywL13jaY2BkYGA88P8Agx4j+/8fQDYfA1AEBWgDAIB2BOoAeNpjYGRgYNBh4GdgYgABEMnIABJzYNADCQAACWgAsQB42mNgYfzCOIGBlYGB0YcxjYGBwR1Kf2WQZGhhYGBiYGVmgAFGBiQQkOaawtDAoMBQxXjg/wEGPcYDDA4wNUA2CCgwsAAAO4EL6gAAeNpj2M0gyAACqxgGNWBkZ2D4/wMA+xkDdgAAAHjaY2BgYGaAYBkGRgYQiAHyGMF8FgYHIM3DwMHABGQrMOgyWDLEM1T9/w8UBfEMgLzE////P/5//f/V/xv+r4eaAAeMbAxwIUYmIMHEgKYAYjUcsDAwsLKxc3BycfPw8jEQA/gZBASFhEVExcQlJKWkZWTl5BUUlZRVVNXUNTQZBgMAAMR+E+gAEQFEAAAAKgAqACoANAA+AEgAUgBcAGYAcAB6AIQAjgCYAKIArAC2AMAAygDUAN4A6ADyAPwBBgEQARoBJAEuATgBQgFMAVYBYAFqAXQBfgGIAZIBnAGmAbIBzgHsAAB42u2NMQ6CUAyGW568x9AneYYgm4MJbhKFaExIOAVX8ApewSt4Bic4AfeAid3VOBixDxfPYEza5O+Xfi04YADggiUIULCuEJK8VhO4bSvpdnktHI5QCYtdi2sl8ZnXaHlqUrNKzdKcT8cjlq+rwZSvIVczNiezsfnP/uznmfPFBNODM2K7MTQ45YEAZqGP81AmGGcF3iPqOop0r1SPTaTbVkfUe4HXj97wYE+yNwWYxwWu4v1ugWHgo3S1XdZEVqWM7ET0cfnLGxWfkgR42o2PvWrDMBSFj/IHLaF0zKjRgdiVMwScNRAoWUoH78Y2icB/yIY09An6AH2Bdu/UB+yxopYshQiEvnvu0dURgDt8QeC8PDw7Fpji3fEA4z/PEJ6YOB5hKh4dj3EvXhxPqH/SKUY3rJ7srZ4FZnh1PMAtPhwP6fl2PMJMPDgeQ4rY8YT6Gzao0eAEA409DuggmTnFnOcSCiEiLMgxCiTI6Cq5DZUd3Qmp10vO0LaLTd2cjN4fOumlc7lUYbSQcZFkutRG7g6JKZKy0RmdLY680CDnEJ+UMkpFFe1RN7nxdVpXrC4aTtnaurOnYercZg2YVmLN/d/gczfEimrE/fs/bOuq29Zmn8tloORaXgZgGa78yO9/cnXm2BpaGvq25Dv9S4E9+5SIc9PqupJKhYFSSl47+Qcr1mYNAAAAeNptw0cKwkAAAMDZJA8Q7OUJvkLsPfZ6zFVERPy8qHh2YER+3i/BP83vIBLLySsoKimrqKqpa2hp6+jq6RsYGhmbmJqZSy0sraxtbO3sHRydnEMU4uR6yx7JJXveP7WrDycAAAAAAAH//wACeNpjYGRgYOABYhkgZgJCZgZNBkYGLQZtIJsFLMYAAAw3ALgAeNolizEKgDAQBCchRbC2sFER0YD6qVQiBCv/H9ezGI6Z5XBAw8CBK/m5iQQVauVbXLnOrMZv2oLdKFa8Pjuru2hJzGabmOSLzNMzvutpB3N42mNgZGBg4GKQYzBhYMxJLMlj4GBgAYow/P/PAJJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA');font-weight:400;font-style:normal}
+</style><meta http-equiv="content-type" content="text/html;charset=utf-8">
 
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Grupo de Água e Saneamento - DNAAS</title>
+  <title>Noticia | MESQUITA COLOCA ESTRADAS E GESTÃƒO DE RECURSOS HIDRICOS NO TOPO DA AGENDA COM OS JAPONESES</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css">
@@ -32,9 +36,10 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css">
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css">
-     <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
+  <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css">
+   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
   <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">
-
+  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -335,7 +340,7 @@ kQuery(function($) {
 <!-- You can add Google Analytics here or use T3 Injection feature -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap" async="" defer=""></script>
-<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg" _ed_edit="false" _ed_active="false">
 
  
  
@@ -343,38 +348,14 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
-				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
+	<div class="top-header increase" style="margin-top: 0px;">
+				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable="">A+</span> <span class="center" not_resizable="">|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable="">A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
-<div class="header-2">
-   <div class="logo-container">
-      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
-	  <div>
-	     <span class="dnaas">DNAAS</span><br/>
-		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
-
-	  </div>
-   </div>
-
-   <div class="right-side">
-     <div>
-	 <img src="rp.png" style="height:35px;width:35px">
-     <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
-	 </div>
-   </div>
-   </div>
 	<!-- //SPOTLIGHT 1 -->
 
-    <div class="editing-painel" style="display: none;"></div>
-   <div class="form-loader" style="display: none;">
-	<div class="loader-c">
-		 <div class="loader">
-		 	 
-		 </div>
-	</div>
-</div>      
+   <div class="editing-painel" style="display: none;"></div>
+        
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -384,7 +365,7 @@ kQuery(function($) {
 	</div>
 </div>  
 
-<nav style="display: block;" class=""><div class="navbar">
+<nav style="display: block;" class="float"><div class="navbar">
 <i class="bx bx-menu"></i>
 <div class="logo"><a href="#"><img src="../../images/layout/dnnas-logo.png"></a></div>
 <div class="nav-links">
@@ -456,6 +437,7 @@ kQuery(function($) {
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
 		  </ul>
 	  </div>
@@ -546,7 +528,7 @@ kQuery(function($) {
 		</div>
 	</div></div>
   
-         
+        
 
 
         
@@ -574,24 +556,22 @@ kQuery(function($) {
 
 
 
-
+<!--
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1" style="background-image: url(../../images/_main/2.jpg)">
-			<div class="fill" _ed_hover_border="" onclick="_ed_change_bottom_img(this.parentElement)"></div>
-			<div class="_text_sub" _ed_editable="">Grupo de Água e Saneamento</div>
+		<div class="_slide s1">
+			<div class="_text_sub">NotÃ­cias</div>
 		</div>
 	</div>
-</div>
-<div class="_long-bar" style="height: 1px"></div>
+</div>-->
 
 
 
 
 
-<section class="sppb-section " style="padding:50px 0 0 0;">
+
+<section class="sppb-section " style="padding:0;">
 	<div class="sppb-container">
-	
 
 	
 </div>
@@ -599,39 +579,92 @@ kQuery(function($) {
 
 
 
-
-<div class="_publicacoes">
-	<div class="_p_content">
-		
-   <div class="_title_section">
-	<div class="_line _left">
-		<span class="s1"></span>
-		<span class="s2"></span>
-		<span class="s3"></span>
-	</div>
-	<h3 class="_title" _ed_editable="">Grupo de Água e Saneamento</h3>
-	<div class="_line _right">
-		<span class="s3"></span>
-		<span class="s2"></span>
-		<span class="s1"></span>
-	</div>
-</div>
+<div class="_news">
+	 <div class="content" style="margin-bottom: 0">
+		<div class="_n">
+			<h2 _ed_editable="">MESQUITA DIRIGE REUNIÃO DO ESTABELECIMENTO DOS COMITÉS PROVINCIAIS DE SUPERVISÃO DO PRONASAR DA REGIÃO SUL DO PAÍS</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="uploaded_imgs/tt13.jpg">
+				<div class="date">
+				<span _ed_editable="">13 de Dezembro de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
 
-	<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
-		<div class="_loader">
-			<div></div>
+
+
+
+
+
+
+
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5">&nbsp;<span style="background-color: transparent;">
+
+
+Estabelecidos os Comités de Supervisão Provinciais do PRONASAR das províncias de Maputo, Gaza e Inhambane declarou, nesta quarta-feira, 13 de Dezembro de 2023, o Ministro de Obras Públicas e Habitação Carlos Alberto Fortes Mesquita, durante a reunião que teve como objectivo discutir as perspectivas do País e do Sector de Abastecimento de água e Saneamento, relativamente ao alcance dos objectivos do Programa, respectivamente: assegurar a disseminação e o melhor entendimento sobre os principais objectivos, abordagens e metas na implementação do PRONASAR e disseminar os Termos de Referência do Comité de Supervisão Provincial, incluindo o papel e responsabilidades à todos os níveis da Província.
+A reunião contou com a participação de representantes de instituições governamentais, dos parceiros de cooperação, quadros do sector de água e saneamento, economia e finanças, saúde e educação, ONG`s que apoiam os programas do sector de água e saneamneto entre outros.
+“O PRONASAR estabeleceu o compromisso de criar e estabelecer Comités de Supervisão em todas as províncias do País e liderados pelos Governadores Provinciais, com a finalidade de assegurar a realização plena das actividades inscritas no Programa, assegurar uma planificação coordenada, a sindicancia, a monitoria e avaliação do progresso e impacto das actividades, incluindo a adequada utilização dos recursos materiais e financeiros disponiveis” afirmou Carlos Mesquita durante a sua intervenção.
+Durante a abertura do evento, Mesquita chamou atenção para a necessidade de se colaborar para o sucesso do PRONASAR numa altura em que o país tem sido afectado pelas mudanças climaticas, principalmente nas zonas rurais. “Por isso, gostaria de destacar que deve ser feito um esforço para assegurar o uso racional da água, tendo em conta que neste momento a Região da África Austral esta sendo afectada por um forte El Ninõ que implusionará alta demanda de água, porque os eventos do El Ninõ podem vir a provocar a ocorrência de seca na região Sul e parte da região Centro do País."
+Por sua vez o Governador da Província de Maputo, Júlio Parruque, salientou que o governo de Moçambique, com o PRONASAR, conseguiu materializar um dos seus grandes desafios no que tange a transferência de competências do Governo Central para o Governo local no que se refere a descentralização. Disse ainda que “ no presente ano foram construidos 8 sistemas de Abastecimento de água na nossa provincia de Maputo, subestabelecendo uma taxa de cobertura de abastecimento de água de 54% iniciais para 77% correspondendo a 547.309 pessoas com acesso a água potável e 38% correspondente a 270.101 pessoas com acesso ao saneamento seguro.
+Para a representante dos parceiros de cooperação, Rita Zacarias, o estabelecimento dos Comités é de extrema importância pois permite uma melhor coordenação, planificação e recolha da intervenção de todos no sector de Abastecimento de Água e Saneamento. E alocação de fundos com este fórum irá melhorar bastante evitando sobreposição de investimentos, contribuindo significativamente para o alcance dos Objectivos do Desenvolvimento Sustentável (ODS).
+O PRONASAR é um programa de moçambicanos, feito para moçambicanos.</p>
+
+
+
+
+
+
+
+
+
+				
+			</div>
+
+		</div>
+
+		<div class="_right_side" style="display: none">
+			<h3>Outras NotÃ­cias</h3>
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
+			</div>
+		   </a>
+
+			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notÃ­cias	<i class="fa fa-long-arrow-right"></i></span></a></div>
 		</div>
 	</div>
 
 	
-
-</div></div>
-	</div>
 </div>
 
 
+
+<div style="height: 50px"></div>
 
 
 
@@ -720,13 +753,12 @@ kQuery(function($) {
 </div></footer>
 <!-- //FOOTER -->
 
-<div id="back-to-top" class="back-to-top">
+<div id="back-to-top" class="back-to-top reveal">
     <i style="font-size: 1.9rem" class="fa fa-angle-up fa-2x"></i>
 </div>
 
 
  </div>
-
 
 
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
@@ -745,6 +777,19 @@ kQuery(function($) {
 
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

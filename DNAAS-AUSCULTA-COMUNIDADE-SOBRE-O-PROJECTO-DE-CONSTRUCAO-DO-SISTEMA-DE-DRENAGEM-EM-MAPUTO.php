@@ -451,21 +451,36 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
+				<div class="date">
+				<span _ed_editable>10 de maio de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">A Direção Nacional de Abastecimento de Água e Saneamento (DNAAS), organizou hoje, 09 de Maio, em Maputo, uma reunião de consulta pública para apresentação do relatório do estudo ambiental simplificado que tem como fim último a construção do Sistema de Drenagem de Águas Pluviais nos bairros de Maxaquene e Polana Caniço.</p>
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O evento de consulta pública, que contou com a presença de residentes dos bairros afectados, representantes do sector de água e saneamento, estudantes da área ambiental, parceiros de cooperação e outras instituições públicas, tinha como objectivos partilhar informação sobre o projecto, esclarecer dúvidas e colher opiniões para a melhoria do relatório de estudo ambiental simplificado antes da sua submissão ao Ministério da Terra e Ambiente (MTA) para o devido Licenciamento ambiental.
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Durante a reunião, Roberto Mungoi, chefe do Departamento de Saneamento na Direcção Nacional de Abastecimento de Água e Saneamento, destacou a importância de uma auscultação prévia em projectos do género, como forma de evitar constrangimentos na implementação dos mesmos. 
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">“Projectos do género não devem ser implementados sem antes fazer-se um estudo ambiental e, mais importante, sem interagir com a comunidade afectada de modo a evitar problemas futuros, razão pela qual estamos todos aqui para colher diferentes opiniões e contribuições para a execução do projecto em causa”, disse Mungoi a uma plateia multidisciplinar.
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Implementado pelo Ministério das Obras Públicas, Habitação e Recursos Hídricos, o Projecto de Saneamento Ambiental prevê a construção de 14km de drenagem de águas pluviais nos bairros de Maxaquene e Polana Caniço, num valor global de 61.7 milhões de Euros, financiados pela Cooperação Italiana
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O Projecto foi desenhado com o objectivo de minimizar o impacto negativo das inundações urbanas e reduzir a erosão do solo causada pela deficiente drenagem de águas pluviais.
 
+DNAAS - Saneamento para todos, Responsabilidade de Todos.</p>
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>

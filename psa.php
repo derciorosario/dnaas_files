@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>PSA - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +40,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +341,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -350,7 +349,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -374,9 +373,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
+   
   <div class="editing-painel" style="display: none;">
-</div> 
-        
+</div>      
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -385,11 +384,10 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
-<!-- //MAIN NAVIGATION -->
+
 
  
 <div class="_ed_add_and_select_page" style="display: none;">
@@ -399,7 +397,7 @@ kQuery(function($) {
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
+
         
 
 
@@ -428,22 +426,29 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/gipsa-main.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
+			
 		</div>
 	</div>
-</div>-->
+</div>
+
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+
+
+
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
@@ -451,61 +456,132 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+<div class="_two_column_div">
+	<div class="_flex">
+		<div class="text">
+			<h3  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Projecto de Saneamento Ambiental</h3>
+	 <p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Título:</strong>  Sistema de Drenagem de Aguas Pluviais na Cidade de Maputo -  AID 8420.</p>	
+
+<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Custo Total:</strong> 63.200.000 Euros</p>
+
+<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Financiador:</strong>  Ítalia</p>
+
+<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Entidade Implementadora:</strong>  MOPHRH-DNAAS</p>
+
+<p  _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Objectivo do Projecto:</strong> O objectivo geral do Programa relativo ao presente Contrato è a intervenção no Sector do Saneamento, de modo a contribuir de forma significativa e efectiva no desenvolvimento económico e social de Moçambique e em particular da população directamente abrangida.</p>
+
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais<i class="fas fa-chevron-down"></i></span>
+</div>
+		</div>
+		<div class="image ">
+			<img src="../../images/projectos/gipsa.PNG" onclick="_ed_change_img(this)">
+		</div>
+		
+	</div>
+</div>
 
 
 
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
+<div class="_one_colunm bg _div_hide _div-1">
+    <div class="content">
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"> Com o Programa pretende-se realizar o projecto de cooperação internacional no que se refere a:</p>
 
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+  <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Saneamento da Cidade de Maputo nos Bairros de Maxaquene  e Polana Caniço - Construção do Sistema de Drenagem de Aguas Pluviais na Cidade de Maputo.</p>
+
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Provincia de Implementação:</strong> Cidade de Maputo</p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Elaboração do projecto so empresas italianas:</strong></p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O desenho, a fiscalização dos trabalhos e as pesquisas geológicas e EIA (Estudos de Impacto Ambiental) para o Projecto, estão estimados em 4.000.000 (dois milhões, cento e sessenta mil) de Euros.</p>
+
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Elaboração do projecto so empresas italianas:</strong></p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O desenho, a fiscalização dos trabalhos e as pesquisas geológicas e EIA (Estudos de Impacto Ambiental) para o Projecto, estão estimados em 4.000.000 (dois milhões, cento e sessenta mil) de Euros.</p>
+
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5"><strong>Departamento Responsável:</strong> Departamento de Saneamento</p>
+     </div>
+
+</div>
+
+<div class="_one_colunm bg _div_hide _div-1">
+<div class="content">
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5">Componente nº 1 dos Serviços de Consultoria: Projecto Técnico de Engenharia e Assistência Técnica</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Elaboração do Projecto Técnico Definitivo de Engenharia, prestação de Assistência Técnica, realização do Estudo de Impacto Ambiental das Obras a serem construídas, designadamente as do Sistema de Drenagem de Bairros da Cidade de Maputo, Obras Acessórias, Habitações, Estruturas e Infra-estruturas Socias para o Reassentamento e Reordenamento das Comunidades afectadas pela realização das Obras.</p>
+<br>
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5">Componente nº 2 dos Serviços de Consultoria: Apoio ao Reassentamento e Reordenamento</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Elaboração do Plano de Reassentamento e Reordenamento das Famílias e Comunidades afectadas pela realização das Obras, elaboração de Programas socioeconómicos a serem implementados na fase pós Reassentamento e Reordenamento.</p>
+<br>
+</div>
+</div>
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Construção  paises da UE e ACP</h4>
+		<div class="_div">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O custo da construção do Projecto, estimado em 47.000.000 (quarenta e sete milhões) de Euros.</span>
+		</div>
+		<div class="_div">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Intervenções estruturais adicionais para a mitigação de impactos sociais do Projecto do Sistema de Drenagem, incluindo contribuição para a construção da nova área residencial de reassentamento. O custo estimado desta componente é de 9.000.000,00 (nove milhões) de Euros.</span>
+		</div>
+		
+	</div>
+	
+</div>
+
+<div class="_one_colunm bg _div_hide _div-1">
+<div class="content">
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5">Componente nº 3 dos Serviços de Consultoria: Projecto Técnico de Engenharia e Assistência Técnica</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Elaboração do Projecto Técnico Definitivo de Engenharia, prestação de Assistência Técnica, realização do Estudo de Impacto Ambiental das Obras a serem construídas, designadamente as do Sistema de Drenagem de Bairros da Cidade de Maputo, Obras Acessórias, Habitações, Estruturas e Infra-estruturas Socias para o Reassentamento e Reordenamento das Comunidades afectadas pela realização das Obras.</p>
+<br>
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5">Componente nº 4 dos Serviços de Consultoria: Apoio ao Reassentamento e Reordenamento</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Elaboração do Plano de Reassentamento e Reordenamento das Famílias e Comunidades afectadas pela realização das Obras, elaboração de Programas socioeconómicos a serem implementados na fase pós Reassentamento e Reordenamento.</p>
+</div>
+</div>
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Resultado Esperado</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Realização da Drenagem primária e secundária (canalização/canais /aquedutos e estradas de varia largura com escoadouros) nos Sistemas de Drenagem do Bairro da Polana Caniço e de Maxaquene, a serem identificados como:Sistemas nº 3A-B, 3B-C, 6, 7A, 7B e 8 à montante da Av.Julius Nyerere </span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Capacitação do MOPHRH-DNAAS / Município da Cidade de Maputo para a gestão eficaz do sistema de drenagem e para executar a manutenção;</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Reassentamento e Reordenamento das famílias que vivem actualmente nas áreas atingidas pela construção dos Sistemas de Drenagem;</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Realização de habitações, estruturas e infra-estruturas socias em apoio ao Reassentamento.</span>
 		</div>
 	</div>
-
 	
 </div>
 
 
 
-<div style="height: 50px"></div>
+<div style="height: 60px"></div>
+
+
+
+
+
+
 
 
 
@@ -603,16 +679,18 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 

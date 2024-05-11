@@ -6,12 +6,12 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
- 
+  <title>Mensagem do Director - DNAAS</title>
+  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
@@ -38,9 +38,9 @@
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css" />
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
-   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
-  <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
+<link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +342,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body  _ed_active="false" _ed_edit="false">
 
  
  
@@ -373,9 +373,116 @@ kQuery(function($) {
    </div>
    </div>
 	<!-- //SPOTLIGHT 1 -->
+	
+	<header>
+	<nav style="display: block;" class=""><div class="navbar">
+<i class="bx bx-menu active"></i>
+<div class="logo"><a href="#"><img src="../../images/layout/dnnas-logo.png"></a></div>
+<div class="nav-links">
+  <div class="sidebar-logo active">
+	<span class="logo-name">Menu</span>
+	<i class="bx bx-x"></i>
+  </div>
+  <ul class="links">
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a href="index.php" _ed_editable="">Inicio</a></li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable="">Sobre Nós</a>
+	  <i class="bx bxs-chevron-down htmlcss-arrow arrow  "></i>
+	  <ul class="htmlCss-sub-menu sub-menu">
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="mensagem-do-director.php">Mensagem do Director</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="sobre-nos.php">Quem Somos</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="missao-visao-e-valores.php">Missão, Visão e Valores</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="objectivos.php">Objectivos</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="organograma.php">Organograma</a></li>
+	  </ul>
+	</li>
+	 <li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable="">Actuação</a>
+	  <i class="bx bxs-chevron-down htmlcss-arrow arrow  "></i>
+	  <ul class="htmlCss-sub-menu sub-menu">
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="abastecimento-de-agua-rural.php">Abastecimento de Água Rural</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="abastecimento-de-agua-urbana.php">Abastecimento de Água Urbana</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="saneamento-rural.php">Saneamento Rural</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="saneamento-urbano.php">Saneamento Urbano</a></li>
+	  </ul>
+	</li>
+	 <li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable="">Coberturas</a>
+	  <i class="bx bxs-chevron-down htmlcss-arrow arrow  "></i>
+	  <ul class="htmlCss-sub-menu sub-menu">
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="cobertura-de-abastecimento-de-agua.php">Cobertura de Abastecimento de Água</a></li>
+		<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="cobertura-de-saneamento.php">Cobertura de Saneamento</a></li>
+	  </ul>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable="">Projectos</a>
+	  <i class="bx bxs-chevron-down js-arrow arrow"></i>
+	  <div class="sub-menu column-2">
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="pronasar.php">PRONASAR</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="sinas.php" "="">SINAS</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="psa.php" "="">Projecto de Saneamento Ambiental</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="pravida.php">PRAVIDA</a></li>
+		  </ul>
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="lona.php">Lona</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="projecto-de-saneamento-urbano.php">Projecto de Saneamento Urbano</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="regenera.php">Regenera</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="projecto-de-reconstrucao-de-cabo-delgado.php">Projecto de Reconstrução de Cabo Delgado</a></li>
+		  </ul>
+	  </div>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable="" class="">Comunicação</a>
+	  <i class="bx bxs-chevron-down js-arrow arrow "></i>
+	  <div class="sub-menu column-2">
+		  <ul class="">
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="noticias.php" class="">Notícias</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="comunicados-de-imprensa.php" class="">Comunicados de Imprensa</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="eventos.php">Galeria de Imagens</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="videos.php">Vídeos</a></li>
+		  </ul>
+		  <ul>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="apresentacoes.php">Apresentações</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
+		  </ul>
+	  </div>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7">
+	  <a href="#" _ed_editable="" class="">Documentação</a>
+	  <i class="bx bxs-chevron-down js-arrow arrow "></i>
+	  <div class="sub-menu column-2">
+		  <ul class="">
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="relatorios-do-sector.php" class="">Relatórios do Sector</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="regulamentos.php" class="">Regulamentos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="decretos.php">Decretos</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="documentos-orientadores.php" class="">Documentos Orientadores</a></li>
+		  </ul>
+		  <ul>
+			
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="legislacao.php">Legislação</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="estudos-e-investigacoes.php">Estudos e Investigações</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="salvaguardas-ambientais-e-sociais.php" class="">Salvaguardas Ambientais e Sociais</a></li>
+		  </ul>
+	  </div>
+	</li>
+	<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a href="contactos.php" _ed_editable="" class="">Contacto</a></li>
+  </ul>
+</div>
+<div class="search-box">
+  <i class="bx bx-search"></i>
+  <input style="border-radius: 5px" type="text" placeholder="Persquisar...">
+</div>
+</div></nav>
+</header>
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+
+<div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -386,12 +493,15 @@ kQuery(function($) {
 	</div>
 </div>  
 
+
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+        
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -399,9 +509,6 @@ kQuery(function($) {
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
-
 
         
 
@@ -428,80 +535,81 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/_main/1.JPEG);background-position-y: 17%;">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
+			<div class="_text_sub" _ed_editable class="active">Mensagem do Director</div>
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
-
-	
 </div>
 
 
 
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+<div class="_two_column_div">
+	<div class="_flex">
 
+		<div class="text">
+			<h3 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5" class="active">Mensagem do Director</h3>
+             <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+				Sejam todos bem-vindos à página oficial da Direcção Nacional de Abastecimento de Água e Saneamento – DNAAS. 
+			</p>
+			<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+				A DNAAS é uma instituição pública sob tutela do Ministério das Obras Públicas, Habitação e Recursos Hídricos (MOPHRH), cuja principal missão é garantir o desenvolvimento do Sector de Abastecimento de Água e Saneamento, através do fortalecimento de capacidades para a gestão sustentável e um acesso universal a serviços de água e saneamento.
+			</p>
 
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
 		</div>
+		<div class="image">
+			<img onclick="_ed_change_img(this)" src="../../images/others/raul-mutevuie-junior.jpg">
+			<div class="_name_div">
+				<span class="title" _ed_editable>Raúl Mutevuie Júnior</span>
+				<span class="name" _ed_editable>Director Nacional</span>
+			</div>
+		</div>
+		
 	</div>
-
-	
 </div>
+
+
+<div class="_one_colunm bg _div_hide _div-1">
+    <div class="content">
+        <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+    Acreditamos, e está provado cientificamente, que a melhoria das condições de água e saneamento tem um impacto directo considerável na redução de doenças e na consequente melhoria da qualidade de vida das pessoas.
+  </p>
+
+  <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+    Por isso, a DNAAS não cessará os seus esforços para implementar actividades que nos conduzam ao almejado estado em que todos os moçambicanos tenham acesso a serviços seguros de abastecimento de água e saneamento, em conformidade com as metas do Programa Quinquenal do Governo 2020-2024 e com os Objectivos de Desenvolvimento definidos pelas Nações Unidas.
+  </p>
+
+  <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+    De forma integrada com os sectores de saúde, educação, ambiente e agricultura, a DNAAS está a concentrada no aumento da cobertura nacional de abastecimento de água (a nível rural e urbano), bem como no incremento da cobertura de saneamento, com destaque para a eliminação do fecalismo a céu aberto. Para o efeito, estão em curso várias actividades sectoriais visando a concretização deste desiderato, incluindo iniciativas de criação de sustentabilidade económica, financeira, manutenção física e resiliência das infraestruturas a eventos extremos.
+	</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+         
+		 Caros cidadãos, a nossa expectativa é de que esta plataforma seja útil para partilha de informação de utilidade pública produzida pela DNAAS, no âmbito do direito constitucional de acesso à informação a que todos os cidadãos moçambicanos têm direito.
+Se por um lado estamos disponíveis a partilhar informação pública relevante sobre as actividades da DNAAS, também contamos com a contribuição de todos os moçambicanos para que a DNAAS cumpra cabalmente com a sua missão, convictos de que o alcance de serviços de água e saneamento para todos os Moçambicanos é responsabilidade de todos os Moçambicanos.
+Por fim, desejamos uma boa leitura a todos, e reiteramos a nossa disponibilidade em servi-los.
+
+ </p>
+     </div>
+
+</div>
+
 
 
 
@@ -525,16 +633,17 @@ kQuery(function($) {
 
 
         
-<!-- FOOTER --><footer id="t3-footer" class="wrap t3-footer">
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
 
             <div class="container">
 	<div class="t3-spotlight t3-footnav  row">
 				
 							<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
 
 									<div class="_substrebe_section">
-										 <p>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
+										 <p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
 										 <form>
 										 	 <input type="email" name="email" placeholder="Email">
 											 <button>Subscrever</button>
@@ -547,33 +656,35 @@ kQuery(function($) {
 									</div>
 									</div>
 							</div><div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
 
 <div class="separate">
 	
 	<div>
-		<a target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
-		<a target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
-		<a target="_blank" href="https://www.fipag.co.mz/">FIPAG</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.fipag.co.mz/">FIPAG</a>
 	</div>
 	<div>
-		<a _ed_editable target="_blank" href="https://www.aias.gov.mz/">AIAS</a>
-		<a target="_blank" href="https://www.aura.org.mz/">AURA</a>
-		<a target="_blank" href="https://www.adrmm.co.mz/">ADRMM</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.aias.gov.mz/">AIAS</a>
+
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.aura.org.mz/">AURA</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.adrmm.co.mz/">ADRMM</a>
 	</div>
 </div>	
 </div>
 </div></div></div>
 							</div>
 					<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
-<span>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</span>
-<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
-<p>Email: geral@dnaas.gov.mz</p>
+
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</p>
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Email: geral@dnaas.gov.mz</p>
 </div>
 </div></div></div>
 							</div>
@@ -603,19 +714,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
-	   </script>
+</script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

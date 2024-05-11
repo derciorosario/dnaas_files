@@ -1,18 +1,19 @@
 
+
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Sinas - DNAAS</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -40,7 +41,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -350,7 +350,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -374,8 +374,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,22 +385,21 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+     
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
-</div>
-  
-        
+</div>   
 
 
         
@@ -428,84 +427,156 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/sinas-main.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
+			
 		</div>
 	</div>
-</div>-->
+</div>
+
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
 
 
+<div class="_two_column_div">
+	<div class="_flex">
+		<div class="text">
+			<h3 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">INTRODUÇÃO E CONTEXTO</h3>
+             <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+ No âmbito do PRONASAR, o Governo de Moçambique (GdM) e parceiros de desenvolvimento tem vindo a desencadear varias acções no sentido a desenvolver e apoiar no estabelecimento e desenvolvimento do Sistema de Informação Nacional de Água e Saneamento adiante designada SINAS.
+Importa referir que, o SINAS, desde a sua criação tem vindo a desenvolver várias actividades para o estabelecimento, fortalecimento e operacionalização do mesmo em todos SDPI e DPOPHRH no sentido de melhorar o sistema de recolha, registo, gestão e partilha de dados ao nível do sector com vista a criar ligação com a planificação sustentável das infraestruturas de água e saneamento no Pais.
 
+</p>
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
-
-
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
+		</div>
+		
+			<div class="image _no_bg _pro">
+					<img src="../../images/projectos/sinas.png" onclick="_ed_change_img(this)">
+				
 			</div>
-		   </a>
+		
+		
+		
+	</div>
+</div>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
 
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+
+<div class="_one_colunm bg _div_hide _div-1">
+<div class="content">
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5_1"> Definição do SINAS</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">O Sistema Nacional de Informação de Água e Saneamento (SINAS) é um sistema de gestão de informações desenhado para cobrir o setor de água inteiro (água e saneamento rural e urbano, bem como gestão de recursos hídricos e desenvolvimento dos recursos hídricos).</p>
+<br>
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5_1">Visão</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">SINAS pretende ser o centro e a melhor fonte de informação do setor de abastecimento de água e saneamento.</p>
+<br>
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5_1">Missão</h3>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">A missão do SINAS é criar uma rede institucional robusta de informação que procura identificar, analisar, utilizar, divulgar e armazenar dados e informação para a gestão, planeamento, formulação de políticas e tomada de decisões.</p>
+<br>
+
+<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5_1">Nova abordagem do SINAS</h3>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Está em curso o processo de desenvolvimento da plataforma livre denominado m-SINAS (ODK) para a operacionalização da Base de dados usando o sistema móvel. Durante o ano de 2017 a DNAAS desenvolveu e realizou o pré-teste do módulo de recolha de dados de base do m-SINAS.</p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Para as províncias de Niassa, Nampula, Zambézia, Tete, Inhambane e Gaza, está em curso o processo de levantamento de dados usando uma plataforma AkvoFlow, de forma transitória enquanto se aprimora o ODK.</p>
+
+ </div>
+</div>
+
+
+
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Funções da DNAAS</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Estabelecer mecanismos de avaliação e monitoria do desempenho do setor, baseando-se nos principais indicadores.</span>
+		</div>
+		<div   class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Monitorar a evolução do acesso a água e saneamento seguros de modo a aferir o cumprimento das metas dos principais instrumentos de planificação do governo (PES, PARP, PQG e ODM).</span>
+		</div>
+		<div   class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Acompanhar o desempenho das operações dos atores de implementação, a fim de otimizar o uso de recursos disponíveis.</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Estabelecer uma estrutura para implantação do SINAS a nível nacional;</span>
+		</div>
+		<div   class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Gerar demanda pelo SINAS entre os departamentos da DNAAS, instituições autônomas do setor, DPOPHRH’s e Governos locais;</span>
+		</div>
+		<div   class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Criar ownership e garantir a implementação do SINAS de forma consistente e uniforme a escala nacional;</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Estabelecer uma rede funcional de informação e dados do setor de águas;</span>
+		</div>
+
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Gerar capacidade de recolha, armazenamento, gestão e análise de informação e dados em todo país;</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Garantir a compatibilidade e comparabilidade de informação e dados dentro dos subsectores, incluindo das entidades autônomas;</span>
+		</div>
+		<div   class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Garantir acurácia na planificação sectorial e tomada de decisão com base na informação e dados do SINAS;</span>
+		</div>
+		<div   class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Credibilizar o sistema sectorial de planificação, monitoria, avaliação e prestação de contas;</span>
+		</div>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text"  _ed_editable>Garantir a utilidade pública da informação gerada pelo SINAS.</span>
 		</div>
 	</div>
-
 	
 </div>
 
 
 
 <div style="height: 50px"></div>
+
 
 
 
@@ -603,19 +674,23 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

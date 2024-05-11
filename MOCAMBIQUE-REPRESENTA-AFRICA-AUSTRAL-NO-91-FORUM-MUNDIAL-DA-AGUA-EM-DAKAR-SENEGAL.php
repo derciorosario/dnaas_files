@@ -2,15 +2,14 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MOÇAMBIQUE REPRESENTA ÁFRICA AUSTRAL NO 9º FÓRUM MUNDIAL DA ÁGUA EM DAKAR – SENEGAL</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,9 +372,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
-        
+   
+ <div class="editing-painel" style="display: none;">
+</div>       
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -385,22 +383,21 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+       <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+   
 
 
         
@@ -451,21 +448,34 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MOÇAMBIQUE REPRESENTA ÁFRICA AUSTRAL NO 9º FÓRUM MUNDIAL DA ÁGUA EM DAKAR – SENEGAL</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MOCAMBIQUE-REPRESENTA-AFRICA-AUSTRAL-NO-91-FORUM-MUNDIAL-DA-AGUA-EM-DAKAR-SENEGAL.jpg">
+				<div class="date">
+				<span _ed_editable>24 de março de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">A Vice-Ministra das Obras Públicas, Habitação e Recursos Hídricos, Cecília Chamutota, participa de 21 a 26 de Março, em Dakar, Senegal, do 9º Fórum Mundial de Água, um evento que coincide com a celebração do 20º aniversário do Conselho de Ministros Africanos de Água (AMCOW), no qual Moçambique assume a vice presidência, em representação da África Austral.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na sua qualidade de vice-presidente para área da África Austral, Cecília Chamutota, solicitou ontem, 22 de Março, o apoio da AMCOW na resposta aos desafios impostos pelas alterações climáticas e defendeu a necessidade de implementação coordenada da Estratégia de Gestão de Recursos Hídricos Transfronteiriços elaborada por aquele organismo continental.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na sua intervenção, Chamutota, disse que a região da África Austral é caracterizada por condições meteorológicas extremas, em que por um lado há ocorrência de secas e por outro, excesso de água, cenário que reduz o progresso da região rumo à segurança da água, e acesso ao saneamento seguro e higiene.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Como exemplo, a representante da África Austral no evento, referiu que só este ano, a região foi assolada por 5 ciclones, que destruíram infraestruturas e afectaram milhares de pessoas. “Como todos sabemos, essas condições tornam difícil o acesso à água segura e especialmente ao saneamento”, sublinhou a governante moçambicana.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Chamutota realçou a relevância do Programa de Águas Subterrâneas da AMCOW (APAGroP) para a região austral de África. “Pretendemos aproveitar o programa para entender melhor como gerir as nossas águas subterrâneas e como podemos aproveitá-las melhor para a segurança hídrica e alimentar”, disse, num contexto em que o mundo celebra a semana mundial da água, com enfoque na valorização da água subterrânea.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Fórum Mundial da Água, que se realiza de 21 a 26 de Março de 2022 em Dakar, capital de Senegal, é organizado conjuntamente pela AMCOW e pelo Conselho Mundial da Água, sob o lema “Segurança da Água para a Paz e o Desenvolvimento”.</p>
+				
+			</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,10 +613,11 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
@@ -618,4 +629,4 @@ kQuery(function($) {
 
 </body>
 
-</html>
+

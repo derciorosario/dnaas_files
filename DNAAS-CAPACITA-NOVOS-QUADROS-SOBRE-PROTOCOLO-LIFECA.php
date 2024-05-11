@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
+
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | DNAAS CAPACITA NOVOS QUADROS SOBRE PROTOCOLO LIFECA</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -374,9 +374,9 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
-        
+   
+     <div class="editing-painel" style="display: none;">
+</div>   
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -451,21 +451,33 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>DNAAS CAPACITA NOVOS QUADROS SOBRE PROTOCOLO LIFECA</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
+				<div class="date">
+				<span _ed_editable>19 de julho de 2022</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+				<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+				A Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS), em parceria com a UNICEF e SNV, organizou de 15 a 18 de Julho, uma capacitação aos técnicos recentemente integrados, sobre o conjunto de procedimentos para declaração de comunidades Livres do Fecalismo a Céu Aberto (LIFECA), implementado no âmbito do Programa Nacional de Água e Saneamento Rural (PRONASAR). </p>
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Implementado desde 2010, o PRONASAR é um esfoço do Governo de Moçambique e parceiros, concebido com o objectivo de melhorar a qualidade de vida da população rural e acelerar a cobertura universal do abastecimento de água e saneamento, em conformidade com os objectivos de desenvolvimento sustentável.
+</p><p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+As actividades do PRONASAR incluem a promoção de boas práticas de higiene e saneamento, através da abordagem do Saneamento Total Liderado pela Comunidade (SANTOLIC) para eliminação do fecalismo a céu aberto, autoconstrução de latrinas e fossas sépticas, construção e reabilitação de infraestruturas públicas de saneamento e certificação de comunidades Livres do Fecalismo a Céu aberto.
+</p><p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Par o ano de 2022 foi planificada a implementação de 157 PECs (Programa de Educação Comunitária), que irão contribuir para a construção de mais pelo menos 193.500 latrinas melhoradas e a certificação de mais 2800 comunidades como sendo livres do Fecalismo a Céu Aberto.
+</p><p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Para além de um foco sobre os procedimentos para a declaração de uma comunidade LIFECA, a sessão também serviu para fazer uma abordagem da relação entre o Saneamento seguro, a nutrição e bem-estar social.</p>
+				
+			</div>
 
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,16 +615,19 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 

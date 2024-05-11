@@ -2,15 +2,14 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Pravida - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -374,8 +372,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,13 +383,13 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -399,7 +397,6 @@ kQuery(function($) {
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
         
 
 
@@ -428,22 +425,25 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/pravida-main.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
+			
 		</div>
 	</div>
-</div>-->
+</div>
+
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
-
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
@@ -451,61 +451,166 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+<div class="_two_column_div">
+	<div class="_flex">
+		<div class="text">
+	<h3 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">O Programa de Água para a Vida</h3>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">É uma iniciativa presidencial coordenada pelo Ministério das Obras Públicas, Habitação e Recursos Hídricos.</p>
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">O PRAVIDA é de âmbito nacional e está em implementação desde 2018 e com o horizonete de 2024.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">A implementação do PRAVIDA irá obedece a estrutura orgânica operacional vigente no Sector de Águas, nomeadamente na área do abastecimento de água e saneamento e na área da gestão dos recursos hídricos.</p>
 
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
 		</div>
+		<div class="image _no_bg _pro">
+			<img src="../../images/projectos/pravida.jpg"  onclick="_ed_change_img(this)">
+		</div>
+		
 	</div>
+</div>
 
+
+
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content" style="margin: 0 auto">
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Sem prejuízo do princípio da descentralização, as intervenções serão geridas ao nível central com o envolvimento do nível provincial, das ARAs, do FIPAG e da AIA:</h4>
+		<div  _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" ed_editable>COs SPIE e DPOP e ARAs, desempenham um papel fulcral na monitoria da implementação das acções do programa;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" ed_editable>Uma comunicação e coordenação activa é mantida, para assegurar a apropriação do projecto pelos principais actores;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" ed_editable>O processo de concurso é regido pelo Decreto n.º 5/2016, de 8 de Março;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" ed_editable>O Sector de Águas assegura a supervisão e monitoria da implementação do Programa.</span>
+		</div>
+	
+	</div>
+	
+</div>
+
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Na primeira fase do PRAVIDA 2018-2020, foram investidos 80 dólares americanos para a construção de:</h4>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Construídos 1 sistema de saneamento e 1 de drenagem de águas pluviais;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>A Construídos e reabilitados 62 sistemas de abastecimento de água;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Construídas 80 fontes dispersas de água;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable> Estabelecidas 10.000 ligações domiciliárias.</span>
+		</div>
+	
+	</div>
+	
+</div>
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4 ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Para a segunda fase 2021-2024 serão investidos 197 milhões de dólares americanos para:</h4>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Mais de 2.099.360 Milhões de pessoas adicionais beneficiadas das infra-estruturas de abastecimento de água e saneamento contribuindo substancialmente para o alcance dos Objectivos de Desenvolvimento Sustentável (ODS)</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Aumento do volume de armazenamento para 6.7 milhões metros cúbicos de água;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Aumento da segurança alimentar e nutricional para as populações;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Irrigação de 484 hectares;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Sistemas de abeberamento de gado para mais de 20 mil animais;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Geração de mais de 4 mil novos postos de emprego nas zonas abrangidas pelo Programa</span>
+		</div>
+		
+	</div>
+	
+</div>
+
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content" >
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Impacto Esperado</h4>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text">Mais de 2.099.360 Milhões de pessoas adicionais beneficiadas das infra-estruturas de abastecimento de água e saneamento contribuindo substancialmente para o alcance dos Objectivos de Desenvolvimento Sustentável (ODS)</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text">Aumento do volume de armazenamento para 6.7 milhões metros cúbicos de água;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text">Aumento da segurança alimentar e nutricional para as populações;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text">Irrigação de 484 hectares;</span>
+		</div>
+		<div _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text">Sistemas de abeberamento de gado para mais de 20 mil animais;</span>
+		</div>
+		<div  _ed_editable class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text">Geração de mais de 4 mil novos postos de emprego nas zonas abrangidas pelo Programa</span>
+		</div>
+		
+	</div>
 	
 </div>
 
 
 
-<div style="height: 50px"></div>
+<div style="height: 60px"></div>
 
 
 
@@ -603,19 +708,23 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
-	   </script>
+	   </script> 
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

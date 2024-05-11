@@ -1,4 +1,8 @@
 
+//strapi main variables
+/*** __test */ let strapi_on=true 
+let strapi_url='http://34.125.4.102:3002' /// 'http://localhost:1337'
+
 
 function pub_show_more(e) {
    e.parentElement.classList.toggle('active')
@@ -27,22 +31,15 @@ document.querySelectorAll('._publicacoes ._only_show span').forEach(e=>{
                    
              })
           }
-
-    
    })
-
-
-
 function _show_more(element,div){
-     element.classList.toggle('active')
-
+    element.classList.toggle('active')
     document.querySelectorAll(`.${div}`).forEach(e=>{
         e.style.display="block"
     })
     document.querySelectorAll(`[_div-2]`).forEach(e=>{
         e.style.display="none"
     })
-
     document.querySelector(`._show_more`).style.display="none"
 
 }
@@ -140,8 +137,8 @@ try{
 function resize_main_y_video() {
   
   if (window.innerWidth - (window.innerWidth/5) > 800) {
-    document.querySelector('.main-y-video').width=300
-    document.querySelector('.main-y-video').height=400
+    document.querySelector('.main-y-video').width=400
+    document.querySelector('.main-y-video').height=320
   }else{
     document.querySelector('.main-y-video').width=window.innerWidth - (window.innerWidth/5)
     document.querySelector('.main-y-video').height=window.innerWidth / 2
@@ -229,7 +226,13 @@ let current_page=""
 
 async function updatePage(){
 
-await fetch('updates/nav.json').then(e=>e.text()).then(res=>{
+await fetch('updates/nav.json').then(e=>{
+    if(!e.ok){
+         setTimeout(()=>updatePage(),5000)
+         return
+    }
+    return e.text()
+}).then(res=>{
    document.querySelector('nav').innerHTML=res
    let navLinks = document.querySelector(".nav-links");
   let menuOpenBtn = document.querySelector(".navbar .bx-menu");
@@ -264,35 +267,6 @@ try{
 
 
 
-
-/*await fetch('updates/all-news.json').then(e=>e.json()).then(res=>{
-       pub_news_data=res
-       current_page=location.pathname.split('/')[location.pathname.split('/').length - 1] == "" ? "index.php" :  location.pathname.split('/')[location.pathname.split('/').length - 1]
-       
-        if (document.querySelector('._publicacoes')) {
-             let pub_content=""
-             document.querySelector('._publicacoes ._flex').innerHTML=`
-              <div class="_ed_add_new" style="display:none;" onclick="_ed_add_new(this)">
-                 <span>Adicionar novo</span>
-              </div>`
-
-             for (var i = 0; i < res.length; i++) {
-
-                  if (res[i].page==current_page && (current_page!="index.php" || current_page=="")) {
-                      pub_content+=res[i].content.replace(/\\"/g, '"')
-                  }else if(current_page=="index.php" || current_page==""){
-                        if (i <= 5) {
-                           pub_content+=res[i].content.replace(/\\"/g, '"')
-                        }
-                  }
-             }
-             document.querySelector('._publicacoes ._flex').innerHTML+=pub_content
-
-         }
-
-})
-*/
-
  if (_gagoo_===true) {
 
       const url_params=document.location.href.split('#')[0].split('?')
@@ -311,6 +285,44 @@ try{
     
 }
 updatePage()
+
+
+
+async function show_news(){
+
+  current_page=location.pathname.split('/')[location.pathname.split('/').length - 1] == "" ? "index.php" :  location.pathname.split('/')[location.pathname.split('/').length - 1]
+
+  if(current_page=="index.php" || current_page==""){
+    return
+  }
+  
+  if(current_page!="index.php" || current_page=="")
+  await fetch('updates/all-news.json').then(e=>e.json()).then(res=>{
+    pub_news_data=res
+    
+     if (document.querySelector('._publicacoes')) {
+          let pub_content=""
+          document.querySelector('._publicacoes ._flex').innerHTML=`
+           <div class="_ed_add_new" style="display:none;" onclick="_ed_add_new(this)">
+              <span>Adicionar novo</span>
+           </div>`
+
+          for (var i = 0; i < res.length; i++) {
+
+               if (res[i].page==current_page && (current_page!="index.php" || current_page=="")) {
+                   pub_content+=res[i].content.replace(/\\"/g, '"')
+               }else if(current_page=="index.php" || current_page==""){
+                     if (i <= 5) {
+                        pub_content+=res[i].content.replace(/\\"/g, '"')
+                     }
+               }
+          }
+          document.querySelector('._publicacoes ._flex').innerHTML+=pub_content
+
+      }
+
+ })
+}
 
 
 const renderRichText = (richTextArray) => {
@@ -346,10 +358,26 @@ let strapi_f={
   
     noticias:function(res,strapi_url){
 
+          let sinas_content=`
+          <div class="sinas-box">
+              <div class="content">
+                <div class="title"> SINAS - Sistema nacional de informação sobre abastecimento de água e saneamento</div>
+              <a href="">
+            <div class="img">
+              <img src="../../images/projectos/sinas.png">
+            </div>
+              </a
+          </div>
+          </div>`
+
           let container=document.querySelector('._strapi_noticias')
           container.innerHTML=""
+ 
           let data=window.location.href.includes('noticias') ? res.data : res.data.filter((_i,i)=>i <= 2)
-          data.forEach(i=>{
+          if(!window.location.href.includes('noticias') && !data.length){
+            content.innerHTML+=sinas_content
+          }
+          data.forEach((i,_i)=>{
                let item=i.attributes
                container.innerHTML+=`
                     <div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
@@ -375,6 +403,18 @@ let strapi_f={
                    </div>
                `
           })
+
+
+          //start sinas
+
+           
+          if(!window.location.href.includes('noticias') && _i==1){
+                content.innerHTML+=sinas_content
+          }
+
+
+        // end sinas
+
 
     },
     noticia:function(res,strapi_url){
@@ -404,6 +444,12 @@ let strapi_f={
       container.innerHTML=""
 
      let data=res.data
+
+     current_page=location.pathname.split('/')[location.pathname.split('/').length - 1] == "" ? "index.php" :  location.pathname.split('/')[location.pathname.split('/').length - 1]
+
+     if(current_page=="index.php" || current_page==""){
+        data=data.filter((i,_i)=> _i < 8)
+     }
       
      let cat=document.querySelector('._strapi_documentos').getAttribute('cat')
        
@@ -437,11 +483,25 @@ let strapi_f={
 
 
 
-
 let called__strapi_urls=[]
-
 async function strapi(){
-      let strapi_url='http://34.125.4.102:3002' /// 'http://localhost:1337'
+        
+
+    /*** __test */
+     if(!strapi_on){
+           document.querySelectorAll('.__hidden').forEach((e)=>{
+              e.style.display="block"
+           })
+           document.querySelectorAll('._loader').forEach((e)=>{
+            e.style.display="none"
+           })
+           return
+     }
+     
+     /*** __test */
+
+      
+      
       let urls=[]
       
       if(document.querySelector('._strapi_noticias') && !called__strapi_urls.includes('noticias')){
@@ -507,12 +567,13 @@ _int=setInterval(()=>{
     }else{
       clearInterval(_int)
     }
-    console.log('ok')
-},100)
+    //console.log('ok')
+},2000)
 
 
 window.addEventListener('load',()=>{
   strapi()
+  /*** __test */  if(!strapi_on)  show_news()
 })
 
 

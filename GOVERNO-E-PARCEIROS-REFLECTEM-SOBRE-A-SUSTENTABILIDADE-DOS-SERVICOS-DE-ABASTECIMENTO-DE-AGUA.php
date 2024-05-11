@@ -2,17 +2,16 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | NAMPULA: GOVERNO E PARCEIROS REFLECTEM SOBRE A SUSTENTABILIDADE DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +372,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -386,21 +384,22 @@ kQuery(function($) {
 	</div>
 </div>  
 
+
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+     <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+     
 
 
         
@@ -451,21 +450,32 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>NAMPULA: GOVERNO E PARCEIROS REFLECTEM SOBRE A SUSTENTABILIDADE DOS SERVIÇOS DE ABASTECIMENTO DE ÁGUA</h2>
+			<div class="image">
+				<img src="../../images/noticias/GOVERNO-E-PARCEIROS-REFLECTEM-SOBRE-A-SUSTENTABILIDADE-DOS-SERVICOS-DE-ABASTECIMENTO-DE-AGUA.jpg">
+				<div class="date">
+				<span _ed_editable>3 de março de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O Governo de Nampula, em coordenação com a Direcção Nacional de Abastecimento de Água e Saneamento e parceiros de cooperação, realizaram de 2 a 3 de Março, o seminário provincial sobre a sustentabilidade dos serviços de abastecimento de água, numa cerimónia dirigida pelo Governador da província, Manuel Rodrigues, no âmbito da implementação do Programa Nacional de Abastecimento de Água e Saneamento Rural (PRONASAR).</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Durante a sessão, Rodrigues afirmou que anualmente são disponibilizados furos de água, sistemas de abastecimento de água, tanto por via de construções, assim como por via das reabilitações, sendo que estas intervenções têm constituído motivo de satisfação e bem-estar da população na província, o que contribuí também para progressão da província em termos de acesso à água potável, de 54% em 2019 para a actual 58% a nível de cobertura do abastecimento de água.  </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+É importante encontrarmos o melhor antídoto para, primeiro reabilitarmos as infra-estruturas paralisadas, tornarmos operacionais e assegurarmos que doravante estas infra-estruturas sejam sustentáveis”, disse Manuel Rodrigues, que manifestou a preocupação com infraestruturas de abastecimento de água que se encontram inoperacionais. 
+A inoperacionalidade que decorre de vários factores, que vão desde o Défice de conhecimentos ligados a gestão por parte das entidades delegadas para gerir, as deficiências no dimensionamento e desenho dos SAA’s, erros de construção que influem na qualidade das obras, fraca fiscalização, baixa receita arrecadada através da tarifa da água acabando por ser insuficiente para a cobertura de custos operacionais, entre outras razões, aspectos que Rodrigues apelou para que fosse profundamente abordados e achadas soluções.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Os participantes do seminário discutiram sobre o papel e responsabilidades dos principais actores do sector para a melhoria da prestação de serviços de abastecimento de água, incluindo o desenho e construção de Sistemas, a concessão dos serviços à entidades públicas e privadas e a sua regulação. Na ocasião, foram também partilhados os resultados dos diversos estudos sobre a sustentabilidade de serviços de abastecimento de água, e no final do encontro, elaborado um quadro de recomendações concretas que alimentem o plano de acção para a melhoria da sustentabilidade dos serviços de água na província de Nampula.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Participaram m do seminário representantes do Governo da Província de Nampula, Governos Distritais, instituições do sector de água, representantes do Sector Privado, instituições de ensino, organizações da sociedade civil, representantes dos parceiros internacionais (UkAID, USAID, Banco Mundial, UNICEF) e de organizações não governamentais (SNV, WaterAid, Visão Mundial, Helvetas, entre outras).</p>
+</div>
 
-
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,19 +613,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

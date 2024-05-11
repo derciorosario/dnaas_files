@@ -3,16 +3,17 @@
 	      session_start();
 ?>
 
+
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | GAZA: NYUSI REAFIRMA COMPROMISSO DE CONTINUAR A EXPANDIR OS SERVIÇOS DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -40,7 +41,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +342,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.fipag.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +374,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,22 +385,21 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
-<div class="_ed_add_and_select_page" style="display: none;">
+
+       <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
+   
 
 
         
@@ -451,21 +450,53 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>GAZA: NYUSI REAFIRMA COMPROMISSO DE CONTINUAR A EXPANDIR OS SERVIÇOS DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</h2>
+			<div class="image">
+				<img src="../../images/noticias/AGUA-E-FUNDAMENTAL-SEM-AGUA-EM-CONDICOES-E-POTAVEL-TUDO-FALHA-FILIPE NYUSI.jpg">
+				<div class="date">
+				<span _ed_editable>28 de Abril de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Presidente da República, Filipe Jacinto Nyusi, inaugurou, quinta-feira, 27 de Abril, na localidade de Zinhane, distrito de Chigubo, um Sistema de Abastecimento de Água com capacidade para abastecer 15 mil habitantes, nos próximos 20 anos. O Projecto inclui uma rede com uma extensão de 8.5 Quilómetros para abastecer a população através de ligações domiciliares e fontanários. 
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Durante a sua intervenção, o chefe de estado referiu que “investir nas zonas rurais é o mesmo que investir na estabilidade social, na equidade e no desenvolvimento inclusivo integrado do país, é um acto de justiça social”.
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Nyussi, disse ainda, que o governo continuará a empenhar-se para aumentar o nível de cobertura de abastecimento de água e saneamento, com maior enfoque nas zonas rurais com vista ao alcance dos Objectivos do Desenvolvimento Sustentável, definidos pelas Nações Unidas.
+Na sequência, recomendou ainda ao sector de água e saneamento a expandir os seus serviços pelas comunidades circunvizinhas, concretamente em Mapai e Massagena, para que mais pessoas possam se beneficiar deste precioso líquido.
+</p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Por sua vez, Helen Lewis, alta-comissária britânica em Moçambique referiu que o projecto do Sistema faz parte de um conjunto de sistemas que vêm sendo construídos no âmbito do Programa Nacional de Abastecimento de Água e Saneamento – PRONASAR. Na ocasião Lewis disse “apelamos para uma boa gestão deste sistema para que possa garantir sustentabilidade e permitir que mais pessoas possam beneficiar de água limpa e saneamento básico”.
+O PRONASAR é um programa implementado pela Direcção Nacional de Abastecimento de Água e Saneamento, com o objectivo de aumentar os níveis de cobertura dos serviços de Água e Saneamento nas zonas rurais do país. 
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Sistema recém-inaugurado, abastecerá numa fase inicial cerca de três mil habitantes da comunidade de Zinhane, e é avaliado em 34 milhões de meticais, financiados pelo Reino Unido.
+
+</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+DNAAS – Água e Saneamento para todos 
+</p>
+
+
+
+
+
+
+
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -603,19 +634,24 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
 
+
+<!-- Mirrored from www.fipag.co.mz/index.php/pt/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Feb 2023 17:25:09 GMT -->
 </html>

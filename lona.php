@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
+
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>projecto de saneamento urbano</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +40,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -350,7 +349,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -374,8 +373,8 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   <div class="editing-painel" style="display: none;">
+</div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -386,12 +385,15 @@ kQuery(function($) {
 	</div>
 </div>  
 
+
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+        
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -400,8 +402,6 @@ kQuery(function($) {
 
 </div>
   
-        
-
 
         
 
@@ -428,84 +428,99 @@ kQuery(function($) {
 
 
 
-<!--
+
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/lona-main.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
-
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
-
-	
 </div>
 
 
 
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
 
 
 
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
+<div class="_two_column_div">
+	<div class="_flex">
+		<div class="text">
+	  <h3 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">PROJECTO DE ABASTECIMENTO DE ÁGUA ÀS VILAS DE NAMAACHA E LOMAHACHA – LONA</h3>
 
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
+	  <p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">LONA é um projecto transfronteiriço de abastecimento de água, implementado pelos governos de Moçambique e do Reino de Eswatini, com o objectivo  de desenvolver infraestruturas de captação, adução, tratamento, reserva e distribuição de água para a vilas de Namaacha, em Moçambique, e Lomahasha, no Reino de Eswatini.</p>
 
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
 		</div>
+		<div class="image _no_bg _pro">
+			<img src="../../images/others/no_bg.png" onclick="_ed_change_img(this)">
+		</div>
+		
 	</div>
-
-	
 </div>
 
 
 
-<div style="height: 50px"></div>
+
+
+
+<div class="_one_colunm bg _div_hide _div-1">
+    <div class="content">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"> O projecto foi iniciado a 18 de Janeiro de 2018, através da assinatura do acordo de implementação entre os ministérios que tutelam a área das finanças dos dois países, e deverá beneficiar numa fase inicial cerca de 24 mil pessoas, perspectivando-se que alcance uma cobertura total de  50 mil habitantes, em de 20 anos, num investimento total de 8 milhões de Euros, financiados pelo Banco Alemão, KFW.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">As Vilas fronteiriças de Namaacha, na Província de Maputo, e  Lomahasha (Reino de Eswatini, enfrentam de forma conjunta a problemática do abastecimento de água. O Projecto LONA (Lomahasha-Namaacha), enquadra-se no esforço que a Comunidade dos Países da África Austral (SADC), através do Fundo Regional para Infraestruturas de Água e Saneamento Básico, está a desencadear para aumentar e reforçar o abastecimento de água e saneamento com grande enfoque para as zonas transfronteiriças da região que partilham a mesma bacia hidrográfica, no caso vertente a Bacia Hidrográfica do Umbelúzi.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Os fundos disponibilizados em forma de donativo pela KFW, deverão ser usados para a realização de estudos de viabilidade, projecto executivo e obras atinentes à construção de infraestruturas de abastecimento de água em ambas vilas, tendo sido designado o Banco de Desenvolvimento da África Austral (DBSA) como Agência Executora do Projecto.</P>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Para a implementação do Projecto, ambos países devem à luz do acordo fazer uma contribuição de 10%, que corresponde a um valor não inferior a 800 mil euros que devem ser repartidos pelos dois países beneficiários.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">O Projecto LONA, reveste-se de grande importância estratégica para ambas vilas devido ao universo populacional que se irá beneficiar, aliado às condições naturais que não favorecem a ocorrência da água subterrânea em quantidade e qualidade e a condições de precipitação que condicionam a recarga subterrânea e superficial.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+	Este projecto está divido em duas fases:
+</p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Saneamento da Cidade de Maputo nos Bairros de Maxaquene  e Polana Caniço - Construção do Sistema de Drenagem de Aguas Pluviais na Cidade de Maputo.</p>
+
+</div>
+
+</div>
+
+
+<div class="_list_div _div_hide _div-1">
+	<div class="content">
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Fase I</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span _ed_editable class="text">Estrategicamente por não possuirmos uma fonte de captação de água segura aproveitar-se-á a capacidade actualmente instalada de captação e Tratamento em Simunye (Eswatini) e instalação de uma conduta adutora que transportará a água para abastecer Lomahasha e, cruzando a fronteira, abastecerá a Vila de Namaacha.</span>
+		</div>
+	
+	</div>
+	
+</div>
+<div class="_list_div _div_hide _div-1">
+	<div class="content">
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Fase II</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5">
+			<div class="_line_left">
+			</div> 
+			<span _ed_editable  class="text">Mobilização de fundos para a construção da barragem de Pinde e infra-estruturas complementares, em Namaacha, que passará a ser a fonte de captação de água para reforço e resposta a crescente demanda de água que deixará de ser satisfeita pela Fase I.</span>
+		</div>
+	
+	</div>
+	
+</div>
+
+<div style="height: 60px"></div>
 
 
 
@@ -603,19 +618,25 @@ kQuery(function($) {
 
  </div>
 
+
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+ 
  <script id="session">
-	  
-		<?php if(isset($_SESSION['username'])):?>
-				let _gagoo_=true	
-		<?php else: ?>
-				let _gagoo_=false	
-		<?php endif; ?>
-	   </script>
+
+	  <?php if(isset($_SESSION['username'])):?>
+	   let _gagoo_=true	
+	  <?php else: ?>
+       let _gagoo_=false	
+	  <?php endif; ?>		
+
+</script> 
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

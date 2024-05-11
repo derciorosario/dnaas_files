@@ -2,17 +2,16 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MINISTRO CARLOS MESQUITA DIRIGE REUNIÃO DE ESTABELECIMENTO DOS COMITÉS DE SUPERVISÃO PROVINCIAIS DO PRONASAR DA ZONA CENTRO DO PAÍS</title>
  
-  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
+  <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar FIPAG" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
   <link rel="stylesheet" href="../../media/k2/assets/css/k2.fonts91f5.css?v2.7.1" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/css/k2.css" type="text/css" />
@@ -40,7 +39,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -302,7 +300,7 @@ kQuery(function($) {
   </script>
   <meta content="Inicio" property="og:title" />
   <meta content="website" property="og:type"/>
-  <meta content="http://www.dnaas.co.mz/index.php/pt/" property="og:url" />
+  <meta content="http://www.fipag.co.mz/index.php/pt/" property="og:url" />
 
     
 <!-- META FOR IOS & HANDHELD -->
@@ -342,7 +340,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -451,21 +449,29 @@ kQuery(function($) {
 
 
 
-<div class="_news _strapi_noticia">
+<div class="_news">
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MINISTRO CARLOS MESQUITA DIRIGE REUNIÃO DE ESTABELECIMENTO DOS COMITÉS DE SUPERVISÃO PROVINCIAIS DO PRONASAR DA ZONA CENTRO DO PAÍS</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="../../images/noticias/MINISTRO-CARLOS-MESQUITA-DIRIGE-REUNIAO-DE-ESTABELECIMENTO-DOS-COMITES-DE-SUPERVISAO-PROVINCIAIS-DO-PRONASAR-DA-ZONA-CENTRO-DO-PAIS.jpg">
+				<div class="date">
+				<span _ed_editable>11 de novembro de 2022</span>
+		     	</div>
+			</div>	
+			
+<div class="text">
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O Ministério das Obras Públicas Habitação e Recursos Hídricos (MOPHRH), através da Direcção Nacional de Abastecimento de Água e Saneamento - DNAAS, realizou, terça-feira, dia 08 de novembro de 2022, na cidade de Quelimane, província da Zambézia, uma reunião de Estabelecimento dos Comités de Supervisão Provinciais do PRONASAR, dirigida pelo ministro Carlos Alberto Mesquita.</p>
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">O Comité de Supervisão Provincial do PRONASAR (Programa Nacional de Abastecimento de Água e Saneamento Rural) é um órgão de avaliação do progresso e implementação de melhorias do PRONASAR, por forma a garantir a apropriação e o compromisso a todos os níveis, na operacionalização efectiva das acções do Programa.</p>
 
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">Segundo Mesquita, o PRONASAR vem sendo implementado com enfoque na descentralização de competências, responsabilidades, funções e recursos, para os níveis provinciais e distritais, para garantir maior eficiência e eficácia no processo de implementação das actividades, tendo o nível central o papel de coordenação, monitoria, supervisão, capacitação e apoio técnico.</p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O ministro referenciou ainda que, “durante a primeira década de implementação do PRONASAR, foram construídos mais de 1400 Sistemas de Abastecimento de Água, 10 mil Fontes Dispersas, para além de actividades de promoção de higiene e saneamento, acções que de uma forma global beneficiam mais de 9 Milhões de pessoas vivendo nas zonas rurais.”</p>
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -503,6 +509,18 @@ kQuery(function($) {
 	
 </div>
 
+<div class="_one_colunm bg">
+    <div class="content" style="margin-bottom: 0">
+        <p>
+  Posteriormente, o ministro Carlos Mesquita e o Governador da província da Zambézia, Pio Matos, procederam com a assinatura e entrega dos Termos de Estabelecimento dos Comités de Supervisão Provinciais do PRONASAR aos Directores Provinciais das Obras Públicas da zona centro do país, nomeadamente, província da Zambézia, Sofala, Manica e Tete. Salientar que nos próximos dias as reuniões serão realizadas nas zonas sul e norte do pais, cidades de Inhambane e Nampula respectivamente.
+  </p>
+
+  <p>
+O evento contou ainda com a presença do Director Nacional de Abastecimento de Água e Saneamento, Raúl Mutevuie, a representante dos parceiros de cooperação, Rita Zacarias, sector privado e quadros do Ministério das Obras Públicas Habitação e Recursos Hídricos a nível Central, Provincial e Distrital.
+    </p>
+     </div>
+
+</div>
 
 
 <div style="height: 50px"></div>
@@ -603,19 +621,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
-	   </script>
+</script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

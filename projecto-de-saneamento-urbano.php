@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
 
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Programa de saneamento urbano - DNAAS</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -40,7 +40,6 @@
   <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +341,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body class="bodybg">
 
  
  
@@ -350,7 +349,7 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
+<div class="top-header increase">
 				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
@@ -373,9 +372,9 @@ kQuery(function($) {
    </div>
    </div>
 	<!-- //SPOTLIGHT 1 -->
-
-  <div class="editing-painel" style="display: none;">
-</div> 
+<div class="editing-painel" style="display: none;">
+</div>
+   
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,13 +384,16 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
  
+
+        
+
+
 <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
@@ -399,10 +401,6 @@ kQuery(function($) {
 <div class="_ed _main_silder_editing_painel" style="display: none;">
 
 </div>
-  
-        
-
-
         
 
 
@@ -428,87 +426,132 @@ kQuery(function($) {
 
 
 
-<!--
+
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1">
-			<div class="_text_sub">Notícias</div>
+		<div class="_slide s1" style="background-image: url(../../images/projectos/psu-main.jpg)">
+			<div class="fill" _ed_hover_border  onclick="_ed_change_bottom_img(this.parentElement)"></div>
 		</div>
 	</div>
-</div>-->
+</div>
+<div class="_long-bar" style="height: 1px"></div>
 
 
 
 
 
 
-<section  class="sppb-section " style="padding:0;">
+<section  class="sppb-section " style="padding:50px 0 0 0;">
 	<div class="sppb-container">
+	
 
 	
 </div>
 
 
 
+<div class="_two_column_div">
+	<div class="_flex">
+		<div class="text">
+	<h3 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Projecto de Saneamento Urbano (PSU)</h3>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>Título:</strong> Projecto de Saneamento Urbano – PSU – P161777</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>Custo Total:</strong> $ 115 Milhões</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>Financiador:</strong> Banco Mundial</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>Entidade Implementadora: </strong>Ministério das Obras Públicas, Habitação e Recursos Hídricos (MOPHRH)</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>Unidades de Implementação:</strong> Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) e Administração de Infraestruturas de Abastecimento de Água e Saneamento (AIAS)</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>Objectivo de Desenvolvimento do Projecto (PDO):</strong>Aumentar o acesso a serviços de saneamento geridos de forma segura e aumentar a capacidade municipal para a provisão de serviços de saneamento nas cidades seleccionadas.</p>
 
-<div class="_news _strapi_noticia">
-	 <div class="content" style="margin-bottom: 0">
-		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
-
-
-
-		<div class="_right_side" style="display: none">
-			<h3>Outras Notícias</h3>
-			<a href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
-			</div>
-		   </a>
-
-			<a  href="n-1.php"><div class="_div">
-				<div class="text">
-					<span>DNAAS PARTICIPA DA 57 ª FEIRA INTERNACIONAL DE ...</span>
-					<span class="date">1 de setembro de 2022</span>
-				</div>
-				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
-			</div>
-		   </a>
-
-			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notícias	<i class="fa fa-long-arrow-right"></i></span></a></div>
+<div class="_show_more _ed _ed_item"   _ed_model="_ed_model_option_9">
+	<span onclick="_show_more(this,'_div-1')">Mostrar mais <i class="fas fa-chevron-down"></i></span>
+</div>
 		</div>
+		<div class="image _no_bg _pro">
+			<img src="../../images/projectos/psu.png" onclick="_ed_change_img(this)">
+		</div>
+		
 	</div>
+</div>
 
+
+
+<div class="_list_div _div_hide _div-1" style="margin-top: 0">
+	<div class="content" style="margin: 0 auto">
+		<h4 _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Indicadores de níveis de resultados dos Objectivos de Desenvolvimento do Projecto</h4>
+		<div  class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Número de pessoas com acesso a serviços de saneamento geridos de forma segura como resultado do projecto (desagregado em quintis de pobreza e género);</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Número de cidades com uma entidade (autónoma) de saneamento operacional em linha com o Quadro regulatório do Governo;</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Regulamentosmunicipaisaprovados e publicados</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Assegurar o equilíbrio no acesso aos serviços de abastecimento de água e saneamento;</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Actualizar e divulgar as estratégias de abastecimento de água e saneamento;</span>
+		</div>
+		<div class="_ed _ed_item _div" _ed_model="_ed_model_option_5_1">
+			<div class="_line_left">
+			</div> 
+			<span class="text" _ed_editable>Incentivar a participação do Sector Privado na provisão do serviço do abastecimento de água e saneamento, incluindo a parceria público-privada;</span>
+		</div>
+		
+	</div>
 	
 </div>
 
 
 
-<div style="height: 50px"></div>
+<div class="_one_colunm bg _div_hide _div-1">
+	<div class="content" style="margin: 0 auto">
+	<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5_1">Beneficiários do Projecto</h3>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">Aproximadamente 197.200 pessoas irão beneficiar directamente de serviços de saneamento geridos de forma segura em Maputo, Quelimane e Tete. Para as intervenções em esgotamento sanitário, o projecto beneficiará (i) 90.500 pessoas com a reabilitação, beneficiação, e ampliação da rede de esgoto existente e ligações de esgoto e (ii) 6.000 pessoas com a instalação de novas ligações com enfoque para esgoto condominial. Para o saneamento localizado, o projecto beneficiará cerca de 100.700 famílias com intervenções que envolvem a construção de novos sanitários e serviços de gerenciamento de lamas fecais.
+	</p>	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+	As intervenções de saneamento localizado terão como alvo as famílias pobres que vivem nas áreas periurbanas de Tete e Quelimane, particularmente nos bairros mais afectados pelo Ciclone Idai, onde o fecalismo céu aberto ainda é amplamente praticado devido à sua incapacidade de pagar por serviços de saneamento melhorados. Os benefícios adicionais do projecto incluem o acesso a instalações de saneamento melhoradas em locais públicos, como estaçõesde espera de transporte (paragem), mercados e escolas, com ênfase na melhoria da Gestão da Higiene Menstrual (MHM) para mulheres e meninas.
+	Cerca de 230 funcionários municipais em todas as cinco cidades (Maputo, Quelimane, Tete, Beira e Nampula) serão beneficiados com as intervenções do projecto, aprimorando suas habilidades por meio de treinamentos especializados em saneamento. Ademais, o projecto apoiará o sector privado local que actuanos serviços de gestão de lamas fecaisatravés do desenvolvimento de negócios e treinamento operacional em serviços de saneamento localizado.</p>
 
+	<h3 _ed_editable class="_ed _ed_item __sub-title left" _ed_model="_ed_model_option_5_1">Componentes do Projecto</h3>
 
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">O Projecto é Constituído por cinco componentes, conforme a descrição abaixo:</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>COMPONENTE 1:</strong> prioritários em Sistemas de Esgotos em Maputo, Quelimane e Tete ($ 56,50 Milhões)
+	A presente componente financiará o desenvolvimento de sistemas de esgotos nas cidades de Maputo, Quelimane e Tete. As actividades incluem:
+	ü  Obras prioritárias de saneamento para Maputo, incluindo (i) a reabilitação e expansão da Estação de Tratamento de Águas Residuais (ETAR) de Infulene, (ii) a reabilitação e melhoria de 8.5 km de colectores de esgotos, (iii) a reabilitação e melhoria de estações de bombagem, e (iv) a melhoria de 12,800 ligações domiciliárias de esgotos existentes.
+	</p><p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+	ü  Obras prioritárias de esgotos para a cidade de Quelimane, incluindo (i) a reabilitação e expansão de 29 km de colectores de esgotos, (ii) a construção de uma Estação de Tratamento de Águas Residuais (ETAR) e duas (2) Estações de Tratamento de Lamas Fecais (ETLF), (iii) a modernização de cerca de 2,000 ligações existentes, (iv) a construção de três sistemas condominiais piloto de esgotos com cerca de 600 ligações novas, e (v) a reabilitação de cerca de 10 km de drenagem de águas pluviais de pequena e média escala em áreas inundáveis.
+	ü  Obras prioritárias de esgotos para a cidade de Tete, incluindo (i) a reabilitação e expansão de 20km de colectores de esgotos, (ii) a construção de uma Estação de Tratamento de Águas Residuais (ETAR) e duas (2) Estações de Tratamento de Lamas Fecais (ETLF); (iii) a modernização de cerca de 3.300 ligações existentes, (iv) a construção de três sistemas condominiais piloto de esgotos para cerca de 600 ligações novas, e (v) a reabilitação de cerca de 8 km de drenagem de águas pluviais de pequena e média escala em áreas inundáveis.</p>
+	
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>COMPONENTE 2:</strong> Investimento em Saneamento localizado nas cidades de Quelimane e Tete ($32,50 milhões).
+	Esta componente irá financiar intervenções em saneamento localizado prioritário a nível dos agregados familiares e a construção de infra-estruturas de saneamento público para os residentes das cidades de Quelimane e Tete. As actividadesincluem:
+	ü  Saneamento localizado na cidade de Quelimane, que compreenderá (i) marketing de saneamento e promoção de higiene (para influenciar boas práticas de higiene e saneamento ao nível das zonas urbanas e peri-urbanas); (ii) apoio à construção e melhoria de 11,000 unidades de saneamento localizado domiciliárias, (iii) construção de 65 unidades de saneamento público em escolas e mercados, incluindo instalações dedicadas aos cuidados da higiene menstrual; (iv) construção de duas Estações de Tratamento de Lamas Fecais (ETLFs), e (v) apoio ao sector privado no desenvolvimento de negócios para Gestão de Lamas Fecais (GLF).
+	</p><p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+	ü  Saneamento localizado na cidade de Tete, que compreenderá (i) marketing de saneamento e promoção da higiene (para influenciar boas práticas de higiene e saneamento ao nível das zonas urbanas e peri-urbanas; (ii) apoio à construção e melhoria de 9.200 unidades de saneamento localizado para agregados familiares, (iii) construção de 13 unidades de saneamento público em escolas e mercados, incluindo instalações dedicadas aos cuidados da higiene menstrual; (iv) construção de duas Estações de Tratamento de Lamas Fecais (ETLFs), e (v) apoio ao sector privado no desenvolvimento de negócios para Gestão de Lamas Fecais (GLF).</p>
+	
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">As actividades desta componente irão promover a higiene pessoal e comportamentos saudáveis no saneamento bem como reduzir os impactos ambientais dos dejectos humanos através da redução do volume de lamas fecais não tratadas e a contaminação potencial dos corpos de água. A melhoria do comportamento na higiene irá também capacitar as famílias para uma melhor gestão das suas condições de saneamento durante os períodos de seca, quando o acesso à água é limitado, contribuindo dessa maneira para uma maior resiliência dos beneficiários a esses eventos extremos.</p>
 
+	
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1"><strong>COMPONENTE 3:</strong> Melhoramento de Serviços Municipais de Saneamento (US $ 11,00 milhões).
+	Esta componente disponibilizará subsídios baseados no desempenho para às autarquias beneficiárias. Os subsídios servirão para financiar actividades que visam a melhoria de serviços de saneamento nas cidades de Maputo, Beira, Nampula, Tete e Quelimane.
+	Os subsídios estarão ligados ao alcance de um conjunto mínimo de valores de indicadores de carácter institucional, operacional e financeiro com base numa “Tabela de desempenho” acordada entre cada município participante e a DNAAS.</p>
+	<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+	 Cada subsídio será composto de duas partes: (i) uma parte fixa vinculada à obtenção de certos pré-requisitos institucionais (tais como o estabelecimento de um Departamento autárquico de saneamento com recursos garantidos pelas receitas dos serviços, a aprovação do plano de melhoria do serviço de saneamento e a introdução duma taxa de saneamento) durante os dois primeiros anos do Projecto, e (ii) uma parte variável vinculada às receitas reais por serviços de saneamento obtidas pelo município durante todo o período do Projecto.
+	</p><p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5_1">
+	Os municípios usarão os subsídios para a aquisição de equipamentos e apoio logístico, além de outros activos e ferramentas necessários para a prestação eficiente de serviços de saneamento. Espera-se que esses fundos sejam usados para melhorar a manutenção e as operações da infraestrutura de saneamento, aumentando assim sua resiliência climática e diminuindo a probabilidade de interrupções dos serviços, mesmo em presença de eventos climáticos extremos. O donativo contribuirá também para, numa base decrescente, financiar os diferenciais entre o custo da prestação de serviços de saneamento e as receitas de saneamento obtidas.</p>
+	</div>
+</div>
+
+<div style="height: 60px"></div>
 </section>
 
 
@@ -603,19 +646,22 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
  <script id="session">
-	  
+	 
 		<?php if(isset($_SESSION['username'])):?>
 				let _gagoo_=true	
 		<?php else: ?>
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
 </body>
+
 
 </html>

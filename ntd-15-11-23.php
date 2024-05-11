@@ -1,11 +1,15 @@
 <!DOCTYPE html>
+
+  <?php
+                  session_start();
+           ?>
 								<html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
- 								<!-- Added by HTTrack --><head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
-</style><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+ 								<head><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style data-merge-styles="true"></style><style id="swiper-element-styles">@font-face{font-family:swiper-icons;src:url('data:application/font-woff;charset=utf-8;base64, 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');font-weight:400;font-style:normal}
+</style><meta http-equiv="content-type" content="text/html;charset=utf-8">
 
       <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Grupo de Água e Saneamento - DNAAS</title>
+  <title>Noticia | MESQUITA COLOCA ESTRADAS E GESTÃƒO DE RECURSOS HIDRICOS NO TOPO DA AGENDA COM OS JAPONESES</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css">
@@ -32,9 +36,10 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css">
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css">
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css">
-     <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
+  <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css">
+   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css">
   <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet">
-
+  
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -335,7 +340,7 @@ kQuery(function($) {
 <!-- You can add Google Analytics here or use T3 Injection feature -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap" async="" defer=""></script>
-<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body class="bodybg" _ed_edit="false" _ed_active="false">
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/55/4/util.js"></script></head><body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg" _ed_edit="false" _ed_active="false">
 
  
  
@@ -343,38 +348,14 @@ kQuery(function($) {
 
 	    
 	<!-- SPOTLIGHT 1 -->
-	<div class="top-header increase">
-				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable>A+</span> <span class="center" not_resizable>|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable>A-</span></div>
+	<div class="top-header increase" style="margin-top: 0px;">
+				<div><span class="btn-resize-plus" onclick="_resize_font('plus')" not_resizable="">A+</span> <span class="center" not_resizable="">|</span> <span class="btn-resize-minus" onclick="_resize_font('minus')" not_resizable="">A-</span></div>
 	            <img width="41px" height="40px" src="../../images/layout/mophrh.png">
 	</div>
-<div class="header-2">
-   <div class="logo-container">
-      <img src="../../images/layout/dnnas-logo.png" style="height:80px">
-	  <div>
-	     <span class="dnaas">DNAAS</span><br/>
-		 <span class="_d">Direcção Nacional de Abastecimento de Água e Saneamento</span>
-
-	  </div>
-   </div>
-
-   <div class="right-side">
-     <div>
-	 <img src="rp.png" style="height:35px;width:35px">
-     <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
-	 </div>
-   </div>
-   </div>
 	<!-- //SPOTLIGHT 1 -->
 
-    <div class="editing-painel" style="display: none;"></div>
-   <div class="form-loader" style="display: none;">
-	<div class="loader-c">
-		 <div class="loader">
-		 	 
-		 </div>
-	</div>
-</div>      
+   <div class="editing-painel" style="display: none;"></div>
+        
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
 	<div class="loader-c">
@@ -384,7 +365,7 @@ kQuery(function($) {
 	</div>
 </div>  
 
-<nav style="display: block;" class=""><div class="navbar">
+<nav style="display: block;" class="float"><div class="navbar">
 <i class="bx bx-menu"></i>
 <div class="logo"><a href="#"><img src="../../images/layout/dnnas-logo.png"></a></div>
 <div class="nav-links">
@@ -456,6 +437,7 @@ kQuery(function($) {
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="avisos.php" class="">Avisos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="concursos-publicos.php" class="">Concursos Públicos</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="agua-e-saneamento.php" class="">Grupo de Água e Saneamento</a></li>
+			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="anuncio.php" class="">Anúncio</a></li>
 			<li class="_ed _ed_item" _ed_model="_ed_model_option_7"><a _ed_editable="" href="conferencias.php" class="">Conferências</a></li>
 		  </ul>
 	  </div>
@@ -546,7 +528,7 @@ kQuery(function($) {
 		</div>
 	</div></div>
   
-         
+        
 
 
         
@@ -574,24 +556,22 @@ kQuery(function($) {
 
 
 
-
+<!--
 <div class="_main-slider _sub">
 	<div class="_slides">
-		<div class="_slide s1" style="background-image: url(../../images/_main/2.jpg)">
-			<div class="fill" _ed_hover_border="" onclick="_ed_change_bottom_img(this.parentElement)"></div>
-			<div class="_text_sub" _ed_editable="">Grupo de Água e Saneamento</div>
+		<div class="_slide s1">
+			<div class="_text_sub">NotÃ­cias</div>
 		</div>
 	</div>
-</div>
-<div class="_long-bar" style="height: 1px"></div>
+</div>-->
 
 
 
 
 
-<section class="sppb-section " style="padding:50px 0 0 0;">
+
+<section class="sppb-section " style="padding:0;">
 	<div class="sppb-container">
-	
 
 	
 </div>
@@ -599,39 +579,91 @@ kQuery(function($) {
 
 
 
-
-<div class="_publicacoes">
-	<div class="_p_content">
-		
-   <div class="_title_section">
-	<div class="_line _left">
-		<span class="s1"></span>
-		<span class="s2"></span>
-		<span class="s3"></span>
-	</div>
-	<h3 class="_title" _ed_editable="">Grupo de Água e Saneamento</h3>
-	<div class="_line _right">
-		<span class="s3"></span>
-		<span class="s2"></span>
-		<span class="s1"></span>
-	</div>
-</div>
+<div class="_news">
+	 <div class="content" style="margin-bottom: 0">
+		<div class="_n">
+			<h2 _ed_editable="">ÁFRICA ORIENTAL E AUSTRAL DEVE INVESTIR 24 MIL MILHÕES DE DÓLARES ANUALMENTE PARA ALCANÇAR O ACESSO UNIVERSAL À ÁGUA E SANEAMENTO ATÉ 2030</h2>
+			<div class="image">
+				<img onclick="_ed_change_img(this)" src="uploaded_imgs/tt15.jpg">
+				<div class="date">
+				<span _ed_editable="">15 de Novembro de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
 
-	<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
-		<div class="_loader">
-			<div></div>
+
+
+
+
+
+
+
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5">&nbsp;<span style="background-color: transparent;">
+Cerca de 37 milhões de pessoas ainda não tem acesso à água segura e 247 milhões não tem acesso ao saneamento seguro na região oriental e austral de África, e os números poderão subir significativamente se não houver uma mudança do paradigma e incremento de investimentos. Esta informação foi partilhada pelo Banco Mundial, durante a Conferência da Liderança da Água, Saneamento e Higiene da África Oriental e Austral, que se realizou de 14 a 15 de Novembro, em Adis Abeba, Etiópia.
+Caso não haja incremento no nível de investimentos e nas estratégias em curso, cerca de 68 milhões de pessoas não terão acesso a serviços básicos de abastecimento de água em 2030 na região oriental e austral de África. Actualmente, o défice anual de investimento na região situa-se em 19 mil milhões de dólares. 
+Moçambique, cuja delegação é liderada pelo Secretário Permanente do Ministério das Obras Públicas, Habitação e Recursos Hídricos, Eng. Hélio Banze, partilhou as estratégias em curso no sector de águas, com destaque para a introdução de reformas institucionais através da Lei do Serviço Público de Abastecimento de Água e Saneamento que de entre outras promove parcerias público-privadas onde se espera o engajamento do Sector Privado nas recém-criadas Sociedades Comerciais. 
+A conferência realçou o papel do regulador na melhoria da eficiência do serviço público do abastecimento de água e saneamento, bem como na criação de um ambiente seguro e atractivo para o sector privado através do equilíbrio de interesses na intervenção de todos os actores na provisão do serviço público. Os países foram instados a usarem as receitas provenientes da coleta de tarifas e taxas como fonte de recurso para a operação e manutenção das infraestruturas e recuperação de investimentos.
+Por sua vez, o ministro das finanças da Etiópia e anfitrião do evento, Ahmed Shide, instou os países a priorizarem cada vez mais os investimentos no sector de água e saneamento, bem como apostar numa mudança de sistemas, que incluam maior envolvimento do sector privado.  Segundo Shide, o problema do deficiente acesso à água e saneamento requer um maior engajamento das lideranças por forma a alcançar os Objectivos de desenvolvimento sustentável. 
+Para Victoria Kwakwa, Vice-presidente do Banco Mundial para África Oriental e Austral, esta não é apenas uma agenda dos ministérios que gerem a água e saneamento, mas também dos ministérios das finanças e de todos outros actores, incluindo parceiros de desenvolvimento e sector privado. Por fim, Kwakwa destacou que o alcance dos ODS é possível e terminou a intervenção no primeiro dia do evento, com a célebre frase “Yes we can” (sim, nós podemos).
+O evento, organizado pelo Banco Mundial e Ministério das finanças da Etiópia, juntou ministros e líderes dos sectores de águas e das finanças da África Oriental e Austral, parceiros de desenvolvimento e líderes do sector privado para uma discussão profunda sobre a mudança das estratégias por forma a criar um ambiente para o acesso universal à Água Saneamento e Higiene até 2030. 
+O sector foi encorajado a encontrar estratégias inovadoras, tendo como nota dominante a necessidade de criação de Plataformas Comuns de Financiamento ao sector, bem como a implementação de profundas reformas institucionais com foco na especialização do sector para responder aos desafios da provisão do serviço num ambiente em que o sector já se recente do impacto negativo das mudanças climáticas.</p>
+
+
+
+
+
+
+
+
+
+				
+			</div>
+
+		</div>
+
+		<div class="_right_side" style="display: none">
+			<h3>Outras NotÃ­cias</h3>
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-PARTICIPA-DA-57-a-FEIRA-INTERNACIONAL-DE-MOCAMBIQUE-FACIM-2022.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-CAPACITA-NOVOS-QUADROS-SOBRE-PROTOCOLO-LIFECA.jpg">
+			</div>
+		   </a>
+
+			<a href="n-1.php"><div class="_div">
+				<div class="text">
+					<span>DNAAS PARTICIPA DA 57 Âª FEIRA INTERNACIONAL DE ...</span>
+					<span class="date">1 de setembro de 2022</span>
+				</div>
+				<img src="../../images/noticias/DNAAS-AUSCULTA-COMUNIDADE-SOBRE-O-PROJECTO-DE-CONSTRUCAO-DO-SISTEMA-DE-DRENAGEM-EM-MAPUTO.jpg">
+			</div>
+		   </a>
+
+			<div class="_see_more" style="text-align: left;margin: 2rem 0"><a href="noticias.php"><span>Ver mais notÃ­cias	<i class="fa fa-long-arrow-right"></i></span></a></div>
 		</div>
 	</div>
 
 	
-
-</div></div>
-	</div>
 </div>
 
 
+
+<div style="height: 50px"></div>
 
 
 
@@ -720,13 +752,12 @@ kQuery(function($) {
 </div></footer>
 <!-- //FOOTER -->
 
-<div id="back-to-top" class="back-to-top">
+<div id="back-to-top" class="back-to-top reveal">
     <i style="font-size: 1.9rem" class="fa fa-angle-up fa-2x"></i>
 </div>
 
 
  </div>
-
 
 
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
@@ -745,6 +776,19 @@ kQuery(function($) {
 
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

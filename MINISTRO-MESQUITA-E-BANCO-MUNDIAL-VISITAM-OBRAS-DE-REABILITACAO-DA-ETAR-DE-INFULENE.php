@@ -2,15 +2,15 @@
 <?php
 	      session_start();
 ?>
-
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="pt-pt" dir="ltr" class='com_sppagebuilder view-page itemid-686 j35 mm-hover'>
+
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Noticia | >DNAAS AUSCULTA COMUNIDADE SOBRE O PROJECTO DE CONSTRUÇÃO DO SISTEMA DE DRENAGEM EM MAPUTO</title>
+  <title>Noticia | MINISTRO MESQUITA E BANCO MUNDIAL: VISITAM OBRAS DE REABILITAÇÃO DA ETAR DE INFULENE</title>
  
   <link href="component/search/indexa481.php?id=1&amp;Itemid=686&amp;format=opensearch" rel="search" title="Pesquisar DNAAS" type="application/opensearchdescription+xml" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/bootstrap.css" type="text/css" />
@@ -37,10 +37,11 @@
   <link rel="stylesheet" href="../../templates/itl_hudson/css/owl.theme.css" type="text/css" />
   <link rel="stylesheet" href="../../modules/mod_artsexylightbox/artsexylightbox/css/oldsexylightbox.css" type="text/css" />
   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/ultimate.css" type="text/css" />
-  <link rel="stylesheet" href="../../swiperjs/swiper-bundle.min.css"/>
-   <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+    <link rel="stylesheet" href="../../templates/itl_hudson/local/css/editing.css" type="text/css" />
+  <link rel="stylesheet" href="css/swiper-bundle.min.css"/>
   <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-  
+
+
   <style type="text/css">
 
 		#ja-imagesmap179 a.point0 + div.popover {
@@ -342,7 +343,7 @@ kQuery(function($) {
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFaSya48n7dL3YrCm-bbwivoK_hjiIn6o&amp;callback=initMap"
     async defer></script>
-<body>
+<body style="background-image:url(https://www.dnaas.co.mz/);" class="bodybg">
 
  
  
@@ -374,8 +375,12 @@ kQuery(function($) {
    </div>
 	<!-- //SPOTLIGHT 1 -->
 
-  <div class="editing-painel" style="display: none;">
-</div> 
+   
+        
+<!-- MAIN NAVIGATION -->
+   <div class="editing-painel" style="display: none;">
+    	
+   </div>
         
 <!-- MAIN NAVIGATION -->
 <div class="form-loader" style="display: none;">
@@ -385,14 +390,12 @@ kQuery(function($) {
 		 </div>
 	</div>
 </div>  
-
 <nav  style="display:none">
 
 </nav>
 <!-- //MAIN NAVIGATION -->
 
- 
-<div class="_ed_add_and_select_page" style="display: none;">
+ <div class="_ed_add_and_select_page" style="display: none;">
 	
 </div>
         
@@ -400,6 +403,13 @@ kQuery(function($) {
 
 </div>
   
+
+
+ 
+<!-- //MAIN NAVIGATION -->
+
+ 
+
         
 
 
@@ -450,22 +460,42 @@ kQuery(function($) {
 
 
 
-
-<div class="_news _strapi_noticia">
+<div class="_news" >
 	 <div class="content" style="margin-bottom: 0">
 		<div class="_n">
-              <br/>
-              <br/>
-              <br/>
-                <div class="_loader">
-                    <div></div>
-                </div>
-                <br/>
-                <br/>
-        </div>
-      
+			<h2 _ed_editable>MINISTRO MESQUITA E BANCO MUNDIAL: VISITAM OBRAS DE REABILITAÇÃO DA ETAR DE INFULENE</h2>
+			<div class="image">
+				<img  onclick="_ed_change_img(this)" src="../../images/noticias/MINISTRO-MESQUITA-E-BANCO-MUNDIAL-VISITAM-OBRAS-DE-REABILITACAO-DA-ETAR-DE-INFULENE.jpg">
+				<div class="date">
+				<span _ed_editable>9 de maio de 2023</span>
+		     	</div>
+			</div>
+			
+			
+			<div class="text">
 
 
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita e a Directora do Banco Mundial para Moçambique, Madagáscar, Maurícias, Comores e Seicheles, Idah Z. Pswarayi-Riddihough, visitaram nesta sexta-feira, as obras de reabilitação e expansão da Estação de Tratamento de Águas Residuais (ETAR) de Infulene. A visita esteve inserida no âmbito da monitoria às actividades do Projecto de Saneamento Urbano (PSU). </p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Na ocasião, os visitantes instaram a equipa do projecto equipa do projecto a intensificar a monitoria da qualidade das Obras, e acelerar a construção do depósito de lamas fecais da Catembe, de modo a iniciar a fase final de construção. A obra encontra-se neste momento a 87% de execução física. </p>
+
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+O PSU é implementado pelo Ministério das Obras Públicas, Habitação e Recursos Hídricos, através da DNAAS e da AIAS, nos municípios de Maputo, Beira, Nampula, Tete e Quelimane, num valor global de 165 Milhões de dólares, financiados pelo Banco Mundial. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+Através do PSU, o Governo prevê realizar intervenções cruciais na cadeia de Saneamento até ao ano de 2025, que incluem a Reabilitação e/ou construção das Estações de Tratamentos de Águas Residuais e redes de esgotos, Construção de mais de 11 mil sanitários domiciliares em Tete e Quelimane, actividades de sensibilização para adopção de boas práticas de saneamento, Melhoria da capacidade dos Municípios de prestar o serviço de saneamento através de compra de equipamento, reformas e capacitação de Recursos Humanos, Revisão do quadro legal do sector de Água e Saneamento, dentre outras actividades. </p>
+<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_5">
+PSU – Saneamento para Todos, Responsabilidade de Todos!
+</p>
+
+
+
+				
+			</div>
+
+		</div>
 
 		<div class="_right_side" style="display: none">
 			<h3>Outras Notícias</h3>
@@ -525,16 +555,17 @@ kQuery(function($) {
 
 
         
-<!-- FOOTER --><footer id="t3-footer" class="wrap t3-footer">
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
 
             <div class="container">
 	<div class="t3-spotlight t3-footnav  row">
 				
 							<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>Subscrever Online</span><span class="_footer_title_bar"></span></h3>
 
 									<div class="_substrebe_section">
-										 <p>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
+										 <p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Para receber as últimas notícias e actualizações, insira o seu e-mail.</p>
 										 <form>
 										 	 <input type="email" name="email" placeholder="Email">
 											 <button>Subscrever</button>
@@ -547,33 +578,35 @@ kQuery(function($) {
 									</div>
 									</div>
 							</div><div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>LINKS UTEIS</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
 
 <div class="separate">
 	
 	<div>
-		<a target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
-		<a target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
-		<a target="_blank" href="https://www.fipag.co.mz/">FIPAG</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.mophrh.gov.mz/">MOPHRH</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.dngrh.gov.mz/">DNGRH</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.fipag.co.mz/">FIPAG</a>
 	</div>
 	<div>
-		<a _ed_editable target="_blank" href="https://www.aias.gov.mz/">AIAS</a>
-		<a target="_blank" href="https://www.aura.org.mz/">AURA</a>
-		<a target="_blank" href="https://www.adrmm.co.mz/">ADRMM</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.aias.gov.mz/">AIAS</a>
+
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.aura.org.mz/">AURA</a>
+		<a class="_item  _ed_item" _ed_model="_ed_model_option_6" _ed_editable target="_blank" href="https://www.adrmm.co.mz/">ADRMM</a>
 	</div>
 </div>	
 </div>
 </div></div></div>
 							</div>
 					<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
+								<div class="t3-module module " id="Mod143"><div class="module-inner"><h3 class="module-title "><span _ed_editable>Contactos</span><span class="_footer_title_bar"></span></h3><div class="module-ct">
 
 <div class="custom">
-<span>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</span>
-<p>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
-<p>Email: geral@dnaas.gov.mz</p>
+
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>DIRECÇÃO NACIONAL DE ABASTECIMENTO DE ÁGUA E SANEAMENTO</p>
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Rua da Imprensa, n&ordm; 162 terceiro andar<br />Maputo - Mo&ccedil;ambique<br />Caixa Postal (C.P): 1611</p>
+<p class="_ed _ed_item" _ed_model="_ed_model_option_6" _ed_editable>Email: geral@dnaas.gov.mz</p>
 </div>
 </div></div></div>
 							</div>
@@ -603,8 +636,10 @@ kQuery(function($) {
 
  </div>
 
+
  <!--<script src="../../swiperjs/swiper-bundle.min.js"></script>-->
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+ <script src="js/_editing.js"></script>
  <script id="session">
 	  
 		<?php if(isset($_SESSION['username'])):?>
@@ -613,9 +648,14 @@ kQuery(function($) {
 				let _gagoo_=false	
 		<?php endif; ?>
 	   </script>
+
 <script src="js/_editing.js"></script>
 <script src="js/_main.js"></script>
 
+ 
+
 </body>
+
+
 
 </html>
