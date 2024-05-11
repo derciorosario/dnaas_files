@@ -403,10 +403,10 @@ let strapi_f={
                    </div>
                `
 
-              //start sinas
+                  //start sinas
 
               
-              if(!window.location.href.includes('noticias') && _i==1){
+              if(!window.location.href.includes('noticias') && _i==data.length - 1){
                 content.innerHTML+=sinas_content
               }
 
