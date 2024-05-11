@@ -252,7 +252,7 @@ await fetch('updates/nav.json').then(e=>{
 
   
   document.querySelectorAll('a').forEach(e=>{
-    e.addEventListener('click',link_action)
+  //  e.addEventListener('click',link_action)
  })
 
 
@@ -359,163 +359,13 @@ let strapi_f={
     noticias:function(res,strapi_url){
 
 
-          res=JSON.parse({
-            "data": [
-                {
-                    "id": 5,
-                    "attributes": {
-                        "titulo": "MOÇAMBIQUE CELEBRA O DIA MUNDIAL DA ÁGUA COM COMPROMISSO RENOVADO COM A PAZ E O DESENVOLVIMENTO SUSTENTÁVEL",
-                        "data": "2024-05-08",
-                        "createdAt": "2024-05-02T10:33:37.862Z",
-                        "updatedAt": "2024-05-02T10:58:00.103Z",
-                        "publishedAt": "2024-05-02T10:33:51.970Z",
-                        "texto": [
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "O ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, _considera que a prosperidade e a paz dependem da água, sendo que à medida que o País implementa as políticas para enfrentar os desafios das alterações climáticas, a migração em massa e a instabilidade política, deve se colocar a cooperação no domínio da água no centro dos nossos plano",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "6.\t",
-                                        "type": "text"
-                                    },
-                                    {
-                                        "bold": true,
-                                        "text": "Especificação da solução final",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "Osmose inversa ",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "Baseia-se no efeito de pressão numa solução salina sobre uma membrana semipermeável, com poros microscópicos através da qual a água passa e os sais, microorganismos e outras impurezas ficam retidos.",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "Materiais necessários:",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "O processo de osmose directa dá-se de uma forma natural: a água migra para o lado onde a solução está mais concentrada de forma a equilibrar a concentração das duas soluções. O processo de osmose inversa não se dá de uma forma natural: para se obter um fluxo de água fresca é necessário aplicar uma pressão de forma a contrariar o processo natural. O caudal da água fresca que se obtém é proporcional ao diferente da pressão (pressão que se aplica) que excede o diferencial de pressão osmótica em equilíbrio. ",
-                                        "type": "text"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "paragraph",
-                                "children": [
-                                    {
-                                        "text": "",
-                                        "type": "text"
-                                    }
-                                ]
-                            }
-                        ],
-                        "imagem": {
-                            "data": [
-                                {
-                                    "id": 4,
-                                    "attributes": {
-                                        "name": "tt08-03.jpg",
-                                        "alternativeText": null,
-                                        "caption": null,
-                                        "width": 720,
-                                        "height": 480,
-                                        "formats": {
-                                            "small": {
-                                                "ext": ".jpg",
-                                                "url": "/uploads/small_tt08_03_a4d461c283.jpg",
-                                                "hash": "small_tt08_03_a4d461c283",
-                                                "mime": "image/jpeg",
-                                                "name": "small_tt08-03.jpg",
-                                                "path": null,
-                                                "size": 34.67,
-                                                "width": 500,
-                                                "height": 333,
-                                                "sizeInBytes": 34667
-                                            },
-                                            "thumbnail": {
-                                                "ext": ".jpg",
-                                                "url": "/uploads/thumbnail_tt08_03_a4d461c283.jpg",
-                                                "hash": "thumbnail_tt08_03_a4d461c283",
-                                                "mime": "image/jpeg",
-                                                "name": "thumbnail_tt08-03.jpg",
-                                                "path": null,
-                                                "size": 10,
-                                                "width": 234,
-                                                "height": 156,
-                                                "sizeInBytes": 10001
-                                            }
-                                        },
-                                        "hash": "tt08_03_a4d461c283",
-                                        "ext": ".jpg",
-                                        "mime": "image/jpeg",
-                                        "size": 47.67,
-                                        "url": "/uploads/tt08_03_a4d461c283.jpg",
-                                        "previewUrl": null,
-                                        "provider": "local",
-                                        "provider_metadata": null,
-                                        "createdAt": "2024-05-02T10:31:30.780Z",
-                                        "updatedAt": "2024-05-02T10:31:30.780Z"
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                }
-            ],
-            "meta": {
-                "pagination": {
-                    "page": 1,
-                    "pageSize": 25,
-                    "pageCount": 1,
-                    "total": 1
-                }
-            }
-        }) 
+          
 
           let sinas_content=`
           <div class="sinas-box">
               <div class="content">
                 <div class="title"> SINAS - Sistema nacional de informação sobre abastecimento de água e saneamento</div>
-              <a href="">
+              <a href="https://www.sinasmz.com/">
             <div class="img">
               <img src="../../images/projectos/sinas.png">
             </div>
@@ -528,14 +378,14 @@ let strapi_f={
  
           let data=window.location.href.includes('noticias') ? res.data : res.data.filter((_i,i)=>i <= 2)
           if(!window.location.href.includes('noticias') && !data.length){
-            content.innerHTML+=sinas_content
+            container.innerHTML+=sinas_content
           }
           data.forEach((i,_i)=>{
                let item=i.attributes
                container.innerHTML+=`
                     <div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
                     <div class="_image">
-                            <span class="date" spellcheck="false" contenteditable="true">${item.data.split('-')[2]}-${item.data.split('-')[1]}-${item.data.split('-')[0]}</span>
+                            <span class="date" spellcheck="false" >${item.data.split('-')[2]}-${item.data.split('-')[1]}-${item.data.split('-')[0]}</span>
                             <img onclick="_ed_change_img(this)"  src="${strapi_url+item.imagem.data[0].attributes.url}">
                     </div>
                         <div class="_text-content">
@@ -558,14 +408,10 @@ let strapi_f={
 
                   //start sinas
 
-                  console.log(data.length)
-                  console.log(_i)
-                  console.log('------------------------')
-
               
-              if(!window.location.href.includes('noticias') &&  (_i==1 || (_i==data.length - 1 && data.length <= 1))){
-                 content.innerHTML+=sinas_content
-              }
+                if(!window.location.href.includes('noticias') &&  (_i==1 || (_i==data.length - 1 && data.length <= 1))){
+                  container.innerHTML+=sinas_content
+                }
 
 
                // end sinas

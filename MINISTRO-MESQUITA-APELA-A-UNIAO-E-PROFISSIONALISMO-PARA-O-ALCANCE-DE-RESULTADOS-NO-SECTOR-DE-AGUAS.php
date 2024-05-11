@@ -462,14 +462,14 @@ kQuery(function($) {
 			
 			
 			<div class="text">
-<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">O Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, visitou nesta Sexta-feira, 06 de Maio, as instalações onde funcionam a Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) e a Direcção Nacional de Gestão de Recursos Hídricos (DNGRH), em Maputo, num encontro marcado por fortes apelos ao profissionalismo e trabalho em Equipa.</p>	
-<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5"  spellcheck="false">O Ministro das Obras Públicas, Habitação e Recursos Hídricos, Carlos Mesquita, visitou nesta Sexta-feira, 06 de Maio, as instalações onde funcionam a Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) e a Direcção Nacional de Gestão de Recursos Hídricos (DNGRH), em Maputo, num encontro marcado por fortes apelos ao profissionalismo e trabalho em Equipa.</p>	
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5"  spellcheck="false">
 “A questão dos Recursos Humanos na Administração Pública é séria, por isso é que essa interajuda e trabalho em equipa é importante para a transmissão de conhecimentos. Vamos criar essas valências entre nós”, disse Mesquita, que também advogou pela humildade, respeito e profissionalismo dos funcionários para o alcance dos resultados almejados para o sector de águas.</p>	
-<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5"  spellcheck="false">
 Na sua locução dirigida aos funcionários e agentes do Estado afectos à DNAAS e DNGRH, Mesquita destacou ainda a importância dos sistemas e monitoria e recolha de dados, instalados nas duas Direcções Nacionais, como um elemento fundamental para a tomada de decisões correcta, baseadas em dados fiáveis e na análise da frequência dos eventos.</p>	
-<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5"  spellcheck="false">
 Durante a sua visita às instalações da DNAAS e DNGRH, o dirigente interagiu com funcionários de ambas Direcções Nacionais e dirigiu uma sessão extraordinária do Colectivo de Direcção das duas instituições.</p>	
-<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5" contenteditable="true" spellcheck="false">
+<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_5"  spellcheck="false">
 Esta foi a primeira visita de Carlos Mesquita, às Direcções Nacionais de Abastecimento de Água e Saneamento e Gestão de Recursos Hídricos, desde que tomou posse a 04 de Março último. </p>	
 				
 			</div>

@@ -619,7 +619,7 @@ kQuery(function($) {
 
                 <div class="_item _ed _ed_item __hidden" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: none;">
                   <div class="_image">
-                                 <span class="date" spellcheck="false" contenteditable="true">22 de Março de 2024</span>
+                                 <span class="date" spellcheck="false" >22 de Março de 2024</span>
                                  <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt22-03.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
                          </div>
@@ -638,7 +638,7 @@ MOÇAMBIQUE CELEBRA O DIA MUNDIAL DA ÁGUA COM COMPROMISSO RENOVADO COM A PAZ E 
 
 
                   <div class="_image">
-                                 <span class="date" spellcheck="false" contenteditable="true">20 de Março de 2024</span>
+                                 <span class="date" spellcheck="false" >20 de Março de 2024</span>
                                  <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt20-03.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
                          </div>
@@ -659,7 +659,7 @@ SECTOR DE ÁGUA E SANEAMENTO CELEBRA A APROVAÇÃO UNÂNIME E DEFINITIVA DA LEI 
             
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">08 de Março de 2024</span>
+		 	 	 <span class="date" spellcheck="false" >08 de Março de 2024</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt08-03.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -680,7 +680,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">28 de Fevereiro de 2024</span>
+		 	 	 <span class="date" spellcheck="false" >28 de Fevereiro de 2024</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt28-02.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -754,7 +754,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">29 de Novembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >29 de Novembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 28.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -772,7 +772,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">23 de Novembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >23 de Novembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 23.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -790,7 +790,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">21 de Novembro de 2023&nbsp;</span>
+		 	 	 <span class="date" spellcheck="false" >21 de Novembro de 2023&nbsp;</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 21.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -808,7 +808,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">15 de Novembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >15 de Novembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 15.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -826,7 +826,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">31 de Outubro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >31 de Outubro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 31.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -844,7 +844,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">9 de Outubro de 2023&nbsp;</span>
+		 	 	 <span class="date" spellcheck="false" >9 de Outubro de 2023&nbsp;</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 9.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -862,7 +862,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">7 de Outubro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >7 de Outubro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 7.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -880,7 +880,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">02 de Outubro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >02 de Outubro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 2.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -898,7 +898,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">29 de Setembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >29 de Setembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 29.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -919,7 +919,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">8 de Setembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >8 de Setembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt8.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -937,7 +937,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">31 de Agosto de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >31 de Agosto de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/370298442_610090087979327_3955488709423960069_n.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -955,7 +955,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">30 de Agosto de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >30 de Agosto de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -973,7 +973,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">27 de Agosto de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >27 de Agosto de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/369634738_607882198200116_4502000838153150595_n.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -991,7 +991,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">25 de Agosto de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >25 de Agosto de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/369983280_608408164814186_2842257493876264788_n.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -1009,7 +1009,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">24 de Agosto de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >24 de Agosto de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/371314619_608390988149237_4932686404207833129_n.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>
@@ -1027,7 +1027,7 @@ distrito de Boane, construídos</span><span style="color: rgb(5, 5, 5); font-fam
               
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">08 de Agosto de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >08 de Agosto de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/366539622_598435915811411_6139800483472711883_n.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div>

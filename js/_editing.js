@@ -830,19 +830,19 @@ const _ed_default_item_content={
 	          </div>
 	         
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">00/00/00</span>
+		 	 	 <span class="date" spellcheck="false" >00/00/00</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="../../images/noticias/default-img.jpg">
                   <span class="_image-size" _ed_show>358 X 240</span>
 		 	 </div>
 		 	 <div class="_text-content">
-			 	<a href="index.php" class="title" _ed_editable contenteditable="true" spellcheck="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+			 	<a href="index.php" class="title" _ed_editable  spellcheck="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         k</a>
-			 	 <p _ed_editable contenteditable="true" spellcheck="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+			 	 <p _ed_editable  spellcheck="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                    when an unknown printer took a galley of type and scrambled it to make a type
                     specimen book..  </p>
 			 	 <div class="read_more">
-					<a href="index.php" _ed_editable contenteditable="true" spellcheck="false">
+					<a href="index.php" _ed_editable  spellcheck="false">
 									Ler Mais								
 						<i class="fa fa-long-arrow-right"></i>
 					</a>
@@ -854,13 +854,13 @@ const _ed_default_item_content={
 	          <div class="_top" onclick="pub_show_more(this)">
 				<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px"  src="../../images/_icons/pdf.svg"></div>
 			 	<div class="_text">
-					<h3 _ed_editable contenteditable="true" spellcheck="false"> Lorem Ipsum is simply dummy text</h3>
-					<span _ed_editable contenteditable="true" spellcheck="false">Lorem Ipsum - 00/00/00</span>
+					<h3 _ed_editable  spellcheck="false"> Lorem Ipsum is simply dummy text</h3>
+					<span _ed_editable  spellcheck="false">Lorem Ipsum - 00/00/00</span>
 			 	</div>
 			 	<div class="_arrow"><i class="fas fa-chevron-down"></i></div>
 		 	</div>
 		 	<div class="_content">
-		 		<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_13" contenteditable="true" spellcheck="false">
+		 		<p _ed_editable class="_ed _ed_item" _ed_model="_ed_model_option_13"  spellcheck="false">
 				  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                   when an unknown printer took a galley of type and scrambled it to make a type
@@ -987,6 +987,9 @@ function _ed_init() {
 
 
 function link_action(event){
+
+	  return
+	  
 	  let e=event.target
 
 

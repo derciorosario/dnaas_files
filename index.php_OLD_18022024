@@ -683,7 +683,7 @@ kQuery(function($) {
 		 	
 
 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">12 de fevereiro de 2024</span>
+		 	 	 <span class="date" spellcheck="false" >12 de fevereiro de 2024</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/IMG-20240212-WA0068.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 		 	 </div> 
@@ -704,7 +704,7 @@ kQuery(function($) {
 
 		<div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
 		 	 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">12 de Dezembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >12 de Dezembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 22.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 			 </div>
@@ -726,7 +726,7 @@ kQuery(function($) {
 		 <div class="_item _ed _ed_item" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
 		 	
 		 	 	          <div class="_image">
-		 	 	 <span class="date" spellcheck="false" contenteditable="true">13 de Dezembro de 2023</span>
+		 	 	 <span class="date" spellcheck="false" >13 de Dezembro de 2023</span>
 		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt 13.jpg">
                   <span class="_image-size" _ed_show="">358 X 240</span>
 			 </div>
