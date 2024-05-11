@@ -402,18 +402,20 @@ let strapi_f={
                         </div>
                    </div>
                `
+
+              //start sinas
+
+              
+              if(!window.location.href.includes('noticias') && _i==1){
+                content.innerHTML+=sinas_content
+              }
+
+
+               // end sinas
           })
 
 
-          //start sinas
-
-           
-          if(!window.location.href.includes('noticias') && _i==1){
-                content.innerHTML+=sinas_content
-          }
-
-
-        // end sinas
+          
 
 
     },
