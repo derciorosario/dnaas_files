@@ -855,11 +855,13 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 <div class="_video_section"style="background:transparent">
 	<div class="content">
 		<div class="title" style="color: var(--blue-color);
+		margin-left:40px;
     padding: 0.6rem;
     font-size: 2.2rem;
     font-weight: 800;
     position: relative;
     margin-bottom: 3rem;
+	margin-top:1rem;
 	width:100%;
 	">Vídeo em destaque</div>
 
