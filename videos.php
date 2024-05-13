@@ -369,7 +369,7 @@ kQuery(function($) {
      <div>
 	 <img src="rp.png" style="height:35px;width:35px">
      <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
+	 <span>Ministério das Obras Públicas, Habitação e Recursos Hídricos</span>
 	 </div>
    </div>
    </div>
