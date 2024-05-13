@@ -418,7 +418,7 @@ kQuery(function($) {
      <div>
 	 <img src="rp.png" style="height:35px;width:35px">
      <span class="r">República de Moçambique</span>
-	 <span>Ministério das Obras Publicas, Habitação e Recursos Hídricos</span>
+	 <span>Ministério das Obras Públicas, Habitação e Recursos Hídricos</span>
 	 </div>
    </div>
    </div>
@@ -785,7 +785,7 @@ SECTOR DE ÁGUA E SANEAMENTO CELEBRA A APROVAÇÃO UNÂNIME E DEFINITIVA DA LEI 
 
 	  <div class="sinas-box __hidden" style="display: none;">
          <div class="content">
-		       <div class="title">SINAS - Sistema de Informação Nacional de Abastecimento de Água e Saneamento</div>
+		       <div class="title">SINAS - Sistema de Informação Nacional de Água e Saneamento</div>
 
 			   <a href="https://www.sinasmz.com/">
 				<div class="img">
