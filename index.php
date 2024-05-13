@@ -824,7 +824,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 	</div>
 
 
-	<div class="_item _ed _ed_item __hidden" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
+	<div class="_item _ed _ed_item __hidden" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: none;">
 
 	         
 	          <div class="_image">
@@ -849,14 +849,10 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 
 
 
-
-
-
-	
-	   <div class="video __hidden" style="display: none;overflow:hidden">
+ <div class="video __hidden" style="display: none;overflow:hidden;width: 380px;">
 
 	 
-<div class="_video_section">
+<div class="_video_section"style="background:transparent">
 	<div class="content">
 		<div class="title" style="color: var(--blue-color);
     padding: 0.6rem;
