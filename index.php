@@ -785,7 +785,7 @@ SECTOR DE ÁGUA E SANEAMENTO CELEBRA A APROVAÇÃO UNÂNIME E DEFINITIVA DA LEI 
 
 	  <div class="sinas-box __hidden" style="display: none;">
          <div class="content">
-		       <div class="title"> SINAS - Sistema nacional de informação sobre abastecimento de água e saneamento</div>
+		       <div class="title">SINAS - Sistema de Informação Nacional de Abastecimento de Água e Saneamento</div>
 
 			   <a href="https://www.sinasmz.com/">
 				<div class="img">
