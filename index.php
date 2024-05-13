@@ -796,6 +796,12 @@ SECTOR DE ÁGUA E SANEAMENTO CELEBRA A APROVAÇÃO UNÂNIME E DEFINITIVA DA LEI 
 		 </div>
       </div>
 
+
+
+
+
+
+
 	<div class="_item _ed _ed_item __hidden" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: none;">
             
 	         
@@ -816,6 +822,74 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 				 </div>
 		 	 </div>
 	</div>
+
+
+	<div class="_item _ed _ed_item __hidden" _ed_model="_ed_model_option_1" _ed_default="_ed_news" style="display: block;">
+
+	         
+	          <div class="_image">
+		 	 	 <span class="date" spellcheck="false">28 de Fevereiro de 2024</span>
+		 	 	 <img onclick="_ed_change_img(this)" src="uploaded_imgs/tt28-02.jpg">
+                  <span class="_image-size" _ed_show="">358 X 240</span>
+		 	 </div>
+		 	 <div class="_text-content">
+			 	<a href="index.php" class="title" _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; text-transform: none; white-space-collapse: preserve;">APROVADA  POR UNANIMIDADE A LEI DE ABASTECIMENTO DE ÁGUA E SANEAMENTO EM MOÇAMBIQUE</span><br></a>
+			 	 <p _ed_editable=""><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">Lei do Serviço Público de Abastecimento de Água e Saneamento foi aprovada na generalidade e por unanimidade, pelas três bancadas parlamentares em Moçambique, em 28 de fevereiro de 2024. Com esta aprovação, O governo reforça o compromisso em proporcionar serviços de qualidade, essenciais para a dignidade e saúde da população </span><span style="color: rgb(5, 5, 5); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve;">...</span></p>
+			 	 <div class="read_more">
+					<a href="https://dnaas.gov.mz/ntd-28-02-24.php">
+									Ler Mais								
+						<i class="fa fa-long-arrow-right"></i>
+					</a>
+				 </div>
+		 	 </div>
+	</div>
+
+
+
+
+
+
+
+
+
+	
+	   <div class="video __hidden" style="display: none;overflow:hidden">
+
+	 
+<div class="_video_section">
+	<div class="content">
+		<div class="title" style="color: var(--blue-color);
+    padding: 0.6rem;
+    font-size: 2.2rem;
+    font-weight: 800;
+    position: relative;
+    margin-bottom: 3rem;
+	width:100%;
+	">Vídeo em destaque</div>
+
+		<div class="_ed _ed_item" _ed_model="_ed_model_option_3">
+		
+			<iframe class="main-y-video" max-width="800" max-height="450" src="https://www.youtube.com/embed/TeyaJA8azPs" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="335" height="320" frameborder="0"></iframe>
+		</div>
+
+	</div>
+
+	<div class="_see_more" style="margin-bottom: 20px"><a href="videos.php"><span>Ver mais Vídeos <i class="fa fa-long-arrow-right"></i></span></a></div>
+
+		
+</div>
+
+	 </div>
+
+
+
+
+
+
+
+
+
+
 
 	
 	
@@ -857,7 +931,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 
 <div class="separete-documents">
     
-     <div class="docs">
+     <div class="docs" style="width:100%;max-width:800px;margin:0 auto;">
 
 <div class="_title_section">
 	<div class="_line _left">
@@ -1021,38 +1095,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 
 	 </div>
 
-	 <div class="video">
-
-	 
-<div class="_video_section">
-	<div class="content">
-		<div class="_title_section">
-			<div class="_line _left">
-				<span class="s1"></span>
-				<span class="s2"></span>
-				<span class="s3"></span>
-			</div>
-			<h3 class="_title" _ed_editable="">Vídeo em destaque</h3>
-			<div class="_line _right">
-				<span class="s3"></span>
-				<span class="s2"></span>
-				<span class="s1"></span>
-			</div>
-		</div>
-
-		<div class="_ed _ed_item" _ed_model="_ed_model_option_3">
-			<iframe class="main-y-video" max-width="800" max-height="450" src="https://www.youtube.com/embed/Mi0_YJEgKqo" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="400" height="320" frameborder="0"></iframe>
-		</div>
 	
-
-	</div>
-
-	<div class="_see_more" style="margin-bottom: 20px"><a href="videos.php"><span>Ver mais Vídeos <i class="fa fa-long-arrow-right"></i></span></a></div>
-
-		
-</div>
-
-	 </div>
 
 
 </div>

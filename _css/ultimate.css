@@ -1590,12 +1590,24 @@ strong{
 }
 
 ._video_section{
-  width: 100%;
+  /* width: 100%;
   background:#f5f5f5;
   padding: 0;
-  margin-bottom: 3rem;
+  margin-bottom: 3rem;*/
+  padding: 2rem;
 
 }
+._video_section .title:after {
+  width: 30px;
+  height: 3px;
+  background: var(--blue-color);
+  content: "";
+  position: absolute;
+  left: 0.6rem;
+  bottom: -0.6rem;
+  border-radius: 0.1rem;
+}
+
 ._video_section .content{
   display: flex;
   justify-content: center;
@@ -2015,6 +2027,7 @@ nav.float{
   font-size: 2rem;
   max-width: 500px;
   display: inline-block;
+  line-height: initial;
  }
 .header-2 .logo-container{
   display: flex;

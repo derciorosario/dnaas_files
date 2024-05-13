@@ -1,6 +1,6 @@
 
 //strapi main variables
-/*** __test */ let strapi_on=true 
+/*** __test */ let strapi_on=false
 let strapi_url='http://34.125.4.102:3002' /// 'http://localhost:1337'
 
 
@@ -137,7 +137,7 @@ try{
 function resize_main_y_video() {
   
   if (window.innerWidth - (window.innerWidth/5) > 800) {
-    document.querySelector('.main-y-video').width=400
+    document.querySelector('.main-y-video').width=335
     document.querySelector('.main-y-video').height=320
   }else{
     document.querySelector('.main-y-video').width=window.innerWidth - (window.innerWidth/5)
@@ -358,13 +358,10 @@ let strapi_f={
   
     noticias:function(res,strapi_url){
 
-
-          
-
           let sinas_content=`
           <div class="sinas-box">
               <div class="content">
-                <div class="title"> SINAS - Sistema nacional de informação sobre abastecimento de água e saneamento</div>
+                <div class="title">SINAS - Sistema de Informação Nacional de Água e Saneamento</div>
               <a href="https://www.sinasmz.com/">
             <div class="img">
               <img src="../../images/projectos/sinas.png">
