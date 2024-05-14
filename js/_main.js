@@ -1,7 +1,7 @@
 
 //strapi main variables
 /*** __test */ let strapi_on=false
-let strapi_url='http://34.125.4.102:3002' /// 'http://localhost:1337'
+let strapi_url='https://edicao.setma.co.mz:3003' /// 'http://localhost:1337'
 
 
 function pub_show_more(e) {
@@ -300,7 +300,7 @@ async function show_news(){
   await fetch('updates/all-news.json').then(e=>e.json()).then(res=>{
     pub_news_data=res
     
-     if (document.querySelector('._publicacoes')) {
+     if (document.querySelector('._publicacoes') && !document.querySelector('._publicacoes ._ignore')) {
           let pub_content=""
           document.querySelector('._publicacoes ._flex').innerHTML=`
            <div class="_ed_add_new" style="display:none;" onclick="_ed_add_new(this)">

@@ -945,8 +945,331 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 				<div></div>
 		      </div>
 
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Apresentação do piloto com pais_BE GIRL</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Apresentacao%20do%20piloto%20com%20pais_BE%20GIRL.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Apresentação Plano de Acção da ESR_V.01_28.07.2022 (003)</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Apresentação Plano de Acção da ESR_V.01_28.07.2022 (003).ppt"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Apresentacão sobre a  Rotação de mandatos nos CAS-GOTAS_v26072023 (002).pdf</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Apresentacão sobre a  Rotacao de mandatos nos CAS-GOTAS_v26072023 (002).pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF (1).pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF.pptx</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF.pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">O_Impacto_das_Mudanças_Climáticas_no_Saneamento_em_Moçambique.pdf</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/O_Impacto_das_Mudanças_Climáticas_no_Saneamento_em_Moçambique.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Estudo San Mark Boane _WA</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Estudo San Mark Boane _WA.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Proposta de Guiao de funcionamento dos CAS-Proposta GOTAS Dez 2021</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Proposta de Guiao de funcionamento dos CAS-Proposta GOTAS Dez 2021 (002).pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">SNV_Resiliencia Climatica WASH_Metodologia de Avaliacao_ Final_GAS_29_Julho_2022__VF</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/SNV_Resiliencia Climatica WASH_Metodologia de Avaliacao_ Final_GAS_29_Julho_2022__VF.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Transform WASH - Proposta de Plano de Acção de Género da AURA_DRAFT FINAL</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Transform WASH - Proposta de Plano de Acção de Género da AURA_DRAFT FINAL.pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">USAID TRANSFORM WASH - ANALISE DE SUSTENTABILIDADE DOS SAA DO PRONASAR</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/USAID TRANSFORM WASH - ANALISE DE SUSTENTABILIDADE DOS SAA DO PRONASAR.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">WaterAid Presentation.pptx</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/WaterAid Presentation.pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			 
-			  <div class="_div anu _ed _ed_item __hidden" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+			  <div class="_div anu _ed _ed_item __hidden_" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
 		 	<div class="_top" onclick="pub_show_more(this)">
 			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
 			 	<div class="_text">
@@ -970,7 +1293,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 		 	<div class="_content">
 		 		<a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="documentos-media/P050 Termos de Referencia Consultoria Legal Sobre o Regime de Incentivos e Sanções (RIS) .pdf"><button>Download</button></a>
 		 	</div>
- </div><div class="_div anu _ed _ed_item __hidden" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.6094561805330574"> 
+ </div><div class="_div anu _ed _ed_item __hidden_" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.6094561805330574"> 
 		 	<div class="_top" onclick="pub_show_more(this)">
 			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
 			 	<div class="_text">
@@ -1019,7 +1342,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 		 	<div class="_content">
 		 		<a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="documentos-media/SOW for Transactional Advisory - PPP Law_FINAL.pdf"><button>Download</button></a>
 		 	</div>
- </div><div class="_div anu _ed _ed_item __hidden" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.1904053137473547"> 
+ </div><div class="_div anu _ed _ed_item __hidden_" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.1904053137473547"> 
 		 	<div class="_top" onclick="pub_show_more(this)">
 			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/pdf.svg"></div>
 			 	<div class="_text">
@@ -1033,7 +1356,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 		 		<p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_13" style="background-color: rgb(255, 255, 255); text-align: center; margin: 0.6rem auto;"><b style="font-size: 24pt; text-align: justify; background-color: transparent;">Transform Water, Sanitation, and Hygiene (USAID Transform WASH)</b></p><p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_13" style="background-color: rgb(255, 255, 255); text-align: center; margin: auto;"><b style="font-size: 14pt; text-align: justify; background-color: transparent; display: inline !important;">Contratação de Consultor para revisão do Manual de Implementação das Modalidades de Gestão dos Pequenos Sistemas de Abastecimento de Água</b></p><p lang="pt-BR" align="center" style="margin-bottom: 0in;"><font style="font-size: 14pt;"></font></p><p></p><p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_13" style="background-color: rgb(255, 255, 255);">&nbsp;<span style="display: inline !important;">Extensão do prazo para submissão de propostas</span></p><p></p><p></p><div style="text-align: start;"><p lang="pt-BR" align="justify" style="margin-bottom: 0in;"><br></p></div><ol _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_13" style="background-color: rgb(255, 255, 255); text-align: left;"><p lang="en-US" align="justify"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Extensão do prazo para submissão de propostas</span><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">O projecto "USAID Transform Water, Sanitation, and Hygiene" (USAID Transform WASH) financiado Pela USAID é implementado pelo consórcio liderado pela Tetra Tech ARD Inc&nbsp; (http://www.tetratech.com/intdev). O projecto está actualmente a aceitar CV de consultores, para assistir a Direcção Nacional de Abastecimento de Água e Saneamento (DNAAS) no processo supracitado com as seguintes qualificações</span></span></p><p lang="en-US" align="justify"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">- Licenciatura em Direito com 3 anos de experiência na área relevante; ou 8 anos de experiência de trabalho relevante.<br></span></span></p><p lang="en-US" align="justify"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><br></span><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">- Especializado em direito de contratos ou cursos relacionados com contratos.</span></span></p><p lang="en-US" align="justify"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">- Especializado em governação no sector de água em Moçambique ou em outro domínio relevante.</span></p><p lang="en-US" align="justify"><font color="#000000"><span lang="pt-BR"><b><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Informação de Candidatura:</span></b></span></font></p>Os interessados deverão aceder o link "&nbsp;<a href="https://tinurl.com/27dane3u" style="display: inline !important;">https://tinurl.com/27dane3u</a>&nbsp;" para obter os termos de referênvias. As canditatura devem ser submetidas através do e-mail:<a href="http://localhost/v/dnaas/index.php/pt/transformwash.recruitment@tetratech.com">transformwash.recruitment@tetratech.com&nbsp;<span style="background-color: transparent; color: rgb(102, 102, 102); display: inline !important;">com carta de apresentação e CV actualizado em ordem cronológica inversa em português e inglês. Por favor, coloque o título da consultoria na linha de assunto do e-mail conforme abaixo indicado:&nbsp;</span></a><div><p lang="en-US" align="justify"><font color="#000000"><span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">“<span lang="pt-BR">TRANSFORM WASH_REVISÃO DO DIPLOMA MINISTERIAL 5/2006, DE 17 DE JANEIRO”</span></span></font></p></div></ol><p _ed_editable="" class="_ed _ed_item" _ed_model="_ed_model_option_13" style="background-color: rgb(255, 255, 255); text-align: left;"><span style="text-align: justify; background-color: transparent; display: inline !important; color: rgb(0, 0, 0);">Apenas os candidatos pré-seleccionados serão contactados para entrevista.</span></p><div><span style="text-align: justify; background-color: transparent; display: inline !important;"><font color="#000000">Não serão aceites telefonemas. O prazo para submissão de candidaturas é 15 de Dezembro de 2023, até às 17h00.</font><br></span></div><p></p><p></p><div style="text-align: start;"></div><p></p>
 		 		<a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="documentos-media/SOW Revision of the Manual for the Implementation of Management Modalities_FINAL.pdf"><button>Download</button></a>
 		 	</div>
-      </div><div class="_div anu _ed _ed_item __hidden" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.24184056070097149"> 
+      </div><div class="_div anu _ed _ed_item __hidden_" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.24184056070097149"> 
 		 	<div class="_top" onclick="pub_show_more(this)">
 			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" src="../../images/_icons/pdf.svg" width="26px" height="26px"></div>
 			 	<div class="_text">
@@ -1049,7 +1372,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 <span style="display: inline !important;">Concurso público</span></p><p></p>
 		 		
 		 	</div>
-		 </div><div class="_div anu _ed _ed_item __hidden" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.6831950953786099"> 
+		 </div><div class="_div anu _ed _ed_item __hidden_" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.6831950953786099"> 
 		 	<div class="_top" onclick="pub_show_more(this)">
 			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" src="../../images/_icons/pdf.svg" width="26px" height="26px"></div>
 			 	<div class="_text">
@@ -1066,7 +1389,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
     <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="documentos-media/SOW for Transactional Advisory - PPP Law_FINAL.pdf"><button>Download</button></a>
 </div>
     
-		 </div><div class="_div anu _ed _ed_item __hidden" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.10442390726411721"> 
+		 </div><div class="_div anu _ed _ed_item __hidden_" style="display:none" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.10442390726411721"> 
 		 	<div class="_top" onclick="pub_show_more(this)">
 			 	<div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" src="../../images/_icons/pdf.svg" width="26px" height="26px"></div>
 			 	<div class="_text">

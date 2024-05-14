@@ -619,11 +619,324 @@ kQuery(function($) {
 
 
 
-	<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
+	<!---<div class="_flex  _strapi_documentos" cat="agua-e-saneamento">
 		<div class="_loader">
 			<div></div>
 		</div>
+	</div>-->
+
+	<div class="_flex _ignore">
+
+	<div class="_loader">
+				<div></div>
+  </div>
+
+	<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Apresentação do piloto com pais_BE GIRL</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Apresentacao%20do%20piloto%20com%20pais_BE%20GIRL.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Apresentação Plano de Acção da ESR_V.01_28.07.2022 (003)</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Apresentação Plano de Acção da ESR_V.01_28.07.2022 (003).ppt"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Apresentacão sobre a  Rotação de mandatos nos CAS-GOTAS_v26072023 (002).pdf</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Apresentacão sobre a  Rotacao de mandatos nos CAS-GOTAS_v26072023 (002).pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF (1).pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF.pptx</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/BCC_Campanha Namiruku_Apresentação Reunião do GAS_25112022_VF.pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">O_Impacto_das_Mudanças_Climáticas_no_Saneamento_em_Moçambique.pdf</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/O_Impacto_das_Mudanças_Climáticas_no_Saneamento_em_Moçambique.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Estudo San Mark Boane _WA</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Estudo San Mark Boane _WA.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Proposta de Guiao de funcionamento dos CAS-Proposta GOTAS Dez 2021</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Proposta de Guiao de funcionamento dos CAS-Proposta GOTAS Dez 2021 (002).pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">SNV_Resiliencia Climatica WASH_Metodologia de Avaliacao_ Final_GAS_29_Julho_2022__VF</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/SNV_Resiliencia Climatica WASH_Metodologia de Avaliacao_ Final_GAS_29_Julho_2022__VF.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">Transform WASH - Proposta de Plano de Acção de Género da AURA_DRAFT FINAL</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/Transform WASH - Proposta de Plano de Acção de Género da AURA_DRAFT FINAL.pptx"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">USAID TRANSFORM WASH - ANALISE DE SUSTENTABILIDADE DOS SAA DO PRONASAR</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/USAID TRANSFORM WASH - ANALISE DE SUSTENTABILIDADE DOS SAA DO PRONASAR.pdf"><button>Download</button></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="_div anu _ed _ed_item __hidden" style="display: none;" _ed_model="_ed_model_option_2" _ed_default="_ed_posts" _id="0.14637259365297073"> 
+    <div class="_top" onclick="pub_show_more(this)">
+        <div class="_pdf-icon"><img onclick="_ed_change_img_toggle(this)" _ed_image_toggle="../../images/_icons/newspaper.svg,../../images/_icons/pdf.svg" width="28px" height="28px" src="../../images/_icons/newspaper.svg"></div>
+        <div class="_text">
+           <h3 _ed_editable="">WaterAid Presentation.pptx</h3>
+           <span _ed_editable="">14/05/2024</span>
+        </div>
+        <div class="_arrow"><i class="fas fa-chevron-down"></i></div>
+    </div>
+    <div class="_content">
+       <a class="_ed _ed_item" _ed_model="_ed_model_option_12" href="new_docs/WaterAid Presentation.pptx"><button>Download</button></a>
+    </div>
+</div>
+
+	
 	</div>
+
+
 
 	
 
