@@ -1672,9 +1672,6 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 
        let __strapi_url='https://edicao.setma.co.mz:3003'
 
-	   let main_slide_interval
-			
-
 
 	   function update_actived_btns(){
 	           try{
@@ -1723,6 +1720,7 @@ SECTOR DE ABASTECIMENTO DE ÁGUA E SANEAMENTO DISCUTE SOBRE O REGULAMENTO DE SIS
 			const main_slider=document.querySelector('._main-slider ._slides')
 	        const slide_num=document.querySelectorAll('._main-slider ._slide').length
 	        let index_s=0 
+			let main_slide_interval
 			
 
 

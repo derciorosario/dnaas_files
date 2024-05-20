@@ -625,7 +625,7 @@ kQuery(function($) {
 		</div>
 	</div>-->
 
-	<div class="_flex _strapi_documentos">
+	<div class="_flex _ignore _strapi_documentos">
 
 	<div class="_loader">
 				<div></div>

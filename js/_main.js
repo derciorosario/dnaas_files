@@ -1,6 +1,6 @@
 
 //strapi main variables
-/*** __test */ let strapi_on=false
+/*** __test */ let strapi_on=true
 let strapi_url='https://edicao.setma.co.mz:3003' /// 'http://localhost:1337'
 
 
@@ -210,7 +210,6 @@ function setActiveNavLink(){
 }
 
 
-
 try{
   setActiveNavLink()
 } catch(e){}
@@ -259,7 +258,7 @@ await fetch('updates/nav.json').then(e=>{
 })
 
 await fetch('updates/footer.json').then(e=>e.text()).then(res=>{
-  document.querySelector('footer').innerHTML=res
+    document.querySelector('footer').innerHTML=res
 })
 try{
   setActiveNavLink()
@@ -344,6 +343,9 @@ const renderRichText = (richTextArray) => {
 const renderTextChildren = (children) => {
   return children.map(child => {
     let text = child.text || '';
+    if(child.type=='link'){
+       text=`<a style="text-decoration:underline;color:blue" href="${child.url}">${renderTextChildren(child.children)}</a>`;
+    }
     if (child.bold) text = `<strong>${text}</strong>`;
     if (child.italic) text = `<em>${text}</em>`;
     if (child.underline) text = `<u>${text}</u>`;
@@ -353,10 +355,49 @@ const renderTextChildren = (children) => {
   }).join('');
 };
 
-
 let strapi_f={
   
     noticias:function(res,strapi_url){
+
+          let existing_content=''
+          document.querySelectorAll('._strapi_noticias .__hidden').forEach(e=>{
+              existing_content+=e.outerHTML
+          })
+
+
+          let video_em_destaque=`
+
+          <div class="video __hidden" style="display: block; overflow: hidden; width: 380px;">
+
+          <div class="_video_section" style="background:transparent">
+            <div class="content">
+              <div class="title" style="color: var(--blue-color);
+              margin-left:40px;
+              padding: 0.6rem;
+              font-size: 2.2rem;
+              font-weight: 800;
+              position: relative;
+              margin-bottom: 3rem;
+            margin-top:1rem;
+            width:100%;
+            ">Vídeo em destaque</div>
+          
+              <div class="_ed _ed_item" _ed_model="_ed_model_option_3">
+              
+                <iframe class="main-y-video" max-width="800" max-height="450" src="https://www.youtube.com/embed/TeyaJA8azPs" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="335" height="320" frameborder="0"></iframe>
+              </div>
+          
+            </div>
+          
+            <div class="_see_more" style="margin-bottom: 20px"><a href="videos.php"><span>Ver mais Vídeos <i class="fa fa-long-arrow-right"></i></span></a></div>
+          
+              
+          </div>
+          
+             </div>
+          
+          `
+
 
           let sinas_content=`
           <div class="sinas-box">
@@ -372,8 +413,10 @@ let strapi_f={
 
           let container=document.querySelector('._strapi_noticias')
           container.innerHTML=""
+
+          data=data.reverse()
  
-          let data=window.location.href.includes('noticias') ? res.data : res.data.filter((_i,i)=>i <= 2)
+          let data=window.location.href.includes('noticias') ? res.data : res.data.filter((_i,i)=>i <= 3)
           if(!window.location.href.includes('noticias') && !data.length){
             container.innerHTML+=sinas_content
           }
@@ -386,7 +429,7 @@ let strapi_f={
                             <img onclick="_ed_change_img(this)"  src="${strapi_url+item.imagem.data[0].attributes.url}">
                     </div>
                         <div class="_text-content">
-                             <a href="index.php" class="title" _ed_editable="">
+                             <a href="noticia.php?id=${i.id}" class="title" _ed_editable="">
                                    <span>
                                     ${item.titulo}
                                    </span>
@@ -403,19 +446,32 @@ let strapi_f={
                    </div>
                `
 
-                  //start sinas
+                //start sinas
 
               
                 if(!window.location.href.includes('noticias') &&  (_i==1 || (_i==data.length - 1 && data.length <= 1))){
                   container.innerHTML+=sinas_content
                 }
 
+                if(!window.location.href.includes('noticias') && _i==data.length - 1 ){
+                  container.innerHTML+=video_em_destaque
+                }
 
-               // end sinas
+
+
+               
+
+                //end sinas
           })
 
+          if(window.location.href.includes('noticias')){
+            container.innerHTML+=existing_content
+          }
 
-          
+
+          document.querySelectorAll('._strapi_noticias .__hidden').forEach((e)=>{
+            e.style.display="block"
+          })
 
 
     },
@@ -445,7 +501,7 @@ let strapi_f={
       let container=document.querySelector('._strapi_documentos')
       container.innerHTML=""
 
-     let data=res.data
+     let data=res.data.reverse()
 
      current_page=location.pathname.split('/')[location.pathname.split('/').length - 1] == "" ? "index.php" :  location.pathname.split('/')[location.pathname.split('/').length - 1]
 
