@@ -414,9 +414,28 @@ let strapi_f={
           let container=document.querySelector('._strapi_noticias')
           container.innerHTML=""
 
+          let data=res.data
+
+          
+
+
+          const parseDate = (dateString) => {
+            const [year, month, day] = dateString.split('-');
+            return new Date(year, month - 1, day);
+          };
+      
+          data.sort((a, b) => {
+            console.log(a)
+            console.log(a.attributes.data,b.attributes.data)
+            const dateA = parseDate(a.attributes.data);
+            const dateB = parseDate(b.attributes.data);
+            return dateA - dateB;
+          });
+           
+
           data=data.reverse()
  
-          let data=window.location.href.includes('noticias') ? res.data : res.data.filter((_i,i)=>i <= 3)
+          data=window.location.href.includes('noticias') ? data : data.filter((_i,i)=>i <= 3)
           if(!window.location.href.includes('noticias') && !data.length){
             container.innerHTML+=sinas_content
           }
@@ -507,13 +526,14 @@ let strapi_f={
 
      
      const parseDate = (dateString) => {
-      const [day, month, year] = dateString.split('-');
+      const [year, month, day] = dateString.split('-');
       return new Date(year, month - 1, day);
     };
 
     data.sort((a, b) => {
-      const dateA = parseDate(a.date);
-      const dateB = parseDate(b.date);
+
+      const dateA = parseDate(a.attributes.data);
+      const dateB = parseDate(b.attributes.data);
       return dateA - dateB;
     });
      
