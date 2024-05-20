@@ -501,20 +501,24 @@ let strapi_f={
       let container=document.querySelector('._strapi_documentos')
       container.innerHTML=""
 
-   
-      const parseDate = (dateString) => {
-        const [day, month, year] = dateString.split('-');
-        return new Date(year, month - 1, day);
-      };
+      
 
-      data.sort((a, b) => {
-        const dateA = parseDate(a.date);
-        const dateB = parseDate(b.date);
-        return dateA - dateB;
-      });
+     let data=res.data
 
-           
-     let data=res.data.reverse()
+     
+     const parseDate = (dateString) => {
+      const [day, month, year] = dateString.split('-');
+      return new Date(year, month - 1, day);
+    };
+
+    data.sort((a, b) => {
+      const dateA = parseDate(a.date);
+      const dateB = parseDate(b.date);
+      return dateA - dateB;
+    });
+     
+     
+     data=data.reverse()
 
      current_page=location.pathname.split('/')[location.pathname.split('/').length - 1] == "" ? "index.php" :  location.pathname.split('/')[location.pathname.split('/').length - 1]
 
